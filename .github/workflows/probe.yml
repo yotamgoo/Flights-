@@ -1,0 +1,19 @@
+name: probe
+on:
+  workflow_dispatch:
+  push:
+    branches: [claude/tlv-cmb-price-tracker-qbftrq]
+    paths: [tools/probe.py, .github/workflows/probe.yml]
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install playwright==1.65.1 && python -m playwright install --with-deps chromium
+      - run: python tools/probe.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with: {name: probe, path: probe/}
