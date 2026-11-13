@@ -99,6 +99,11 @@ def run(sites: list[Site], dates: list[date], debug_dir: Path | None = None) -> 
                 t0 = time.time()
                 try:
                     fl = _load(browser, s, d, debug_dir)
+                    if not fl:
+                        # transient "something went wrong" / slow render: one polite retry
+                        time.sleep(random.uniform(*config.DELAY_RANGE_S) + 3)
+                        res.attempts += 1
+                        fl = _load(browser, s, d, debug_dir)
                     if fl:
                         res.flights += fl
                         res.dates_ok.append(d.isoformat())
