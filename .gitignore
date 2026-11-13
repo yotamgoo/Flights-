@@ -1,0 +1,6 @@
+__pycache__/
+debug/
+report.md
+results.json
+probe.md
+.venv/

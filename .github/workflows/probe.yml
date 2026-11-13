@@ -1,9 +1,15 @@
-name: probe
+name: probe-sites
+# Manual: load every site in the brief once and print which ones return data.
 on:
   workflow_dispatch:
-  push:
-    branches: [claude/tlv-cmb-price-tracker-qbftrq]
-    paths: [tools/probe.py, .github/workflows/probe.yml]
+    inputs:
+      date:
+        description: "Departure date to test"
+        default: "2026-11-27"
+
+permissions:
+  contents: read
+
 jobs:
   probe:
     runs-on: ubuntu-latest
@@ -11,9 +17,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
-        with: {python-version: "3.12"}
-      - run: pip install playwright==1.65.1 && python -m playwright install --with-deps chromium
-      - run: python tools/probe.py
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+      - run: python -m tracker probe --date "${{ inputs.date }}"
+      - run: cat probe.md >> "$GITHUB_STEP_SUMMARY"
+        if: always()
       - uses: actions/upload-artifact@v4
         if: always()
-        with: {name: probe, path: probe/}
+        with:
+          name: probe
+          path: |
+            probe.md
+            debug/
+          if-no-files-found: ignore

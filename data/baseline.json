@@ -1,0 +1,12 @@
+{
+ "cheapest": 430,
+ "flights": {
+  "2026-11-27|06:20|20:15+0|AUH": {"date": "2026-11-27", "dep": "06:20", "duration": 625, "label": "27/11 ו׳ Etihad 06:20→20:15 (Kayak $609 / Etihad.com $634 / lastminute €569.92)", "usd": 609, "via": "AUH"},
+  "2026-11-27|05:20|02:45+1|ATH+DOH": {"date": "2026-11-27", "dep": "05:20", "duration": 1075, "label": "27/11 ו׳ Aegean + Qatar 05:20→02:45+1 (Google $553)", "usd": 553, "via": "ATH+DOH"},
+  "baseline-ita-qatar-2811": {"date": "2026-11-28", "dep": null, "duration": 1030, "label": "28/11 ש׳ ITA + Qatar via FCO+DOH 17h10 (€525.34)", "usd": 609, "via": "FCO+DOH"},
+  "baseline-bluebird-airarabia-2911": {"date": "2026-11-29", "dep": null, "duration": 940, "label": "29/11 א׳ Blue Bird + Air Arabia via ATH+SHJ 15h40, separate tickets (Kiwi $532)", "usd": 532, "via": "ATH+SHJ"}
+ },
+ "notes": "Manual baseline from 13 Nov 2026. EUR converted at 1.16. Cheapest overall $430 was Trip.com, 33h, separate tickets.",
+ "per_date": {"2026-11-27": 553, "2026-11-28": 609, "2026-11-29": 532},
+ "run_at": "2026-11-13 (baseline)"
+}

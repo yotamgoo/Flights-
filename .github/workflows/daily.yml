@@ -1,0 +1,86 @@
+name: daily-flight-prices
+
+on:
+  schedule:
+    - cron: "30 5 * * *"     # 05:30 UTC = 07:30 Israel (winter time)
+  workflow_dispatch:
+    inputs:
+      dates:
+        description: "Optional: comma-separated dates (default: 2026-11-25..2026-12-01)"
+        required: false
+      sites:
+        description: "Optional: comma-separated site ids (default: all working sites)"
+        required: false
+
+permissions:
+  contents: write    # commit data/last_run.json
+  actions: write     # disable this workflow after the trip window
+
+concurrency:
+  group: daily-flight-prices
+  cancel-in-progress: false
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    timeout-minutes: 75
+    steps:
+      - name: Stop after the trip window (2026-12-01)
+        id: window
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          today=$(date -u +%F)
+          if [[ "$today" > "2026-12-01" ]]; then
+            echo "Trip window is over ($today). Disabling this workflow."
+            gh workflow disable daily-flight-prices --repo "$GITHUB_REPOSITORY" || true
+            echo "over=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.window.outputs.over != 'true'
+
+      - uses: actions/setup-python@v5
+        if: steps.window.outputs.over != 'true'
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install Playwright + Chromium
+        if: steps.window.outputs.over != 'true'
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Scrape and report
+        if: steps.window.outputs.over != 'true'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          args=""
+          [ -n "${{ inputs.dates }}" ] && args="$args --dates ${{ inputs.dates }}"
+          [ -n "${{ inputs.sites }}" ] && args="$args --sites ${{ inputs.sites }}"
+          python -m tracker run $args
+
+      - name: Upload report
+        if: always() && steps.window.outputs.over != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: report-${{ github.run_number }}
+          path: |
+            report.md
+            results.json
+            debug/
+          if-no-files-found: ignore
+          retention-days: 30
+
+      - name: Commit today's prices for tomorrow's comparison
+        if: steps.window.outputs.over != 'true' && inputs.dates == '' && inputs.sites == ''
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/last_run.json
+          if git diff --cached --quiet; then echo "No change."; exit 0; fi
+          git commit -m "Prices $(date -u +%F)"
+          git push
