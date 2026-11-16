@@ -1,5 +1,5 @@
 {
- "cheapest": 432.1,
+ "cheapest": 442.05,
  "flights": {
   "2026-11-25|00:20|00:45+1|OTP+DXB": {
    "date": "2026-11-25",
@@ -9,109 +9,53 @@
    "usd": 1307.75,
    "via": "OTP+DXB"
   },
-  "2026-11-25|00:45|00:45+1|ADD+DXB": {
-   "date": "2026-11-25",
-   "dep": "00:45",
-   "duration": 1230,
-   "label": "25/11 ד׳ Ethiopian + flydubai 00:45→00:45+1",
-   "usd": 5057.0,
-   "via": "ADD+DXB"
-  },
-  "2026-11-25|00:50|00:01+1|AUH+BKK": {
-   "date": "2026-11-25",
-   "dep": "00:50",
-   "duration": 1181,
-   "label": "25/11 ד׳ Etihad + THAI 00:50→00:01+1",
-   "usd": 5757.0,
-   "via": "AUH+BKK"
-  },
-  "2026-11-25|00:50|02:40+1|AUH": {
-   "date": "2026-11-25",
-   "dep": "00:50",
-   "duration": 1340,
-   "label": "25/11 ד׳ Etihad 00:50→02:40+1",
-   "usd": 644.0,
-   "via": "AUH"
-  },
-  "2026-11-25|00:50|04:10+1|AUH+DEL": {
-   "date": "2026-11-25",
-   "dep": "00:50",
-   "duration": 1430,
-   "label": "25/11 ד׳ Etihad + Air India 00:50→04:10+1",
-   "usd": 4679.0,
-   "via": "AUH+DEL"
-  },
-  "2026-11-25|00:50|05:35+1|AUH+BOM": {
-   "date": "2026-11-25",
-   "dep": "00:50",
-   "duration": 1515,
-   "label": "25/11 ד׳ Etihad + SriLankan 00:50→05:35+1",
-   "usd": 5630.0,
-   "via": "AUH+BOM"
-  },
-  "2026-11-25|00:50|08:10+1|AUH": {
-   "date": "2026-11-25",
-   "dep": "00:50",
-   "duration": 1670,
-   "label": "25/11 ד׳ Etihad 00:50→08:10+1",
-   "usd": 1279.0,
-   "via": "AUH"
-  },
-  "2026-11-25|00:50|14:50+1|AUH": {
-   "date": "2026-11-25",
-   "dep": "00:50",
-   "duration": 2070,
-   "label": "25/11 ד׳ Etihad 00:50→14:50+1",
-   "usd": 4076.0,
-   "via": "AUH"
-  },
   "2026-11-25|00:50|20:15+0|AUH": {
    "date": "2026-11-25",
    "dep": "00:50",
    "duration": 955,
    "label": "25/11 ד׳ Etihad 00:50→20:15",
-   "usd": 644.0,
+   "usd": 712.82,
    "via": "AUH"
   },
-  "2026-11-25|00:50|22:50+0|AUH+MLE": {
+  "2026-11-25|01:00|00:45+2|FRA+WAW+DXB": {
    "date": "2026-11-25",
-   "dep": "00:50",
-   "duration": 1110,
-   "label": "25/11 ד׳ Etihad + SriLankan 00:50→22:50",
-   "usd": 4102.0,
-   "via": "AUH+MLE"
+   "dep": "01:00",
+   "duration": 2655,
+   "label": "25/11 ד׳ Lufthansa + Flydubai 01:00→00:45+2",
+   "usd": 871.97,
+   "via": "FRA+WAW+DXB"
   },
-  "2026-11-25|00:50|23:20+0|AUH+BOM": {
+  "2026-11-25|01:00|01:50+2|FRA+WAW+SHJ": {
    "date": "2026-11-25",
-   "dep": "00:50",
-   "duration": 1140,
-   "label": "25/11 ד׳ Etihad + SriLankan 00:50→23:20",
-   "usd": 4052.0,
-   "via": "AUH+BOM"
-  },
-  "2026-11-25|00:50|23:35+0|AUH+KUL": {
-   "date": "2026-11-25",
-   "dep": "00:50",
-   "duration": 1155,
-   "label": "25/11 ד׳ Etihad + Malaysia 00:50→23:35",
-   "usd": 4801.0,
-   "via": "AUH+KUL"
+   "dep": "01:00",
+   "duration": 2720,
+   "label": "25/11 ד׳ Lufthansa + Air Arabia 01:00→01:50+2",
+   "usd": 656.46,
+   "via": "FRA+WAW+SHJ"
   },
   "2026-11-25|01:00|04:30+1|FRA+WAW+SHJ": {
    "date": "2026-11-25",
    "dep": "01:00",
    "duration": 1440,
    "label": "25/11 ד׳ Lufthansa + Air Arabia 01:00→04:30+1",
-   "usd": 741.59,
+   "usd": 685.19,
    "via": "FRA+WAW+SHJ"
   },
-  "2026-11-25|01:00|05:45+1|ATH+FRA": {
+  "2026-11-25|01:00|13:45+1|FRA+WAW+SHJ": {
    "date": "2026-11-25",
    "dep": "01:00",
-   "duration": 1515,
-   "label": "25/11 ד׳ Lufthansa + SriLankan 01:00→05:45+1",
-   "usd": 2066.0,
-   "via": "ATH+FRA"
+   "duration": 1995,
+   "label": "25/11 ד׳ Lufthansa + Air Arabia 01:00→13:45+1",
+   "usd": 673.03,
+   "via": "FRA+WAW+SHJ"
+  },
+  "2026-11-25|01:00|16:20+1|FRA+WAW+DXB": {
+   "date": "2026-11-25",
+   "dep": "01:00",
+   "duration": 2150,
+   "label": "25/11 ד׳ Lufthansa + Flydubai 01:00→16:20+1",
+   "usd": 792.4,
+   "via": "FRA+WAW+DXB"
   },
   "2026-11-25|01:10|00:45+2|MUC+WAW+DXB": {
    "date": "2026-11-25",
@@ -121,52 +65,20 @@
    "usd": 922.81,
    "via": "MUC+WAW+DXB"
   },
-  "2026-11-25|01:10|01:50+2|MUC+VIE+SHJ": {
-   "date": "2026-11-25",
-   "dep": "01:10",
-   "duration": 2710,
-   "label": "25/11 ד׳ Lufthansa + Air Arabia 01:10→01:50+2",
-   "usd": 573.57,
-   "via": "MUC+VIE+SHJ"
-  },
   "2026-11-25|01:10|01:50+2|MUC+WAW+SHJ": {
    "date": "2026-11-25",
    "dep": "01:10",
    "duration": 2710,
    "label": "25/11 ד׳ Lufthansa + Air Arabia 01:10→01:50+2",
-   "usd": 711.72,
+   "usd": 713.93,
    "via": "MUC+WAW+SHJ"
-  },
-  "2026-11-25|01:10|02:40+1|MUC+VIE+AUH": {
-   "date": "2026-11-25",
-   "dep": "01:10",
-   "duration": 1320,
-   "label": "25/11 ד׳ Lufthansa + Etihad 01:10→02:40+1",
-   "usd": 737.14,
-   "via": "MUC+VIE+AUH"
-  },
-  "2026-11-25|01:10|08:00+1|MUC+WAW+ZRH": {
-   "date": "2026-11-25",
-   "dep": "01:10",
-   "duration": 1640,
-   "label": "25/11 ד׳ Lufthansa + Swiss International 01:10→08:00+1",
-   "usd": 949.33,
-   "via": "MUC+WAW+ZRH"
-  },
-  "2026-11-25|01:10|13:45+1|MUC+VIE+SHJ": {
-   "date": "2026-11-25",
-   "dep": "01:10",
-   "duration": 1985,
-   "label": "25/11 ד׳ Lufthansa + Air Arabia 01:10→13:45+1",
-   "usd": 576.88,
-   "via": "MUC+VIE+SHJ"
   },
   "2026-11-25|01:10|13:45+1|MUC+WAW+SHJ": {
    "date": "2026-11-25",
    "dep": "01:10",
    "duration": 1985,
    "label": "25/11 ד׳ Lufthansa + Air Arabia 01:10→13:45+1",
-   "usd": 717.24,
+   "usd": 732.71,
    "via": "MUC+WAW+SHJ"
   },
   "2026-11-25|01:10|16:20+1|MUC+WAW+DXB": {
@@ -190,23 +102,15 @@
    "dep": "05:20",
    "duration": 2395,
    "label": "25/11 ד׳ Swiss International + Flydubai 05:20→00:45+2",
-   "usd": 829.97,
+   "usd": 833.29,
    "via": "ZRH+WAW+DXB"
-  },
-  "2026-11-25|05:20|01:50+2|ZRH+VIE+SHJ": {
-   "date": "2026-11-25",
-   "dep": "05:20",
-   "duration": 2460,
-   "label": "25/11 ד׳ Swiss International + Air Arabia 05:20→01:50+2",
-   "usd": 519.41,
-   "via": "ZRH+VIE+SHJ"
   },
   "2026-11-25|05:20|01:50+2|ZRH+WAW+SHJ": {
    "date": "2026-11-25",
    "dep": "05:20",
    "duration": 2460,
    "label": "25/11 ד׳ Swiss International + Air Arabia 05:20→01:50+2",
-   "usd": 604.51,
+   "usd": 612.25,
    "via": "ZRH+WAW+SHJ"
   },
   "2026-11-25|05:20|02:45+1|ATH+DOH": {
@@ -214,40 +118,32 @@
    "dep": "05:20",
    "duration": 1075,
    "label": "25/11 ד׳ Aegean + Qatar 05:20→02:45+1",
-   "usd": 986.0,
+   "usd": 1636.77,
    "via": "ATH+DOH"
+  },
+  "2026-11-25|05:20|04:30+1|ATH+SHJ": {
+   "date": "2026-11-25",
+   "dep": "05:20",
+   "duration": 1180,
+   "label": "25/11 ד׳ Aegean + Air Arabia 05:20→04:30+1",
+   "usd": 792.4,
+   "via": "ATH+SHJ"
   },
   "2026-11-25|05:20|04:30+1|WAW+SHJ": {
    "date": "2026-11-25",
    "dep": "05:20",
    "duration": 1180,
    "label": "25/11 ד׳ Lot Polish + Air Arabia 05:20→04:30+1",
-   "usd": 659.77,
+   "usd": 660.88,
    "via": "WAW+SHJ"
   },
-  "2026-11-25|05:20|05:50+1|ATH+DOH": {
+  "2026-11-25|05:20|08:10+1|ATH+BOM": {
    "date": "2026-11-25",
    "dep": "05:20",
-   "duration": 1260,
-   "label": "25/11 ד׳ Aegean + Qatar + SriLankan 05:20→05:50+1",
-   "usd": 1174.0,
-   "via": "ATH+DOH"
-  },
-  "2026-11-25|05:20|08:00+1|LCA+ZRH": {
-   "date": "2026-11-25",
-   "dep": "05:20",
-   "duration": 1390,
-   "label": "25/11 ד׳ SWISS + Edelweiss Air 05:20→08:00+1",
-   "usd": 1125.0,
-   "via": "LCA+ZRH"
-  },
-  "2026-11-25|05:20|08:00+1|WAW+ZRH": {
-   "date": "2026-11-25",
-   "dep": "05:20",
-   "duration": 1390,
-   "label": "25/11 ד׳ Lot Polish + Swiss International 05:20→08:00+1",
-   "usd": 879.71,
-   "via": "WAW+ZRH"
+   "duration": 1400,
+   "label": "25/11 ד׳ Aegean + IndiGo 05:20→08:10+1",
+   "usd": 854.29,
+   "via": "ATH+BOM"
   },
   "2026-11-25|05:20|08:20+1|ATH+DXB": {
    "date": "2026-11-25",
@@ -265,28 +161,20 @@
    "usd": 1154.44,
    "via": "ZRH"
   },
-  "2026-11-25|05:20|08:45+1|ATH+DOH": {
-   "date": "2026-11-25",
-   "dep": "05:20",
-   "duration": 1435,
-   "label": "25/11 ד׳ Aegean + Qatar 05:20→08:45+1",
-   "usd": 986.0,
-   "via": "ATH+DOH"
-  },
-  "2026-11-25|05:20|13:45+1|ZRH+VIE+SHJ": {
+  "2026-11-25|05:20|13:45+1|ATH+SHJ": {
    "date": "2026-11-25",
    "dep": "05:20",
    "duration": 1735,
-   "label": "25/11 ד׳ Swiss International + Air Arabia 05:20→13:45+1",
-   "usd": 524.94,
-   "via": "ZRH+VIE+SHJ"
+   "label": "25/11 ד׳ Aegean + Air Arabia 05:20→13:45+1",
+   "usd": 782.45,
+   "via": "ATH+SHJ"
   },
   "2026-11-25|05:20|13:45+1|ZRH+WAW+SHJ": {
    "date": "2026-11-25",
    "dep": "05:20",
    "duration": 1735,
    "label": "25/11 ד׳ Swiss International + Air Arabia 05:20→13:45+1",
-   "usd": 610.04,
+   "usd": 633.25,
    "via": "ZRH+WAW+SHJ"
   },
   "2026-11-25|05:20|16:20+1|ZRH+WAW+DXB": {
@@ -294,152 +182,32 @@
    "dep": "05:20",
    "duration": 1890,
    "label": "25/11 ד׳ Swiss International + Flydubai 05:20→16:20+1",
-   "usd": 745.98,
+   "usd": 752.61,
    "via": "ZRH+WAW+DXB"
-  },
-  "2026-11-25|05:20|16:30+1|ATH+DOH": {
-   "date": "2026-11-25",
-   "dep": "05:20",
-   "duration": 1900,
-   "label": "25/11 ד׳ Aegean + Qatar 05:20→16:30+1",
-   "usd": 988.0,
-   "via": "ATH+DOH"
-  },
-  "2026-11-25|05:35|08:10+1|CDG+BOM": {
-   "date": "2026-11-25",
-   "dep": "05:35",
-   "duration": 1385,
-   "label": "25/11 ד׳ El Al + Air France + IndiGo 05:35→08:10+1",
-   "usd": 2328.0,
-   "via": "CDG+BOM"
-  },
-  "2026-11-25|05:40|01:50+2|FRA+VIE+SHJ": {
-   "date": "2026-11-25",
-   "dep": "05:40",
-   "duration": 2440,
-   "label": "25/11 ד׳ Condor + Air Arabia 05:40→01:50+2",
-   "usd": 585.72,
-   "via": "FRA+VIE+SHJ"
-  },
-  "2026-11-25|05:40|13:45+1|FRA+VIE+SHJ": {
-   "date": "2026-11-25",
-   "dep": "05:40",
-   "duration": 1715,
-   "label": "25/11 ד׳ Condor + Air Arabia 05:40→13:45+1",
-   "usd": 591.25,
-   "via": "FRA+VIE+SHJ"
-  },
-  "2026-11-25|05:55|00:45+2|VIE+WAW+DXB": {
-   "date": "2026-11-25",
-   "dep": "05:55",
-   "duration": 2360,
-   "label": "25/11 ד׳ Austrian + Flydubai 05:55→00:45+2",
-   "usd": 926.12,
-   "via": "VIE+WAW+DXB"
-  },
-  "2026-11-25|05:55|01:50+2|VIE+SHJ": {
-   "date": "2026-11-25",
-   "dep": "05:55",
-   "duration": 2425,
-   "label": "25/11 ד׳ Austrian + Air Arabia 05:55→01:50+2",
-   "usd": 611.14,
-   "via": "VIE+SHJ"
   },
   "2026-11-25|05:55|01:50+2|VIE+WAW+SHJ": {
    "date": "2026-11-25",
    "dep": "05:55",
    "duration": 2425,
    "label": "25/11 ד׳ Austrian + Air Arabia 05:55→01:50+2",
-   "usd": 715.03,
+   "usd": 820.03,
    "via": "VIE+WAW+SHJ"
-  },
-  "2026-11-25|05:55|02:40+1|VIE+AUH": {
-   "date": "2026-11-25",
-   "dep": "05:55",
-   "duration": 1035,
-   "label": "25/11 ד׳ Austrian + Etihad 05:55→02:40+1",
-   "usd": 775.82,
-   "via": "VIE+AUH"
-  },
-  "2026-11-25|05:55|13:45+1|VIE+SHJ": {
-   "date": "2026-11-25",
-   "dep": "05:55",
-   "duration": 1700,
-   "label": "25/11 ד׳ Austrian + Air Arabia 05:55→13:45+1",
-   "usd": 616.67,
-   "via": "VIE+SHJ"
   },
   "2026-11-25|05:55|13:45+1|VIE+WAW+SHJ": {
    "date": "2026-11-25",
    "dep": "05:55",
    "duration": 1700,
    "label": "25/11 ד׳ Austrian + Air Arabia 05:55→13:45+1",
-   "usd": 720.56,
+   "usd": 838.81,
    "via": "VIE+WAW+SHJ"
-  },
-  "2026-11-25|05:55|16:20+1|VIE+WAW+DXB": {
-   "date": "2026-11-25",
-   "dep": "05:55",
-   "duration": 1855,
-   "label": "25/11 ד׳ Austrian + Flydubai 05:55→16:20+1",
-   "usd": 846.55,
-   "via": "VIE+WAW+DXB"
-  },
-  "2026-11-25|06:20|02:40+1|AUH": {
-   "date": "2026-11-25",
-   "dep": "06:20",
-   "duration": 1010,
-   "label": "25/11 ד׳ Etihad 06:20→02:40+1",
-   "usd": 634.0,
-   "via": "AUH"
-  },
-  "2026-11-25|06:20|04:10+1|AUH+DEL": {
-   "date": "2026-11-25",
-   "dep": "06:20",
-   "duration": 1100,
-   "label": "25/11 ד׳ Etihad + Air India 06:20→04:10+1",
-   "usd": 4679.0,
-   "via": "AUH+DEL"
-  },
-  "2026-11-25|06:20|05:35+1|AUH+BOM": {
-   "date": "2026-11-25",
-   "dep": "06:20",
-   "duration": 1185,
-   "label": "25/11 ד׳ Etihad + SriLankan 06:20→05:35+1",
-   "usd": 5630.0,
-   "via": "AUH+BOM"
-  },
-  "2026-11-25|06:20|08:10+1|AUH": {
-   "date": "2026-11-25",
-   "dep": "06:20",
-   "duration": 1340,
-   "label": "25/11 ד׳ Etihad 06:20→08:10+1",
-   "usd": 1269.0,
-   "via": "AUH"
-  },
-  "2026-11-25|06:20|14:50+1|AUH": {
-   "date": "2026-11-25",
-   "dep": "06:20",
-   "duration": 1740,
-   "label": "25/11 ד׳ Etihad 06:20→14:50+1",
-   "usd": 811.0,
-   "via": "AUH"
   },
   "2026-11-25|06:20|20:15+0|AUH": {
    "date": "2026-11-25",
    "dep": "06:20",
    "duration": 625,
    "label": "25/11 ד׳ Etihad 06:20→20:15",
-   "usd": 634.0,
+   "usd": 702.87,
    "via": "AUH"
-  },
-  "2026-11-25|06:20|23:20+0|AUH+BOM": {
-   "date": "2026-11-25",
-   "dep": "06:20",
-   "duration": 810,
-   "label": "25/11 ד׳ Etihad + SriLankan 06:20→23:20",
-   "usd": 4052.0,
-   "via": "AUH+BOM"
   },
   "2026-11-25|06:30|01:50+2|ATH+SHJ": {
    "date": "2026-11-25",
@@ -457,6 +225,30 @@
    "usd": 752.57,
    "via": "ATH+DOH"
   },
+  "2026-11-25|06:40|04:30+1|ATH+SHJ": {
+   "date": "2026-11-25",
+   "dep": "06:40",
+   "duration": 1100,
+   "label": "25/11 ד׳ El Al Israel + Air Arabia 06:40→04:30+1",
+   "usd": 817.81,
+   "via": "ATH+SHJ"
+  },
+  "2026-11-25|06:40|08:10+1|ATH+BOM": {
+   "date": "2026-11-25",
+   "dep": "06:40",
+   "duration": 1320,
+   "label": "25/11 ד׳ El Al Israel + IndiGo 06:40→08:10+1",
+   "usd": 879.71,
+   "via": "ATH+BOM"
+  },
+  "2026-11-25|06:40|13:45+1|ATH+SHJ": {
+   "date": "2026-11-25",
+   "dep": "06:40",
+   "duration": 1655,
+   "label": "25/11 ד׳ El Al Israel + Air Arabia 06:40→13:45+1",
+   "usd": 807.87,
+   "via": "ATH+SHJ"
+  },
   "2026-11-25|06:55|19:00+0|AUH+PVG": {
    "date": "2026-11-25",
    "dep": "06:55",
@@ -464,38 +256,6 @@
    "label": "25/11 ד׳ China Eastern 06:55→19:00",
    "usd": 1759.51,
    "via": "AUH+PVG"
-  },
-  "2026-11-25|07:00|02:40+1|AUH": {
-   "date": "2026-11-25",
-   "dep": "07:00",
-   "duration": 970,
-   "label": "25/11 ד׳ Etihad 07:00→02:40+1",
-   "usd": 821.0,
-   "via": "AUH"
-  },
-  "2026-11-25|07:00|04:10+1|AUH+DEL": {
-   "date": "2026-11-25",
-   "dep": "07:00",
-   "duration": 1060,
-   "label": "25/11 ד׳ Etihad + Air India 07:00→04:10+1",
-   "usd": 4679.0,
-   "via": "AUH+DEL"
-  },
-  "2026-11-25|07:00|05:35+1|AUH+BOM": {
-   "date": "2026-11-25",
-   "dep": "07:00",
-   "duration": 1145,
-   "label": "25/11 ד׳ Etihad + SriLankan 07:00→05:35+1",
-   "usd": 5630.0,
-   "via": "AUH+BOM"
-  },
-  "2026-11-25|07:00|08:10+1|AUH": {
-   "date": "2026-11-25",
-   "dep": "07:00",
-   "duration": 1300,
-   "label": "25/11 ד׳ Etihad 07:00→08:10+1",
-   "usd": 1279.0,
-   "via": "AUH"
   },
   "2026-11-25|07:00|08:15+1|OTP+DXB": {
    "date": "2026-11-25",
@@ -505,29 +265,13 @@
    "usd": 1625.32,
    "via": "OTP+DXB"
   },
-  "2026-11-25|07:00|14:50+1|AUH": {
-   "date": "2026-11-25",
-   "dep": "07:00",
-   "duration": 1700,
-   "label": "25/11 ד׳ Etihad 07:00→14:50+1",
-   "usd": 821.0,
-   "via": "AUH"
-  },
   "2026-11-25|07:00|20:15+0|AUH": {
    "date": "2026-11-25",
    "dep": "07:00",
    "duration": 585,
    "label": "25/11 ד׳ Etihad 07:00→20:15",
-   "usd": 821.0,
+   "usd": 889.65,
    "via": "AUH"
-  },
-  "2026-11-25|07:00|23:20+0|AUH+BOM": {
-   "date": "2026-11-25",
-   "dep": "07:00",
-   "duration": 770,
-   "label": "25/11 ד׳ Etihad + SriLankan 07:00→23:20",
-   "usd": 4052.0,
-   "via": "AUH+BOM"
   },
   "2026-11-25|07:05|08:00+1|FRA+ZRH": {
    "date": "2026-11-25",
@@ -536,6 +280,30 @@
    "label": "25/11 ד׳ Lufthansa 07:05→08:00+1",
    "usd": 1758.27,
    "via": "FRA+ZRH"
+  },
+  "2026-11-25|08:20|04:30+1|ATH+SHJ": {
+   "date": "2026-11-25",
+   "dep": "08:20",
+   "duration": 1000,
+   "label": "25/11 ד׳ Blue Bird + Air Arabia 08:20→04:30+1",
+   "usd": 716.14,
+   "via": "ATH+SHJ"
+  },
+  "2026-11-25|08:20|08:10+1|ATH+BOM": {
+   "date": "2026-11-25",
+   "dep": "08:20",
+   "duration": 1220,
+   "label": "25/11 ד׳ Blue Bird + IndiGo 08:20→08:10+1",
+   "usd": 778.03,
+   "via": "ATH+BOM"
+  },
+  "2026-11-25|08:20|13:45+1|ATH+SHJ": {
+   "date": "2026-11-25",
+   "dep": "08:20",
+   "duration": 1555,
+   "label": "25/11 ד׳ Blue Bird + Air Arabia 08:20→13:45+1",
+   "usd": 706.19,
+   "via": "ATH+SHJ"
   },
   "2026-11-25|10:35|04:30+0|TBS+SHJ": {
    "date": "2026-11-25",
@@ -553,44 +321,12 @@
    "usd": 1307.75,
    "via": "WAW+DXB"
   },
-  "2026-11-25|10:45|01:50+2|WAW+VIE+SHJ": {
-   "date": "2026-11-25",
-   "dep": "10:45",
-   "duration": 2135,
-   "label": "25/11 ד׳ Lot Polish + Air Arabia 10:45→01:50+2",
-   "usd": 612.25,
-   "via": "WAW+VIE+SHJ"
-  },
-  "2026-11-25|10:45|04:30+2|WAW+VIE+SHJ": {
-   "date": "2026-11-25",
-   "dep": "10:45",
-   "duration": 2295,
-   "label": "25/11 ד׳ Lot Polish + Air Arabia 10:45→04:30+2",
-   "usd": 616.67,
-   "via": "WAW+VIE+SHJ"
-  },
-  "2026-11-25|10:45|13:45+1|WAW+VIE+SHJ": {
-   "date": "2026-11-25",
-   "dep": "10:45",
-   "duration": 1410,
-   "label": "25/11 ד׳ Lot Polish + Air Arabia 10:45→13:45+1",
-   "usd": 616.67,
-   "via": "WAW+VIE+SHJ"
-  },
-  "2026-11-25|10:45|13:45+2|WAW+VIE+SHJ": {
-   "date": "2026-11-25",
-   "dep": "10:45",
-   "duration": 2850,
-   "label": "25/11 ד׳ Lot Polish + Air Arabia 10:45→13:45+2",
-   "usd": 654.25,
-   "via": "WAW+VIE+SHJ"
-  },
   "2026-11-25|11:55|00:45+2|WAW+DXB": {
    "date": "2026-11-25",
    "dep": "11:55",
    "duration": 2000,
    "label": "25/11 ד׳ Wizz Air + Flydubai 11:55→00:45+2",
-   "usd": 740.45,
+   "usd": 761.45,
    "via": "WAW+DXB"
   },
   "2026-11-25|11:55|01:50+2|WAW+SHJ": {
@@ -598,7 +334,7 @@
    "dep": "11:55",
    "duration": 2065,
    "label": "25/11 ד׳ Wizz Air + Air Arabia 11:55→01:50+2",
-   "usd": 501.73,
+   "usd": 529.36,
    "via": "WAW+SHJ"
   },
   "2026-11-25|11:55|13:45+1|WAW+SHJ": {
@@ -606,7 +342,7 @@
    "dep": "11:55",
    "duration": 1340,
    "label": "25/11 ד׳ Wizz Air + Air Arabia 11:55→13:45+1",
-   "usd": 506.15,
+   "usd": 551.46,
    "via": "WAW+SHJ"
   },
   "2026-11-25|11:55|16:20+1|WAW+DXB": {
@@ -614,8 +350,16 @@
    "dep": "11:55",
    "duration": 1495,
    "label": "25/11 ד׳ Wizz Air + Flydubai 11:55→16:20+1",
-   "usd": 650.93,
+   "usd": 679.66,
    "via": "WAW+DXB"
+  },
+  "2026-11-25|12:40|20:15+1|ATH+AUH": {
+   "date": "2026-11-25",
+   "dep": "12:40",
+   "duration": 1685,
+   "label": "25/11 ד׳ Israir + Etihad 12:40→20:15+1",
+   "usd": 848.76,
+   "via": "ATH+AUH"
   },
   "2026-11-25|13:30|00:45+2|GYD+DXB": {
    "date": "2026-11-25",
@@ -625,132 +369,12 @@
    "usd": 2419.01,
    "via": "GYD+DXB"
   },
-  "2026-11-25|13:30|02:40+1|AUH": {
-   "date": "2026-11-25",
-   "dep": "13:30",
-   "duration": 580,
-   "label": "25/11 ד׳ Etihad 13:30→02:40+1",
-   "usd": 649.0,
-   "via": "AUH"
-  },
-  "2026-11-25|13:30|02:40+2|AUH": {
-   "date": "2026-11-25",
-   "dep": "13:30",
-   "duration": 2020,
-   "label": "25/11 ד׳ Etihad 13:30→02:40+2",
-   "usd": 4076.0,
-   "via": "AUH"
-  },
-  "2026-11-25|13:30|08:10+1|AUH": {
-   "date": "2026-11-25",
-   "dep": "13:30",
-   "duration": 910,
-   "label": "25/11 ד׳ Etihad 13:30→08:10+1",
-   "usd": 1284.0,
-   "via": "AUH"
-  },
-  "2026-11-25|13:30|14:50+1|AUH": {
-   "date": "2026-11-25",
-   "dep": "13:30",
-   "duration": 1310,
-   "label": "25/11 ד׳ Etihad 13:30→14:50+1",
-   "usd": 826.0,
-   "via": "AUH"
-  },
-  "2026-11-25|13:30|15:15+1|AUH+BOM": {
-   "date": "2026-11-25",
-   "dep": "13:30",
-   "duration": 1335,
-   "label": "25/11 ד׳ Etihad + Air India 13:30→15:15+1",
-   "usd": 4254.0,
-   "via": "AUH+BOM"
-  },
-  "2026-11-25|13:30|16:05+1|AUH+DEL": {
-   "date": "2026-11-25",
-   "dep": "13:30",
-   "duration": 1385,
-   "label": "25/11 ד׳ Etihad + Air India 13:30→16:05+1",
-   "usd": 4679.0,
-   "via": "AUH+DEL"
-  },
-  "2026-11-25|13:30|17:30+1|AUH+MLE": {
-   "date": "2026-11-25",
-   "dep": "13:30",
-   "duration": 1470,
-   "label": "25/11 ד׳ Etihad + SriLankan 13:30→17:30+1",
-   "usd": 4102.0,
-   "via": "AUH+MLE"
-  },
-  "2026-11-25|13:30|20:15+1|AUH": {
-   "date": "2026-11-25",
-   "dep": "13:30",
-   "duration": 1635,
-   "label": "25/11 ד׳ Etihad 13:30→20:15+1",
-   "usd": 1094.0,
-   "via": "AUH"
-  },
   "2026-11-25|13:50|02:40+1|AUH": {
    "date": "2026-11-25",
    "dep": "13:50",
    "duration": 560,
    "label": "25/11 ד׳ Etihad 13:50→02:40+1",
-   "usd": 659.0,
-   "via": "AUH"
-  },
-  "2026-11-25|13:50|02:40+2|AUH": {
-   "date": "2026-11-25",
-   "dep": "13:50",
-   "duration": 2000,
-   "label": "25/11 ד׳ Etihad 13:50→02:40+2",
-   "usd": 4076.0,
-   "via": "AUH"
-  },
-  "2026-11-25|13:50|08:10+1|AUH": {
-   "date": "2026-11-25",
-   "dep": "13:50",
-   "duration": 890,
-   "label": "25/11 ד׳ Etihad 13:50→08:10+1",
-   "usd": 1294.0,
-   "via": "AUH"
-  },
-  "2026-11-25|13:50|14:50+1|AUH": {
-   "date": "2026-11-25",
-   "dep": "13:50",
-   "duration": 1290,
-   "label": "25/11 ד׳ Etihad 13:50→14:50+1",
-   "usd": 836.0,
-   "via": "AUH"
-  },
-  "2026-11-25|13:50|15:15+1|AUH+BOM": {
-   "date": "2026-11-25",
-   "dep": "13:50",
-   "duration": 1315,
-   "label": "25/11 ד׳ Etihad + Air India 13:50→15:15+1",
-   "usd": 4254.0,
-   "via": "AUH+BOM"
-  },
-  "2026-11-25|13:50|16:05+1|AUH+DEL": {
-   "date": "2026-11-25",
-   "dep": "13:50",
-   "duration": 1365,
-   "label": "25/11 ד׳ Etihad + Air India 13:50→16:05+1",
-   "usd": 4679.0,
-   "via": "AUH+DEL"
-  },
-  "2026-11-25|13:50|17:30+1|AUH+MLE": {
-   "date": "2026-11-25",
-   "dep": "13:50",
-   "duration": 1450,
-   "label": "25/11 ד׳ Etihad + SriLankan 13:50→17:30+1",
-   "usd": 4102.0,
-   "via": "AUH+MLE"
-  },
-  "2026-11-25|13:50|20:15+1|AUH": {
-   "date": "2026-11-25",
-   "dep": "13:50",
-   "duration": 1615,
-   "label": "25/11 ד׳ Etihad 13:50→20:15+1",
-   "usd": 1104.0,
+   "usd": 728.29,
    "via": "AUH"
   },
   "2026-11-25|14:00|08:10+1|AUH": {
@@ -777,85 +401,21 @@
    "usd": 638.44,
    "via": "ATH+SHJ"
   },
-  "2026-11-25|14:40|17:15+1|ADD+MAA": {
+  "2026-11-25|14:30|20:15+1|ATH+AUH": {
    "date": "2026-11-25",
-   "dep": "14:40",
-   "duration": 1385,
-   "label": "25/11 ד׳ Ethiopian + SriLankan 14:40→17:15+1",
-   "usd": 2990.0,
-   "via": "ADD+MAA"
+   "dep": "14:30",
+   "duration": 1575,
+   "label": "25/11 ד׳ Blue Bird + Etihad 14:30→20:15+1",
+   "usd": 732.71,
+   "via": "ATH+AUH"
   },
-  "2026-11-25|15:40|01:50+2|VIE+SHJ": {
+  "2026-11-25|15:30|20:15+1|ATH+AUH": {
    "date": "2026-11-25",
-   "dep": "15:40",
-   "duration": 1840,
-   "label": "25/11 ד׳ Austrian + Air Arabia 15:40→01:50+2",
-   "usd": 711.72,
-   "via": "VIE+SHJ"
-  },
-  "2026-11-25|15:40|13:45+1|VIE+SHJ": {
-   "date": "2026-11-25",
-   "dep": "15:40",
-   "duration": 1115,
-   "label": "25/11 ד׳ Austrian + Air Arabia 15:40→13:45+1",
-   "usd": 716.17,
-   "via": "VIE+SHJ"
-  },
-  "2026-11-25|15:40|17:30+1|VIE+MLE": {
-   "date": "2026-11-25",
-   "dep": "15:40",
-   "duration": 1340,
-   "label": "25/11 ד׳ Austrian + SriLankan 15:40→17:30+1",
-   "usd": 1212.0,
-   "via": "VIE+MLE"
-  },
-  "2026-11-25|15:40|22:50+1|VIE+MLE": {
-   "date": "2026-11-25",
-   "dep": "15:40",
-   "duration": 1660,
-   "label": "25/11 ד׳ Austrian + SriLankan 15:40→22:50+1",
-   "usd": 1212.0,
-   "via": "VIE+MLE"
-  },
-  "2026-11-25|16:05|01:55+2|LCA+DOH": {
-   "date": "2026-11-25",
-   "dep": "16:05",
-   "duration": 1820,
-   "label": "25/11 ד׳ Cyprus + Qatar 16:05→01:55+2",
-   "usd": 714.0,
-   "via": "LCA+DOH"
-  },
-  "2026-11-25|16:05|02:45+2|LCA+DOH": {
-   "date": "2026-11-25",
-   "dep": "16:05",
-   "duration": 1870,
-   "label": "25/11 ד׳ Cyprus + Qatar 16:05→02:45+2",
-   "usd": 714.0,
-   "via": "LCA+DOH"
-  },
-  "2026-11-25|16:05|05:50+2|LCA+DOH": {
-   "date": "2026-11-25",
-   "dep": "16:05",
-   "duration": 2055,
-   "label": "25/11 ד׳ Cyprus + Qatar + SriLankan 16:05→05:50+2",
-   "usd": 1426.0,
-   "via": "LCA+DOH"
-  },
-  "2026-11-25|16:05|08:45+2|LCA+DOH": {
-   "date": "2026-11-25",
-   "dep": "16:05",
-   "duration": 2230,
-   "label": "25/11 ד׳ Cyprus + Qatar 16:05→08:45+2",
-   "usd": 714.0,
-   "via": "LCA+DOH"
-  },
-  "2026-11-25|16:35|04:30+2|FRA+VIE+SHJ": {
-   "date": "2026-11-25",
-   "dep": "16:35",
-   "duration": 1945,
-   "label": "25/11 ד׳ Lufthansa + Air Arabia 16:35→04:30+2",
-   "usd": 626.62,
-   "via": "FRA+VIE+SHJ"
+   "dep": "15:30",
+   "duration": 1515,
+   "label": "25/11 ד׳ Israir + Etihad 15:30→20:15+1",
+   "usd": 738.24,
+   "via": "ATH+AUH"
   },
   "2026-11-25|16:35|08:00+1|FRA+ZRH": {
    "date": "2026-11-25",
@@ -865,93 +425,21 @@
    "usd": 1758.27,
    "via": "FRA+ZRH"
   },
-  "2026-11-25|16:35|13:45+2|FRA+VIE+SHJ": {
+  "2026-11-25|17:20|20:15+1|ATH+AUH": {
    "date": "2026-11-25",
-   "dep": "16:35",
-   "duration": 2500,
-   "label": "25/11 ד׳ Lufthansa + Air Arabia 16:35→13:45+2",
-   "usd": 664.19,
-   "via": "FRA+VIE+SHJ"
-  },
-  "2026-11-25|17:10|04:30+2|MUC+VIE+SHJ": {
-   "date": "2026-11-25",
-   "dep": "17:10",
-   "duration": 1910,
-   "label": "25/11 ד׳ Lufthansa + Air Arabia 17:10→04:30+2",
-   "usd": 637.67,
-   "via": "MUC+VIE+SHJ"
-  },
-  "2026-11-25|17:10|13:45+2|MUC+VIE+SHJ": {
-   "date": "2026-11-25",
-   "dep": "17:10",
-   "duration": 2465,
-   "label": "25/11 ד׳ Lufthansa + Air Arabia 17:10→13:45+2",
-   "usd": 676.35,
-   "via": "MUC+VIE+SHJ"
-  },
-  "2026-11-25|17:10|15:55+1|MUC+DXB": {
-   "date": "2026-11-25",
-   "dep": "17:10",
-   "duration": 1155,
-   "label": "25/11 ד׳ Lufthansa + Emirates 17:10→15:55+1",
-   "usd": 4501.0,
-   "via": "MUC+DXB"
-  },
-  "2026-11-25|19:05|02:40+2|AUH": {
-   "date": "2026-11-25",
-   "dep": "19:05",
-   "duration": 1685,
-   "label": "25/11 ד׳ Etihad 19:05→02:40+2",
-   "usd": 1274.0,
-   "via": "AUH"
-  },
-  "2026-11-25|19:05|08:10+1|AUH": {
-   "date": "2026-11-25",
-   "dep": "19:05",
-   "duration": 575,
-   "label": "25/11 ד׳ Etihad 19:05→08:10+1",
-   "usd": 1274.0,
-   "via": "AUH"
-  },
-  "2026-11-25|19:05|14:50+1|AUH": {
-   "date": "2026-11-25",
-   "dep": "19:05",
-   "duration": 975,
-   "label": "25/11 ד׳ Etihad 19:05→14:50+1",
-   "usd": 1274.0,
-   "via": "AUH"
+   "dep": "17:20",
+   "duration": 1405,
+   "label": "25/11 ד׳ Arkia + Etihad 17:20→20:15+1",
+   "usd": 862.02,
+   "via": "ATH+AUH"
   },
   "2026-11-25|19:05|15:15+1|AUH+BOM": {
    "date": "2026-11-25",
    "dep": "19:05",
    "duration": 1000,
    "label": "25/11 ד׳ Etihad + Air India 19:05→15:15+1",
-   "usd": 4254.0,
+   "usd": 4305.83,
    "via": "AUH+BOM"
-  },
-  "2026-11-25|19:05|16:05+1|AUH+DEL": {
-   "date": "2026-11-25",
-   "dep": "19:05",
-   "duration": 1050,
-   "label": "25/11 ד׳ Etihad + Air India 19:05→16:05+1",
-   "usd": 4679.0,
-   "via": "AUH+DEL"
-  },
-  "2026-11-25|19:05|20:15+1|AUH": {
-   "date": "2026-11-25",
-   "dep": "19:05",
-   "duration": 1300,
-   "label": "25/11 ד׳ Etihad 19:05→20:15+1",
-   "usd": 1274.0,
-   "via": "AUH"
-  },
-  "2026-11-25|19:05|22:50+1|AUH+MLE": {
-   "date": "2026-11-25",
-   "dep": "19:05",
-   "duration": 1455,
-   "label": "25/11 ד׳ Etihad + SriLankan 19:05→22:50+1",
-   "usd": 4102.0,
-   "via": "AUH+MLE"
   },
   "2026-11-25|19:10|02:45+2|ATH+DOH": {
    "date": "2026-11-25",
@@ -961,21 +449,29 @@
    "usd": 752.09,
    "via": "ATH+DOH"
   },
-  "2026-11-25|19:10|05:50+2|ATH+DOH": {
+  "2026-11-25|19:10|04:30+2|ATH+SHJ": {
    "date": "2026-11-25",
    "dep": "19:10",
-   "duration": 1870,
-   "label": "25/11 ד׳ Aegean + Qatar + SriLankan 19:10→05:50+2",
-   "usd": 1174.0,
-   "via": "ATH+DOH"
+   "duration": 1790,
+   "label": "25/11 ד׳ Aegean + Air Arabia 19:10→04:30+2",
+   "usd": 614.46,
+   "via": "ATH+SHJ"
   },
-  "2026-11-25|19:10|08:45+2|ATH+DOH": {
+  "2026-11-25|19:10|13:45+2|ATH+SHJ": {
    "date": "2026-11-25",
    "dep": "19:10",
-   "duration": 2045,
-   "label": "25/11 ד׳ Aegean + Qatar 19:10→08:45+2",
-   "usd": 986.0,
-   "via": "ATH+DOH"
+   "duration": 2345,
+   "label": "25/11 ד׳ Aegean + Air Arabia 19:10→13:45+2",
+   "usd": 633.25,
+   "via": "ATH+SHJ"
+  },
+  "2026-11-25|19:10|20:15+1|ATH+AUH": {
+   "date": "2026-11-25",
+   "dep": "19:10",
+   "duration": 1295,
+   "label": "25/11 ד׳ Aegean + Etihad 19:10→20:15+1",
+   "usd": 740.45,
+   "via": "ATH+AUH"
   },
   "2026-11-25|19:20|22:50+1|AUH": {
    "date": "2026-11-25",
@@ -985,37 +481,37 @@
    "usd": 938.36,
    "via": "AUH"
   },
-  "2026-11-25|23:30|02:45+2|ATH+DOH": {
+  "2026-11-25|23:30|02:40+2|ATH+AUH": {
    "date": "2026-11-25",
    "dep": "23:30",
-   "duration": 1425,
-   "label": "25/11 ד׳ SKY express + Qatar 23:30→02:45+2",
-   "usd": 720.0,
-   "via": "ATH+DOH"
+   "duration": 1420,
+   "label": "25/11 ד׳ Sky Express + Etihad 23:30→02:40+2",
+   "usd": 879.71,
+   "via": "ATH+AUH"
   },
-  "2026-11-25|23:30|05:50+2|ATH+DOH": {
+  "2026-11-25|23:30|04:30+2|ATH+SHJ": {
    "date": "2026-11-25",
    "dep": "23:30",
-   "duration": 1610,
-   "label": "25/11 ד׳ SKY express + Qatar + SriLankan 23:30→05:50+2",
-   "usd": 1211.0,
-   "via": "ATH+DOH"
+   "duration": 1530,
+   "label": "25/11 ד׳ Sky Express + Air Arabia 23:30→04:30+2",
+   "usd": 523.83,
+   "via": "ATH+SHJ"
   },
-  "2026-11-25|23:30|08:45+2|ATH+DOH": {
+  "2026-11-25|23:30|13:45+2|ATH+SHJ": {
    "date": "2026-11-25",
    "dep": "23:30",
-   "duration": 1785,
-   "label": "25/11 ד׳ SKY express + Qatar 23:30→08:45+2",
-   "usd": 793.0,
-   "via": "ATH+DOH"
+   "duration": 2085,
+   "label": "25/11 ד׳ Sky Express + Air Arabia 23:30→13:45+2",
+   "usd": 542.62,
+   "via": "ATH+SHJ"
   },
-  "2026-11-25|23:50|00:45+2|GYD+DXB": {
+  "2026-11-25|23:30|20:15+1|ATH+AUH": {
    "date": "2026-11-25",
-   "dep": "23:50",
-   "duration": 1285,
-   "label": "25/11 ד׳ Azerbaijan + flydubai 23:50→00:45+2",
-   "usd": 2438.0,
-   "via": "GYD+DXB"
+   "dep": "23:30",
+   "duration": 1035,
+   "label": "25/11 ד׳ Sky Express + Etihad 23:30→20:15+1",
+   "usd": 657.56,
+   "via": "ATH+AUH"
   },
   "2026-11-26|00:20|00:45+1|OTP+DXB": {
    "date": "2026-11-26",
@@ -1064,14 +560,6 @@
    "label": "26/11 ה׳ Etihad + Air India 00:50→04:10+1",
    "usd": 4679.0,
    "via": "AUH+DEL"
-  },
-  "2026-11-26|00:50|05:35+1|AUH+BOM": {
-   "date": "2026-11-26",
-   "dep": "00:50",
-   "duration": 1515,
-   "label": "26/11 ה׳ Etihad + SriLankan 00:50→05:35+1",
-   "usd": 5630.0,
-   "via": "AUH+BOM"
   },
   "2026-11-26|00:50|08:10+1|AUH": {
    "date": "2026-11-26",
@@ -1126,7 +614,7 @@
    "dep": "01:00",
    "duration": 1440,
    "label": "26/11 ה׳ Lufthansa + Air Arabia 01:00→04:30+1",
-   "usd": 590.14,
+   "usd": 612.25,
    "via": "FRA+VIE+SHJ"
   },
   "2026-11-26|01:00|05:35+1|ATH+FRA+BOM": {
@@ -1142,7 +630,7 @@
    "dep": "01:00",
    "duration": 1520,
    "label": "26/11 ה׳ Lufthansa + Turkish 01:00→05:50+1",
-   "usd": 847.66,
+   "usd": 855.39,
    "via": "FRA+FCO+IST"
   },
   "2026-11-26|01:00|13:45+1|FRA+VIE+SHJ": {
@@ -1150,7 +638,7 @@
    "dep": "01:00",
    "duration": 1995,
    "label": "26/11 ה׳ Lufthansa + Air Arabia 01:00→13:45+1",
-   "usd": 627.72,
+   "usd": 612.25,
    "via": "FRA+VIE+SHJ"
   },
   "2026-11-26|01:10|01:50+2|MUC+FCO+SHJ": {
@@ -1158,7 +646,7 @@
    "dep": "01:10",
    "duration": 2710,
    "label": "26/11 ה׳ Lufthansa + Air Arabia 01:10→01:50+2",
-   "usd": 644.3,
+   "usd": 655.35,
    "via": "MUC+FCO+SHJ"
   },
   "2026-11-26|01:10|04:30+1|MUC+VIE+SHJ": {
@@ -1166,7 +654,7 @@
    "dep": "01:10",
    "duration": 1430,
    "label": "26/11 ה׳ Lufthansa + Air Arabia 01:10→04:30+1",
-   "usd": 640.98,
+   "usd": 732.71,
    "via": "MUC+VIE+SHJ"
   },
   "2026-11-26|01:10|05:35+1|ATH+MUC+BOM": {
@@ -1182,7 +670,7 @@
    "dep": "01:10",
    "duration": 1985,
    "label": "26/11 ה׳ Lufthansa + Air Arabia 01:10→13:45+1",
-   "usd": 648.75,
+   "usd": 659.77,
    "via": "MUC+FCO+SHJ"
   },
   "2026-11-26|01:10|13:45+1|MUC+VIE+SHJ": {
@@ -1190,7 +678,7 @@
    "dep": "01:10",
    "duration": 1985,
    "label": "26/11 ה׳ Lufthansa + Air Arabia 01:10→13:45+1",
-   "usd": 678.56,
+   "usd": 731.61,
    "via": "MUC+VIE+SHJ"
   },
   "2026-11-26|05:15|01:55+1|FCO+DOH": {
@@ -1206,7 +694,7 @@
    "dep": "05:15",
    "duration": 1265,
    "label": "26/11 ה׳ ITA + Turkish 05:15→05:50+1",
-   "usd": 1154.9,
+   "usd": 1031.12,
    "via": "FCO+IST"
   },
   "2026-11-26|05:20|01:50+2|ZRH+FCO+SHJ": {
@@ -1214,23 +702,15 @@
    "dep": "05:20",
    "duration": 2460,
    "label": "26/11 ה׳ Swiss International + Air Arabia 05:20→01:50+2",
-   "usd": 729.4,
+   "usd": 734.92,
    "via": "ZRH+FCO+SHJ"
-  },
-  "2026-11-26|05:20|02:45+1|ATH+DOH": {
-   "date": "2026-11-26",
-   "dep": "05:20",
-   "duration": 1075,
-   "label": "26/11 ה׳ Aegean + Qatar 05:20→02:45+1",
-   "usd": 1557.0,
-   "via": "ATH+DOH"
   },
   "2026-11-26|05:20|04:30+1|ATH+VIE+SHJ": {
    "date": "2026-11-26",
    "dep": "05:20",
    "duration": 1180,
    "label": "26/11 ה׳ Aegean + Air Arabia 05:20→04:30+1",
-   "usd": 796.82,
+   "usd": 813.39,
    "via": "ATH+VIE+SHJ"
   },
   "2026-11-26|05:20|08:20+1|ATH+DXB": {
@@ -1238,7 +718,7 @@
    "dep": "05:20",
    "duration": 1410,
    "label": "26/11 ה׳ Aegean + Emirates 05:20→08:20+1",
-   "usd": 2715.0,
+   "usd": 2801.37,
    "via": "ATH+DXB"
   },
   "2026-11-26|05:20|08:20+1|ZRH": {
@@ -1249,28 +729,12 @@
    "usd": 1154.44,
    "via": "ZRH"
   },
-  "2026-11-26|05:20|08:45+1|ATH+DOH": {
-   "date": "2026-11-26",
-   "dep": "05:20",
-   "duration": 1435,
-   "label": "26/11 ה׳ Aegean + Qatar 05:20→08:45+1",
-   "usd": 1557.0,
-   "via": "ATH+DOH"
-  },
-  "2026-11-26|05:20|11:25+1|LCA+ZRH+BLR": {
-   "date": "2026-11-26",
-   "dep": "05:20",
-   "duration": 1595,
-   "label": "26/11 ה׳ SWISS + SriLankan 05:20→11:25+1",
-   "usd": 3333.0,
-   "via": "LCA+ZRH+BLR"
-  },
   "2026-11-26|05:20|13:45+1|ATH+VIE+SHJ": {
    "date": "2026-11-26",
    "dep": "05:20",
    "duration": 1735,
    "label": "26/11 ה׳ Aegean + Air Arabia 05:20→13:45+1",
-   "usd": 829.97,
+   "usd": 812.29,
    "via": "ATH+VIE+SHJ"
   },
   "2026-11-26|05:20|13:45+1|ZRH+FCO+SHJ": {
@@ -1278,39 +742,23 @@
    "dep": "05:20",
    "duration": 1735,
    "label": "26/11 ה׳ Swiss International + Air Arabia 05:20→13:45+1",
-   "usd": 732.71,
+   "usd": 739.35,
    "via": "ZRH+FCO+SHJ"
-  },
-  "2026-11-26|05:20|16:30+1|ATH+DOH": {
-   "date": "2026-11-26",
-   "dep": "05:20",
-   "duration": 1900,
-   "label": "26/11 ה׳ Aegean + Qatar 05:20→16:30+1",
-   "usd": 1557.0,
-   "via": "ATH+DOH"
   },
   "2026-11-26|05:35|01:50+2|PRG+FCO+SHJ": {
    "date": "2026-11-26",
    "dep": "05:35",
    "duration": 2445,
    "label": "26/11 ה׳ TVS Smartwings + Air Arabia 05:35→01:50+2",
-   "usd": 858.71,
+   "usd": 880.81,
    "via": "PRG+FCO+SHJ"
-  },
-  "2026-11-26|05:35|08:10+1|CDG+BOM": {
-   "date": "2026-11-26",
-   "dep": "05:35",
-   "duration": 1385,
-   "label": "26/11 ה׳ El Al + Air France + IndiGo 05:35→08:10+1",
-   "usd": 2595.0,
-   "via": "CDG+BOM"
   },
   "2026-11-26|05:35|13:45+1|PRG+FCO+SHJ": {
    "date": "2026-11-26",
    "dep": "05:35",
    "duration": 1720,
    "label": "26/11 ה׳ TVS Smartwings + Air Arabia 05:35→13:45+1",
-   "usd": 863.13,
+   "usd": 885.23,
    "via": "PRG+FCO+SHJ"
   },
   "2026-11-26|05:40|08:15+0|KRK+DXB": {
@@ -1334,7 +782,7 @@
    "dep": "05:50",
    "duration": 1040,
    "label": "26/11 ה׳ Etihad 05:50→02:40+1",
-   "usd": 811.0,
+   "usd": 930.0,
    "via": "AUH"
   },
   "2026-11-26|05:50|04:10+1|AUH+DEL": {
@@ -1358,7 +806,7 @@
    "dep": "05:50",
    "duration": 1370,
    "label": "26/11 ה׳ Etihad 05:50→08:10+1",
-   "usd": 811.0,
+   "usd": 930.0,
    "via": "AUH"
   },
   "2026-11-26|05:50|14:50+1|AUH": {
@@ -1382,7 +830,7 @@
    "dep": "05:55",
    "duration": 2425,
    "label": "26/11 ה׳ Austrian + Air Arabia 05:55→01:50+2",
-   "usd": 1170.37,
+   "usd": 1085.27,
    "via": "VIE+FCO+SHJ"
   },
   "2026-11-26|05:55|13:45+1|VIE+FCO+SHJ": {
@@ -1390,7 +838,7 @@
    "dep": "05:55",
    "duration": 1700,
    "label": "26/11 ה׳ Austrian + Air Arabia 05:55→13:45+1",
-   "usd": 1174.79,
+   "usd": 1089.69,
    "via": "VIE+FCO+SHJ"
   },
   "2026-11-26|06:30|02:40+1|AUH": {
@@ -1398,7 +846,7 @@
    "dep": "06:30",
    "duration": 1000,
    "label": "26/11 ה׳ Etihad 06:30→02:40+1",
-   "usd": 3074.0,
+   "usd": 1949.0,
    "via": "AUH"
   },
   "2026-11-26|06:30|02:45+1|ATH+DOH": {
@@ -1414,7 +862,7 @@
    "dep": "06:30",
    "duration": 1090,
    "label": "26/11 ה׳ Etihad + Air India 06:30→04:10+1",
-   "usd": 8925.0,
+   "usd": 4679.0,
    "via": "AUH+DEL"
   },
   "2026-11-26|06:30|04:30+1|VIE+SHJ": {
@@ -1422,7 +870,7 @@
    "dep": "06:30",
    "duration": 1110,
    "label": "26/11 ה׳ El Al Israel + Air Arabia 06:30→04:30+1",
-   "usd": 810.08,
+   "usd": 826.66,
    "via": "VIE+SHJ"
   },
   "2026-11-26|06:30|05:35+1|AUH+BOM": {
@@ -1430,7 +878,7 @@
    "dep": "06:30",
    "duration": 1175,
    "label": "26/11 ה׳ Etihad + SriLankan 06:30→05:35+1",
-   "usd": 8135.0,
+   "usd": 5630.0,
    "via": "AUH+BOM"
   },
   "2026-11-26|06:30|08:10+1|AUH": {
@@ -1438,23 +886,39 @@
    "dep": "06:30",
    "duration": 1330,
    "label": "26/11 ה׳ Etihad 06:30→08:10+1",
-   "usd": 3074.0,
+   "usd": 1949.0,
    "via": "AUH"
+  },
+  "2026-11-26|06:30|09:45+1|AUH+BAH+MLE": {
+   "date": "2026-11-26",
+   "dep": "06:30",
+   "duration": 1425,
+   "label": "26/11 ה׳ Etihad + Gulf Air 06:30→09:45+1",
+   "usd": 3076.0,
+   "via": "AUH+BAH+MLE"
   },
   "2026-11-26|06:30|13:45+1|VIE+SHJ": {
    "date": "2026-11-26",
    "dep": "06:30",
    "duration": 1665,
    "label": "26/11 ה׳ El Al Israel + Air Arabia 06:30→13:45+1",
-   "usd": 843.23,
+   "usd": 826.66,
    "via": "VIE+SHJ"
+  },
+  "2026-11-26|06:30|14:50+1|AUH": {
+   "date": "2026-11-26",
+   "dep": "06:30",
+   "duration": 1730,
+   "label": "26/11 ה׳ Etihad 06:30→14:50+1",
+   "usd": 1960.0,
+   "via": "AUH"
   },
   "2026-11-26|06:30|20:15+0|AUH": {
    "date": "2026-11-26",
    "dep": "06:30",
    "duration": 615,
    "label": "26/11 ה׳ Etihad 06:30→20:15",
-   "usd": 3074.0,
+   "usd": 1949.0,
    "via": "AUH"
   },
   "2026-11-26|07:00|08:15+1|OTP+DXB": {
@@ -1488,30 +952,6 @@
    "label": "26/11 ה׳ Arkia + flydubai + Emirates 08:00→08:20+1",
    "usd": 2437.0,
    "via": "TBS+DXB"
-  },
-  "2026-11-26|08:00|10:15+1|TBS+DXB+MLE": {
-   "date": "2026-11-26",
-   "dep": "08:00",
-   "duration": 1365,
-   "label": "26/11 ה׳ Arkia + flydubai 08:00→10:15+1",
-   "usd": 2437.0,
-   "via": "TBS+DXB+MLE"
-  },
-  "2026-11-26|08:15|01:50+2|FCO+SHJ": {
-   "date": "2026-11-26",
-   "dep": "08:15",
-   "duration": 2285,
-   "label": "26/11 ה׳ El Al Israel + Air Arabia 08:15→01:50+2",
-   "usd": 822.24,
-   "via": "FCO+SHJ"
-  },
-  "2026-11-26|08:15|13:45+1|FCO+SHJ": {
-   "date": "2026-11-26",
-   "dep": "08:15",
-   "duration": 1560,
-   "label": "26/11 ה׳ El Al Israel + Air Arabia 08:15→13:45+1",
-   "usd": 826.66,
-   "via": "FCO+SHJ"
   },
   "2026-11-26|09:00|08:20+1|ATH+DXB": {
    "date": "2026-11-26",
@@ -1566,7 +1006,7 @@
    "dep": "10:45",
    "duration": 2295,
    "label": "26/11 ה׳ Lot Polish + Air Arabia 10:45→04:30+2",
-   "usd": 883.02,
+   "usd": 831.08,
    "via": "WAW+VIE+SHJ"
   },
   "2026-11-26|10:45|13:45+2|WAW+VIE+SHJ": {
@@ -1574,7 +1014,7 @@
    "dep": "10:45",
    "duration": 2850,
    "label": "26/11 ה׳ Lot Polish + Air Arabia 10:45→13:45+2",
-   "usd": 898.49,
+   "usd": 846.55,
    "via": "WAW+VIE+SHJ"
   },
   "2026-11-26|11:05|01:50+2|FCO+SHJ": {
@@ -1582,7 +1022,7 @@
    "dep": "11:05",
    "duration": 2115,
    "label": "26/11 ה׳ Wizz Air Malta + Air Arabia 11:05→01:50+2",
-   "usd": 710.61,
+   "usd": 711.72,
    "via": "FCO+SHJ"
   },
   "2026-11-26|11:05|13:45+1|FCO+SHJ": {
@@ -1590,7 +1030,7 @@
    "dep": "11:05",
    "duration": 1390,
    "label": "26/11 ה׳ Wizz Air Malta + Air Arabia 11:05→13:45+1",
-   "usd": 715.03,
+   "usd": 716.14,
    "via": "FCO+SHJ"
   },
   "2026-11-26|12:20|09:45+1|ATH+DOH": {
@@ -1625,6 +1065,14 @@
    "usd": 826.0,
    "via": "AUH"
   },
+  "2026-11-26|13:30|08:10+2|AUH": {
+   "date": "2026-11-26",
+   "dep": "13:30",
+   "duration": 2350,
+   "label": "26/11 ה׳ Etihad 13:30→08:10+2",
+   "usd": 4076.0,
+   "via": "AUH"
+  },
   "2026-11-26|13:30|14:50+1|AUH": {
    "date": "2026-11-26",
    "dep": "13:30",
@@ -1632,14 +1080,6 @@
    "label": "26/11 ה׳ Etihad 13:30→14:50+1",
    "usd": 1094.0,
    "via": "AUH"
-  },
-  "2026-11-26|13:30|15:15+1|AUH+BOM": {
-   "date": "2026-11-26",
-   "dep": "13:30",
-   "duration": 1335,
-   "label": "26/11 ה׳ Etihad + Air India 13:30→15:15+1",
-   "usd": 4254.0,
-   "via": "AUH+BOM"
   },
   "2026-11-26|13:30|16:20+1|GYD+DXB": {
    "date": "2026-11-26",
@@ -1713,14 +1153,6 @@
    "usd": 4254.0,
    "via": "AUH+BOM"
   },
-  "2026-11-26|13:50|16:05+1|AUH+DEL": {
-   "date": "2026-11-26",
-   "dep": "13:50",
-   "duration": 1365,
-   "label": "26/11 ה׳ Etihad + Air India 13:50→16:05+1",
-   "usd": 4679.0,
-   "via": "AUH+DEL"
-  },
   "2026-11-26|13:50|17:30+1|AUH+MLE": {
    "date": "2026-11-26",
    "dep": "13:50",
@@ -1758,7 +1190,7 @@
    "dep": "14:30",
    "duration": 1910,
    "label": "26/11 ה׳ ITA + Air Arabia 14:30→01:50+2",
-   "usd": 592.35,
+   "usd": 600.09,
    "via": "FCO+SHJ"
   },
   "2026-11-26|14:30|13:45+1|FCO+SHJ": {
@@ -1766,15 +1198,55 @@
    "dep": "14:30",
    "duration": 1185,
    "label": "26/11 ה׳ ITA + Air Arabia 14:30→13:45+1",
-   "usd": 596.77,
+   "usd": 604.51,
    "via": "FCO+SHJ"
+  },
+  "2026-11-26|14:30|20:15+1|FCO+AUH": {
+   "date": "2026-11-26",
+   "dep": "14:30",
+   "duration": 1575,
+   "label": "26/11 ה׳ ITA + Etihad 14:30→20:15+1",
+   "usd": 1214.58,
+   "via": "FCO+AUH"
+  },
+  "2026-11-26|14:40|16:20+1|ADD+DXB": {
+   "date": "2026-11-26",
+   "dep": "14:40",
+   "duration": 1330,
+   "label": "26/11 ה׳ Ethiopian + flydubai 14:40→16:20+1",
+   "usd": 2064.0,
+   "via": "ADD+DXB"
+  },
+  "2026-11-26|15:00|01:50+2|FCO+SHJ": {
+   "date": "2026-11-26",
+   "dep": "15:00",
+   "duration": 1880,
+   "label": "26/11 ה׳ Arkia + Air Arabia 15:00→01:50+2",
+   "usd": 610.04,
+   "via": "FCO+SHJ"
+  },
+  "2026-11-26|15:00|13:45+1|FCO+SHJ": {
+   "date": "2026-11-26",
+   "dep": "15:00",
+   "duration": 1155,
+   "label": "26/11 ה׳ Arkia + Air Arabia 15:00→13:45+1",
+   "usd": 614.46,
+   "via": "FCO+SHJ"
+  },
+  "2026-11-26|15:00|20:15+1|FCO+AUH": {
+   "date": "2026-11-26",
+   "dep": "15:00",
+   "duration": 1545,
+   "label": "26/11 ה׳ Arkia + Etihad 15:00→20:15+1",
+   "usd": 1223.42,
+   "via": "FCO+AUH"
   },
   "2026-11-26|15:40|04:30+2|VIE+SHJ": {
    "date": "2026-11-26",
    "dep": "15:40",
    "duration": 2000,
    "label": "26/11 ה׳ Austrian + Air Arabia 15:40→04:30+2",
-   "usd": 878.6,
+   "usd": 771.4,
    "via": "VIE+SHJ"
   },
   "2026-11-26|15:40|08:20+1|LCA+DXB": {
@@ -1785,12 +1257,20 @@
    "usd": 2331.0,
    "via": "LCA+DXB"
   },
+  "2026-11-26|15:40|11:25+1|LCA+DXB+BLR": {
+   "date": "2026-11-26",
+   "dep": "15:40",
+   "duration": 975,
+   "label": "26/11 ה׳ Arkia + Emirates + SriLankan 15:40→11:25+1",
+   "usd": 2331.0,
+   "via": "LCA+DXB+BLR"
+  },
   "2026-11-26|15:40|13:45+2|VIE+SHJ": {
    "date": "2026-11-26",
    "dep": "15:40",
    "duration": 2555,
    "label": "26/11 ה׳ Austrian + Air Arabia 15:40→13:45+2",
-   "usd": 894.07,
+   "usd": 786.87,
    "via": "VIE+SHJ"
   },
   "2026-11-26|15:40|15:55+1|LCA+DXB": {
@@ -1817,6 +1297,14 @@
    "usd": 1212.0,
    "via": "VIE+MLE"
   },
+  "2026-11-26|15:40|18:25+1|LCA+DXB+MLE": {
+   "date": "2026-11-26",
+   "dep": "15:40",
+   "duration": 1395,
+   "label": "26/11 ה׳ Arkia + Emirates 15:40→18:25+1",
+   "usd": 2331.0,
+   "via": "LCA+DXB+MLE"
+  },
   "2026-11-26|15:40|22:50+1|VIE+MLE": {
    "date": "2026-11-26",
    "dep": "15:40",
@@ -1825,53 +1313,13 @@
    "usd": 1212.0,
    "via": "VIE+MLE"
   },
-  "2026-11-26|15:55|01:55+2|LCA+DOH": {
+  "2026-11-26|15:50|16:20+1|ADD+DXB": {
    "date": "2026-11-26",
-   "dep": "15:55",
-   "duration": 1830,
-   "label": "26/11 ה׳ Cyprus + Qatar 15:55→01:55+2",
-   "usd": 714.0,
-   "via": "LCA+DOH"
-  },
-  "2026-11-26|15:55|02:45+2|LCA+DOH": {
-   "date": "2026-11-26",
-   "dep": "15:55",
-   "duration": 1880,
-   "label": "26/11 ה׳ Cyprus + Qatar 15:55→02:45+2",
-   "usd": 714.0,
-   "via": "LCA+DOH"
-  },
-  "2026-11-26|15:55|05:50+2|LCA+DOH": {
-   "date": "2026-11-26",
-   "dep": "15:55",
-   "duration": 2065,
-   "label": "26/11 ה׳ Cyprus + Qatar + SriLankan 15:55→05:50+2",
-   "usd": 1426.0,
-   "via": "LCA+DOH"
-  },
-  "2026-11-26|15:55|08:45+2|LCA+DOH": {
-   "date": "2026-11-26",
-   "dep": "15:55",
-   "duration": 2240,
-   "label": "26/11 ה׳ Cyprus + Qatar 15:55→08:45+2",
-   "usd": 875.0,
-   "via": "LCA+DOH"
-  },
-  "2026-11-26|16:10|01:50+2|FCO+SHJ": {
-   "date": "2026-11-26",
-   "dep": "16:10",
-   "duration": 1810,
-   "label": "26/11 ה׳ Israir + Air Arabia 16:10→01:50+2",
-   "usd": 573.57,
-   "via": "FCO+SHJ"
-  },
-  "2026-11-26|16:10|13:45+1|FCO+SHJ": {
-   "date": "2026-11-26",
-   "dep": "16:10",
-   "duration": 1085,
-   "label": "26/11 ה׳ Israir + Air Arabia 16:10→13:45+1",
-   "usd": 577.99,
-   "via": "FCO+SHJ"
+   "dep": "15:50",
+   "duration": 1260,
+   "label": "26/11 ה׳ Ethiopian + flydubai 15:50→16:20+1",
+   "usd": 1629.0,
+   "via": "ADD+DXB"
   },
   "2026-11-26|16:35|08:00+1|FRA+ZRH": {
    "date": "2026-11-26",
@@ -1886,7 +1334,7 @@
    "dep": "17:10",
    "duration": 1910,
    "label": "26/11 ה׳ Lufthansa + Air Arabia 17:10→04:30+2",
-   "usd": 720.56,
+   "usd": 642.09,
    "via": "MUC+VIE+SHJ"
   },
   "2026-11-26|17:10|08:20+2|MUC+FCO+ZRH": {
@@ -1894,7 +1342,7 @@
    "dep": "17:10",
    "duration": 2140,
    "label": "26/11 ה׳ Lufthansa + Swiss International 17:10→08:20+2",
-   "usd": 1022.28,
+   "usd": 1088.59,
    "via": "MUC+FCO+ZRH"
   },
   "2026-11-26|17:10|08:20+2|MUC+VIE+ZRH": {
@@ -1902,7 +1350,7 @@
    "dep": "17:10",
    "duration": 2140,
    "label": "26/11 ה׳ Lufthansa + Swiss International 17:10→08:20+2",
-   "usd": 960.39,
+   "usd": 951.54,
    "via": "MUC+VIE+ZRH"
   },
   "2026-11-26|17:10|13:45+2|MUC+VIE+SHJ": {
@@ -1910,8 +1358,16 @@
    "dep": "17:10",
    "duration": 2465,
    "label": "26/11 ה׳ Lufthansa + Air Arabia 17:10→13:45+2",
-   "usd": 736.03,
+   "usd": 660.88,
    "via": "MUC+VIE+SHJ"
+  },
+  "2026-11-26|18:00|08:20+2|ZRH": {
+   "date": "2026-11-26",
+   "dep": "18:00",
+   "duration": 2090,
+   "label": "26/11 ה׳ SWISS + Edelweiss Air 18:00→08:20+2",
+   "usd": 1168.0,
+   "via": "ZRH"
   },
   "2026-11-26|19:05|02:40+2|AUH": {
    "date": "2026-11-26",
@@ -1958,7 +1414,7 @@
    "dep": "19:05",
    "duration": 1050,
    "label": "26/11 ה׳ Etihad + Air India 19:05→16:05+1",
-   "usd": 4679.0,
+   "usd": 9010.0,
    "via": "AUH+DEL"
   },
   "2026-11-26|19:05|20:15+1|AUH": {
@@ -1993,22 +1449,6 @@
    "usd": 4621.0,
    "via": "AUH+KUL"
   },
-  "2026-11-26|19:10|02:45+2|ATH+DOH": {
-   "date": "2026-11-26",
-   "dep": "19:10",
-   "duration": 1685,
-   "label": "26/11 ה׳ Aegean + Qatar 19:10→02:45+2",
-   "usd": 986.0,
-   "via": "ATH+DOH"
-  },
-  "2026-11-26|19:10|08:45+2|ATH+DOH": {
-   "date": "2026-11-26",
-   "dep": "19:10",
-   "duration": 2045,
-   "label": "26/11 ה׳ Aegean + Qatar 19:10→08:45+2",
-   "usd": 986.0,
-   "via": "ATH+DOH"
-  },
   "2026-11-26|19:20|02:40+2|AUH": {
    "date": "2026-11-26",
    "dep": "19:20",
@@ -2030,7 +1470,7 @@
    "dep": "19:35",
    "duration": 1995,
    "label": "26/11 ה׳ Wizz Air Malta + Swiss International 19:35→08:20+2",
-   "usd": 871.97,
+   "usd": 958.18,
    "via": "FCO+ZRH"
   },
   "2026-11-26|21:40|10:10+1|BKK": {
@@ -2054,39 +1494,23 @@
    "dep": "23:30",
    "duration": 1530,
    "label": "26/11 ה׳ Sky Express + Air Arabia 23:30→04:30+2",
-   "usd": 793.5,
+   "usd": 741.56,
    "via": "ATH+VIE+SHJ"
-  },
-  "2026-11-26|23:30|05:50+2|ATH+DOH": {
-   "date": "2026-11-26",
-   "dep": "23:30",
-   "duration": 1610,
-   "label": "26/11 ה׳ SKY express + Qatar + SriLankan 23:30→05:50+2",
-   "usd": 1080.0,
-   "via": "ATH+DOH"
   },
   "2026-11-26|23:30|08:20+2|ATH+VIE+ZRH": {
    "date": "2026-11-26",
    "dep": "23:30",
    "duration": 1760,
    "label": "26/11 ה׳ Sky Express + Swiss International 23:30→08:20+2",
-   "usd": 1041.07,
+   "usd": 1042.17,
    "via": "ATH+VIE+ZRH"
-  },
-  "2026-11-26|23:30|08:45+2|ATH+DOH": {
-   "date": "2026-11-26",
-   "dep": "23:30",
-   "duration": 1785,
-   "label": "26/11 ה׳ SKY express + Qatar 23:30→08:45+2",
-   "usd": 565.0,
-   "via": "ATH+DOH"
   },
   "2026-11-26|23:30|13:45+2|ATH+VIE+SHJ": {
    "date": "2026-11-26",
    "dep": "23:30",
    "duration": 2085,
    "label": "26/11 ה׳ Sky Express + Air Arabia 23:30→13:45+2",
-   "usd": 808.97,
+   "usd": 757.03,
    "via": "ATH+VIE+SHJ"
   },
   "2026-11-26|23:50|00:45+2|GYD+DXB": {
@@ -2105,68 +1529,12 @@
    "usd": 1307.75,
    "via": "OTP+DXB"
   },
-  "2026-11-27|00:45|00:45+1|ADD+DXB": {
-   "date": "2026-11-27",
-   "dep": "00:45",
-   "duration": 1230,
-   "label": "27/11 ו׳ Ethiopian + flydubai 00:45→00:45+1",
-   "usd": 5057.0,
-   "via": "ADD+DXB"
-  },
-  "2026-11-27|00:50|00:01+1|AUH+BKK": {
-   "date": "2026-11-27",
-   "dep": "00:50",
-   "duration": 1181,
-   "label": "27/11 ו׳ Etihad + THAI 00:50→00:01+1",
-   "usd": 5757.0,
-   "via": "AUH+BKK"
-  },
-  "2026-11-27|00:50|02:40+1|AUH": {
-   "date": "2026-11-27",
-   "dep": "00:50",
-   "duration": 1340,
-   "label": "27/11 ו׳ Etihad 00:50→02:40+1",
-   "usd": 1089.0,
-   "via": "AUH"
-  },
-  "2026-11-27|00:50|04:10+1|AUH+DEL": {
-   "date": "2026-11-27",
-   "dep": "00:50",
-   "duration": 1430,
-   "label": "27/11 ו׳ Etihad + Air India 00:50→04:10+1",
-   "usd": 4679.0,
-   "via": "AUH+DEL"
-  },
-  "2026-11-27|00:50|05:35+1|AUH+BOM": {
-   "date": "2026-11-27",
-   "dep": "00:50",
-   "duration": 1515,
-   "label": "27/11 ו׳ Etihad + SriLankan 00:50→05:35+1",
-   "usd": 5630.0,
-   "via": "AUH+BOM"
-  },
-  "2026-11-27|00:50|08:10+1|AUH": {
-   "date": "2026-11-27",
-   "dep": "00:50",
-   "duration": 1670,
-   "label": "27/11 ו׳ Etihad 00:50→08:10+1",
-   "usd": 1089.0,
-   "via": "AUH"
-  },
   "2026-11-27|00:50|14:50+0|AUH": {
    "date": "2026-11-27",
    "dep": "00:50",
    "duration": 630,
    "label": "27/11 ו׳ Etihad 00:50→14:50",
-   "usd": 1089.0,
-   "via": "AUH"
-  },
-  "2026-11-27|00:50|14:50+1|AUH": {
-   "date": "2026-11-27",
-   "dep": "00:50",
-   "duration": 2070,
-   "label": "27/11 ו׳ Etihad 00:50→14:50+1",
-   "usd": 4076.0,
+   "usd": 1156.01,
    "via": "AUH"
   },
   "2026-11-27|00:50|20:15+0|AUH": {
@@ -2174,56 +1542,40 @@
    "dep": "00:50",
    "duration": 955,
    "label": "27/11 ו׳ Etihad 00:50→20:15",
-   "usd": 821.0,
+   "usd": 889.65,
    "via": "AUH"
   },
-  "2026-11-27|00:50|22:50+0|AUH+MLE": {
-   "date": "2026-11-27",
-   "dep": "00:50",
-   "duration": 1110,
-   "label": "27/11 ו׳ Etihad + SriLankan 00:50→22:50",
-   "usd": 4102.0,
-   "via": "AUH+MLE"
-  },
-  "2026-11-27|00:50|23:20+0|AUH+BOM": {
-   "date": "2026-11-27",
-   "dep": "00:50",
-   "duration": 1140,
-   "label": "27/11 ו׳ Etihad + SriLankan 00:50→23:20",
-   "usd": 4052.0,
-   "via": "AUH+BOM"
-  },
-  "2026-11-27|00:50|23:35+0|AUH+KUL": {
-   "date": "2026-11-27",
-   "dep": "00:50",
-   "duration": 1155,
-   "label": "27/11 ו׳ Etihad + Malaysia 00:50→23:35",
-   "usd": 4621.0,
-   "via": "AUH+KUL"
-  },
-  "2026-11-27|01:00|05:45+1|ATH+FRA": {
+  "2026-11-27|01:00|01:50+2|FRA+KRK+SHJ": {
    "date": "2026-11-27",
    "dep": "01:00",
-   "duration": 1515,
-   "label": "27/11 ו׳ Lufthansa + SriLankan 01:00→05:45+1",
-   "usd": 2016.0,
-   "via": "ATH+FRA"
+   "duration": 2720,
+   "label": "27/11 ו׳ Lufthansa + Air Arabia 01:00→01:50+2",
+   "usd": 658.67,
+   "via": "FRA+KRK+SHJ"
   },
-  "2026-11-27|01:00|08:20+1|FRA+FCO+ZRH": {
+  "2026-11-27|01:00|08:20+1|FRA+KRK+ZRH": {
    "date": "2026-11-27",
    "dep": "01:00",
    "duration": 1670,
    "label": "27/11 ו׳ Lufthansa + Swiss International 01:00→08:20+1",
-   "usd": 1010.12,
-   "via": "FRA+FCO+ZRH"
+   "usd": 883.02,
+   "via": "FRA+KRK+ZRH"
   },
-  "2026-11-27|01:10|08:20+1|MUC+FCO+ZRH": {
+  "2026-11-27|01:00|10:15+1|FRA+KRK+DXB+MLE": {
    "date": "2026-11-27",
-   "dep": "01:10",
-   "duration": 1660,
-   "label": "27/11 ו׳ Lufthansa + Swiss International 01:10→08:20+1",
-   "usd": 1028.91,
-   "via": "MUC+FCO+ZRH"
+   "dep": "01:00",
+   "duration": 1785,
+   "label": "27/11 ו׳ Lufthansa + Flydubai 01:00→10:15+1",
+   "usd": 804.55,
+   "via": "FRA+KRK+DXB+MLE"
+  },
+  "2026-11-27|01:00|13:45+1|FRA+KRK+SHJ": {
+   "date": "2026-11-27",
+   "dep": "01:00",
+   "duration": 1995,
+   "label": "27/11 ו׳ Lufthansa + Air Arabia 01:00→13:45+1",
+   "usd": 719.45,
+   "via": "FRA+KRK+SHJ"
   },
   "2026-11-27|05:15|01:55+1|FCO+DOH": {
    "date": "2026-11-27",
@@ -2233,28 +1585,28 @@
    "usd": 1178.97,
    "via": "FCO+DOH"
   },
-  "2026-11-27|05:15|08:20+1|FCO+ZRH": {
+  "2026-11-27|05:20|01:50+2|WAW+KRK+SHJ": {
    "date": "2026-11-27",
-   "dep": "05:15",
-   "duration": 1415,
-   "label": "27/11 ו׳ ITA + Swiss International 05:15→08:20+1",
-   "usd": 1135.01,
-   "via": "FCO+ZRH"
+   "dep": "05:20",
+   "duration": 2460,
+   "label": "27/11 ו׳ Lot Polish + Air Arabia 05:20→01:50+2",
+   "usd": 768.08,
+   "via": "WAW+KRK+SHJ"
   },
   "2026-11-27|05:20|02:45+1|ATH+DOH": {
    "date": "2026-11-27",
    "dep": "05:20",
    "duration": 1075,
    "label": "27/11 ו׳ Aegean + Qatar 05:20→02:45+1",
-   "usd": 553.0,
+   "usd": 739.35,
    "via": "ATH+DOH"
   },
   "2026-11-27|05:20|05:50+1|ATH+DOH": {
    "date": "2026-11-27",
    "dep": "05:20",
    "duration": 1260,
-   "label": "27/11 ו׳ Aegean + Qatar + SriLankan 05:20→05:50+1",
-   "usd": 881.0,
+   "label": "27/11 ו׳ Aegean + Qatar 05:20→05:50+1",
+   "usd": 964.81,
    "via": "ATH+DOH"
   },
   "2026-11-27|05:20|08:20+1|ATH+DXB": {
@@ -2265,30 +1617,6 @@
    "usd": 2801.37,
    "via": "ATH+DXB"
   },
-  "2026-11-27|05:20|08:20+1|ATH+FCO+ZRH": {
-   "date": "2026-11-27",
-   "dep": "05:20",
-   "duration": 1410,
-   "label": "27/11 ו׳ Aegean + Swiss International 05:20→08:20+1",
-   "usd": 1158.22,
-   "via": "ATH+FCO+ZRH"
-  },
-  "2026-11-27|05:20|08:20+1|ATH+ZRH": {
-   "date": "2026-11-27",
-   "dep": "05:20",
-   "duration": 1410,
-   "label": "27/11 ו׳ Aegean + SWISS + Edelweiss Air 05:20→08:20+1",
-   "usd": 983.0,
-   "via": "ATH+ZRH"
-  },
-  "2026-11-27|05:20|08:20+1|LCA+ZRH": {
-   "date": "2026-11-27",
-   "dep": "05:20",
-   "duration": 1410,
-   "label": "27/11 ו׳ SWISS + Edelweiss Air 05:20→08:20+1",
-   "usd": 1125.0,
-   "via": "LCA+ZRH"
-  },
   "2026-11-27|05:20|08:20+1|ZRH": {
    "date": "2026-11-27",
    "dep": "05:20",
@@ -2297,68 +1625,20 @@
    "usd": 1154.44,
    "via": "ZRH"
   },
-  "2026-11-27|05:20|08:45+1|ATH+DOH": {
+  "2026-11-27|05:20|13:45+1|WAW+KRK+SHJ": {
    "date": "2026-11-27",
    "dep": "05:20",
-   "duration": 1435,
-   "label": "27/11 ו׳ Aegean + Qatar 05:20→08:45+1",
-   "usd": 655.0,
-   "via": "ATH+DOH"
-  },
-  "2026-11-27|05:20|16:30+1|ATH+DOH": {
-   "date": "2026-11-27",
-   "dep": "05:20",
-   "duration": 1900,
-   "label": "27/11 ו׳ Aegean + Qatar 05:20→16:30+1",
-   "usd": 555.0,
-   "via": "ATH+DOH"
-  },
-  "2026-11-27|05:40|05:45+1|FRA": {
-   "date": "2026-11-27",
-   "dep": "05:40",
-   "duration": 1235,
-   "label": "27/11 ו׳ Condor + SriLankan 05:40→05:45+1",
-   "usd": 902.0,
-   "via": "FRA"
+   "duration": 1735,
+   "label": "27/11 ו׳ Lot Polish + Air Arabia 05:20→13:45+1",
+   "usd": 823.34,
+   "via": "WAW+KRK+SHJ"
   },
   "2026-11-27|05:50|02:40+1|AUH": {
    "date": "2026-11-27",
    "dep": "05:50",
    "duration": 1040,
    "label": "27/11 ו׳ Etihad 05:50→02:40+1",
-   "usd": 1079.0,
-   "via": "AUH"
-  },
-  "2026-11-27|05:50|04:10+1|AUH+DEL": {
-   "date": "2026-11-27",
-   "dep": "05:50",
-   "duration": 1130,
-   "label": "27/11 ו׳ Etihad + Air India 05:50→04:10+1",
-   "usd": 4679.0,
-   "via": "AUH+DEL"
-  },
-  "2026-11-27|05:50|05:35+1|AUH+BOM": {
-   "date": "2026-11-27",
-   "dep": "05:50",
-   "duration": 1215,
-   "label": "27/11 ו׳ Etihad + SriLankan 05:50→05:35+1",
-   "usd": 5630.0,
-   "via": "AUH+BOM"
-  },
-  "2026-11-27|05:50|08:10+1|AUH": {
-   "date": "2026-11-27",
-   "dep": "05:50",
-   "duration": 1370,
-   "label": "27/11 ו׳ Etihad 05:50→08:10+1",
-   "usd": 1079.0,
-   "via": "AUH"
-  },
-  "2026-11-27|05:50|14:50+1|AUH": {
-   "date": "2026-11-27",
-   "dep": "05:50",
-   "duration": 1770,
-   "label": "27/11 ו׳ Etihad 05:50→14:50+1",
-   "usd": 1269.0,
+   "usd": 1335.05,
    "via": "AUH"
   },
   "2026-11-27|05:50|20:15+0|AUH": {
@@ -2366,24 +1646,24 @@
    "dep": "05:50",
    "duration": 655,
    "label": "27/11 ו׳ Etihad 05:50→20:15",
-   "usd": 811.0,
+   "usd": 879.71,
    "via": "AUH"
   },
-  "2026-11-27|05:50|23:20+0|AUH+BOM": {
+  "2026-11-27|05:55|01:50+2|VIE+KRK+SHJ": {
    "date": "2026-11-27",
-   "dep": "05:50",
-   "duration": 840,
-   "label": "27/11 ו׳ Etihad + SriLankan 05:50→23:20",
-   "usd": 4052.0,
-   "via": "AUH+BOM"
+   "dep": "05:55",
+   "duration": 2425,
+   "label": "27/11 ו׳ Austrian + Air Arabia 05:55→01:50+2",
+   "usd": 829.97,
+   "via": "VIE+KRK+SHJ"
   },
-  "2026-11-27|06:10|08:20+1|FCO+ZRH": {
+  "2026-11-27|06:00|01:50+2|KRK+SHJ": {
    "date": "2026-11-27",
-   "dep": "06:10",
-   "duration": 1360,
-   "label": "27/11 ו׳ El Al Israel + Swiss International 06:10→08:20+1",
-   "usd": 1172.58,
-   "via": "FCO+ZRH"
+   "dep": "06:00",
+   "duration": 2420,
+   "label": "27/11 ו׳ El Al Israel + Air Arabia 06:00→01:50+2",
+   "usd": 853.18,
+   "via": "KRK+SHJ"
   },
   "2026-11-27|06:30|01:50+2|ATH+SHJ": {
    "date": "2026-11-27",
@@ -2397,16 +1677,8 @@
    "date": "2026-11-27",
    "dep": "06:30",
    "duration": 1005,
-   "label": "27/11 ו׳ SKY express + Qatar 06:30→02:45+1",
-   "usd": 710.0,
-   "via": "ATH+DOH"
-  },
-  "2026-11-27|06:30|05:50+1|ATH+DOH": {
-   "date": "2026-11-27",
-   "dep": "06:30",
-   "duration": 1190,
-   "label": "27/11 ו׳ SKY express + Qatar + SriLankan 06:30→05:50+1",
-   "usd": 1080.0,
+   "label": "27/11 ו׳ Sky Express + Qatar 06:30→02:45+1",
+   "usd": 752.57,
    "via": "ATH+DOH"
   },
   "2026-11-27|06:30|08:10+1|ATH+BOM": {
@@ -2414,31 +1686,15 @@
    "dep": "06:30",
    "duration": 1330,
    "label": "27/11 ו׳ Sky Express + IndiGo 06:30→08:10+1",
-   "usd": 592.35,
+   "usd": 613.35,
    "via": "ATH+BOM"
-  },
-  "2026-11-27|06:30|08:10+1|AUH": {
-   "date": "2026-11-27",
-   "dep": "06:30",
-   "duration": 1330,
-   "label": "27/11 ו׳ Etihad 06:30→08:10+1",
-   "usd": 3384.0,
-   "via": "AUH"
-  },
-  "2026-11-27|06:30|08:45+1|ATH+DOH": {
-   "date": "2026-11-27",
-   "dep": "06:30",
-   "duration": 1365,
-   "label": "27/11 ו׳ SKY express + Qatar 06:30→08:45+1",
-   "usd": 710.0,
-   "via": "ATH+DOH"
   },
   "2026-11-27|06:30|09:45+1|ATH+BAH": {
    "date": "2026-11-27",
    "dep": "06:30",
    "duration": 1425,
    "label": "27/11 ו׳ Sky Express + Gulf Air 06:30→09:45+1",
-   "usd": 543.73,
+   "usd": 547.04,
    "via": "ATH+BAH"
   },
   "2026-11-27|06:30|13:45+1|ATH+SHJ": {
@@ -2446,39 +1702,15 @@
    "dep": "06:30",
    "duration": 1665,
    "label": "27/11 ו׳ Sky Express + Air Arabia 06:30→13:45+1",
-   "usd": 613.35,
+   "usd": 556.99,
    "via": "ATH+SHJ"
-  },
-  "2026-11-27|06:30|14:50+1|AUH": {
-   "date": "2026-11-27",
-   "dep": "06:30",
-   "duration": 1730,
-   "label": "27/11 ו׳ Etihad 06:30→14:50+1",
-   "usd": 3384.0,
-   "via": "AUH"
-  },
-  "2026-11-27|06:30|20:15+0|AUH": {
-   "date": "2026-11-27",
-   "dep": "06:30",
-   "duration": 615,
-   "label": "27/11 ו׳ Etihad 06:30→20:15",
-   "usd": 3384.0,
-   "via": "AUH"
-  },
-  "2026-11-27|06:40|08:10+1|ATH+BOM": {
-   "date": "2026-11-27",
-   "dep": "06:40",
-   "duration": 1320,
-   "label": "27/11 ו׳ El Al Israel + IndiGo 06:40→08:10+1",
-   "usd": 795.71,
-   "via": "ATH+BOM"
   },
   "2026-11-27|06:40|09:45+1|ATH+BAH": {
    "date": "2026-11-27",
    "dep": "06:40",
    "duration": 1415,
    "label": "27/11 ו׳ El Al Israel + Gulf Air 06:40→09:45+1",
-   "usd": 759.25,
+   "usd": 762.55,
    "via": "ATH+BAH"
   },
   "2026-11-27|06:40|13:45+1|ATH+SHJ": {
@@ -2486,7 +1718,7 @@
    "dep": "06:40",
    "duration": 1655,
    "label": "27/11 ו׳ El Al Israel + Air Arabia 06:40→13:45+1",
-   "usd": 822.24,
+   "usd": 771.4,
    "via": "ATH+SHJ"
   },
   "2026-11-27|06:55|19:00+0|AUH+PVG": {
@@ -2518,7 +1750,7 @@
    "dep": "08:20",
    "duration": 1220,
    "label": "27/11 ו׳ Blue Bird + IndiGo 08:20→08:10+1",
-   "usd": 635.46,
+   "usd": 666.4,
    "via": "ATH+BOM"
   },
   "2026-11-27|08:20|09:45+1|ATH+BAH": {
@@ -2526,7 +1758,7 @@
    "dep": "08:20",
    "duration": 1315,
    "label": "27/11 ו׳ Blue Bird + Gulf Air 08:20→09:45+1",
-   "usd": 586.83,
+   "usd": 602.3,
    "via": "ATH+BAH"
   },
   "2026-11-27|08:20|13:45+1|ATH+SHJ": {
@@ -2534,7 +1766,7 @@
    "dep": "08:20",
    "duration": 1555,
    "label": "27/11 ו׳ Blue Bird + Air Arabia 08:20→13:45+1",
-   "usd": 655.35,
+   "usd": 612.25,
    "via": "ATH+SHJ"
   },
   "2026-11-27|09:00|08:10+1|ATH+BOM": {
@@ -2542,7 +1774,7 @@
    "dep": "09:00",
    "duration": 1180,
    "label": "27/11 ו׳ Israir + IndiGo 09:00→08:10+1",
-   "usd": 705.08,
+   "usd": 723.87,
    "via": "ATH+BOM"
   },
   "2026-11-27|09:00|09:45+1|ATH+BAH": {
@@ -2550,40 +1782,16 @@
    "dep": "09:00",
    "duration": 1275,
    "label": "27/11 ו׳ Israir + Gulf Air 09:00→09:45+1",
-   "usd": 664.19,
+   "usd": 667.51,
    "via": "ATH+BAH"
-  },
-  "2026-11-27|09:00|11:10+1|ADD+MAA": {
-   "date": "2026-11-27",
-   "dep": "09:00",
-   "duration": 1360,
-   "label": "27/11 ו׳ Ethiopian + SriLankan 09:00→11:10+1",
-   "usd": 945.0,
-   "via": "ADD+MAA"
   },
   "2026-11-27|09:00|13:45+1|ATH+SHJ": {
    "date": "2026-11-27",
    "dep": "09:00",
    "duration": 1515,
    "label": "27/11 ו׳ Israir + Air Arabia 09:00→13:45+1",
-   "usd": 731.61,
+   "usd": 678.56,
    "via": "ATH+SHJ"
-  },
-  "2026-11-27|10:00|08:20+1|LCA+DXB": {
-   "date": "2026-11-27",
-   "dep": "10:00",
-   "duration": 1130,
-   "label": "27/11 ו׳ Arkia + Emirates 10:00→08:20+1",
-   "usd": 2349.0,
-   "via": "LCA+DXB"
-  },
-  "2026-11-27|10:00|15:55+1|LCA+DXB": {
-   "date": "2026-11-27",
-   "dep": "10:00",
-   "duration": 1585,
-   "label": "27/11 ו׳ Arkia + Emirates 10:00→15:55+1",
-   "usd": 2349.0,
-   "via": "LCA+DXB"
   },
   "2026-11-27|10:35|04:30+0|TBS+SHJ": {
    "date": "2026-11-27",
@@ -2601,84 +1809,44 @@
    "usd": 1307.75,
    "via": "WAW+DXB"
   },
-  "2026-11-27|11:05|16:05+1|FCO+DEL": {
+  "2026-11-27|10:45|04:30+2|WAW+KRK+SHJ": {
    "date": "2026-11-27",
-   "dep": "11:05",
-   "duration": 1530,
-   "label": "27/11 ו׳ Wizz Air Malta + Air India 11:05→16:05+1",
-   "usd": 1141.64,
-   "via": "FCO+DEL"
+   "dep": "10:45",
+   "duration": 2295,
+   "label": "27/11 ו׳ Lot Polish + Air Arabia 10:45→04:30+2",
+   "usd": 807.87,
+   "via": "WAW+KRK+SHJ"
   },
-  "2026-11-27|12:20|02:45+2|ATH+DOH": {
+  "2026-11-27|10:45|13:45+2|WAW+KRK+SHJ": {
    "date": "2026-11-27",
-   "dep": "12:20",
-   "duration": 2095,
-   "label": "27/11 ו׳ Aegean + Qatar 12:20→02:45+2",
-   "usd": 986.0,
-   "via": "ATH+DOH"
+   "dep": "10:45",
+   "duration": 2850,
+   "label": "27/11 ו׳ Lot Polish + Air Arabia 10:45→13:45+2",
+   "usd": 873.07,
+   "via": "WAW+KRK+SHJ"
   },
-  "2026-11-27|12:20|08:20+1|ATH+DXB": {
+  "2026-11-27|11:10|01:50+2|KRK+SHJ": {
    "date": "2026-11-27",
-   "dep": "12:20",
-   "duration": 990,
-   "label": "27/11 ו׳ Aegean + Emirates 12:20→08:20+1",
-   "usd": 2792.0,
-   "via": "ATH+DXB"
+   "dep": "11:10",
+   "duration": 2110,
+   "label": "27/11 ו׳ Wizz Air + Air Arabia 11:10→01:50+2",
+   "usd": 528.25,
+   "via": "KRK+SHJ"
   },
-  "2026-11-27|12:20|08:45+2|ATH+DOH": {
+  "2026-11-27|11:10|13:45+1|KRK+SHJ": {
    "date": "2026-11-27",
-   "dep": "12:20",
-   "duration": 2455,
-   "label": "27/11 ו׳ Aegean + Qatar 12:20→08:45+2",
-   "usd": 986.0,
-   "via": "ATH+DOH"
-  },
-  "2026-11-27|12:20|09:45+2|ATH+FCO+BAH": {
-   "date": "2026-11-27",
-   "dep": "12:20",
-   "duration": 2515,
-   "label": "27/11 ו׳ Aegean + Gulf Air 12:20→09:45+2",
-   "usd": 1188.06,
-   "via": "ATH+FCO+BAH"
+   "dep": "11:10",
+   "duration": 1385,
+   "label": "27/11 ו׳ Wizz Air + Air Arabia 11:10→13:45+1",
+   "usd": 592.35,
+   "via": "KRK+SHJ"
   },
   "2026-11-27|12:20|10:15+1|ATH+DXB": {
    "date": "2026-11-27",
    "dep": "12:20",
    "duration": 1105,
    "label": "27/11 ו׳ Emirates 12:20→10:15+1",
-   "usd": 2852.49,
-   "via": "ATH+DXB"
-  },
-  "2026-11-27|12:20|10:15+1|ATH+DXB+MLE": {
-   "date": "2026-11-27",
-   "dep": "12:20",
-   "duration": 1105,
-   "label": "27/11 ו׳ Aegean + Emirates + flydubai 12:20→10:15+1",
-   "usd": 2792.0,
-   "via": "ATH+DXB+MLE"
-  },
-  "2026-11-27|12:20|14:50+2|ATH+FCO+AUH": {
-   "date": "2026-11-27",
-   "dep": "12:20",
-   "duration": 2820,
-   "label": "27/11 ו׳ Aegean + Etihad 12:20→14:50+2",
-   "usd": 971.44,
-   "via": "ATH+FCO+AUH"
-  },
-  "2026-11-27|12:20|15:55+1|ATH+DXB": {
-   "date": "2026-11-27",
-   "dep": "12:20",
-   "duration": 1445,
-   "label": "27/11 ו׳ Aegean + Emirates 12:20→15:55+1",
-   "usd": 2792.0,
-   "via": "ATH+DXB"
-  },
-  "2026-11-27|12:40|15:55+1|ATH+DXB": {
-   "date": "2026-11-27",
-   "dep": "12:40",
-   "duration": 1425,
-   "label": "27/11 ו׳ El Al + Emirates 12:40→15:55+1",
-   "usd": 3044.0,
+   "usd": 2861.33,
    "via": "ATH+DXB"
   },
   "2026-11-27|12:50|02:40+2|ATH+AUH": {
@@ -2686,7 +1854,7 @@
    "dep": "12:50",
    "duration": 2060,
    "label": "27/11 ו׳ Wizz Air Malta + Etihad 12:50→02:40+2",
-   "usd": 845.44,
+   "usd": 729.4,
    "via": "ATH+AUH"
   },
   "2026-11-27|12:50|13:45+1|ATH+SHJ": {
@@ -2694,7 +1862,7 @@
    "dep": "12:50",
    "duration": 1285,
    "label": "27/11 ו׳ Wizz Air Malta + Air Arabia 12:50→13:45+1",
-   "usd": 593.46,
+   "usd": 549.25,
    "via": "ATH+SHJ"
   },
   "2026-11-27|12:50|20:15+1|ATH+AUH": {
@@ -2702,7 +1870,7 @@
    "dep": "12:50",
    "duration": 1675,
    "label": "27/11 ו׳ Wizz Air Malta + Etihad 12:50→20:15+1",
-   "usd": 718.35,
+   "usd": 629.93,
    "via": "ATH+AUH"
   },
   "2026-11-27|13:30|00:45+2|GYD+DXB": {
@@ -2712,134 +1880,6 @@
    "label": "27/11 ו׳ Azerbaijan Airlines AZAL + Emirates 13:30→00:45+2",
    "usd": 2419.01,
    "via": "GYD+DXB"
-  },
-  "2026-11-27|13:30|02:40+1|AUH": {
-   "date": "2026-11-27",
-   "dep": "13:30",
-   "duration": 580,
-   "label": "27/11 ו׳ Etihad 13:30→02:40+1",
-   "usd": 1094.0,
-   "via": "AUH"
-  },
-  "2026-11-27|13:30|02:40+2|AUH": {
-   "date": "2026-11-27",
-   "dep": "13:30",
-   "duration": 2020,
-   "label": "27/11 ו׳ Etihad 13:30→02:40+2",
-   "usd": 4076.0,
-   "via": "AUH"
-  },
-  "2026-11-27|13:30|08:10+1|AUH": {
-   "date": "2026-11-27",
-   "dep": "13:30",
-   "duration": 910,
-   "label": "27/11 ו׳ Etihad 13:30→08:10+1",
-   "usd": 1094.0,
-   "via": "AUH"
-  },
-  "2026-11-27|13:30|14:50+1|AUH": {
-   "date": "2026-11-27",
-   "dep": "13:30",
-   "duration": 1310,
-   "label": "27/11 ו׳ Etihad 13:30→14:50+1",
-   "usd": 1284.0,
-   "via": "AUH"
-  },
-  "2026-11-27|13:30|16:05+1|AUH+DEL": {
-   "date": "2026-11-27",
-   "dep": "13:30",
-   "duration": 1385,
-   "label": "27/11 ו׳ Etihad + Air India 13:30→16:05+1",
-   "usd": 4679.0,
-   "via": "AUH+DEL"
-  },
-  "2026-11-27|13:30|16:20+1|GYD+DXB": {
-   "date": "2026-11-27",
-   "dep": "13:30",
-   "duration": 1400,
-   "label": "27/11 ו׳ Azerbaijan + flydubai 13:30→16:20+1",
-   "usd": 2438.0,
-   "via": "GYD+DXB"
-  },
-  "2026-11-27|13:30|17:30+1|AUH+MLE": {
-   "date": "2026-11-27",
-   "dep": "13:30",
-   "duration": 1470,
-   "label": "27/11 ו׳ Etihad + SriLankan 13:30→17:30+1",
-   "usd": 4102.0,
-   "via": "AUH+MLE"
-  },
-  "2026-11-27|13:30|20:15+1|AUH": {
-   "date": "2026-11-27",
-   "dep": "13:30",
-   "duration": 1635,
-   "label": "27/11 ו׳ Etihad 13:30→20:15+1",
-   "usd": 826.0,
-   "via": "AUH"
-  },
-  "2026-11-27|13:50|02:40+1|AUH": {
-   "date": "2026-11-27",
-   "dep": "13:50",
-   "duration": 560,
-   "label": "27/11 ו׳ Etihad 13:50→02:40+1",
-   "usd": 1104.0,
-   "via": "AUH"
-  },
-  "2026-11-27|13:50|02:40+2|AUH": {
-   "date": "2026-11-27",
-   "dep": "13:50",
-   "duration": 2000,
-   "label": "27/11 ו׳ Etihad 13:50→02:40+2",
-   "usd": 4076.0,
-   "via": "AUH"
-  },
-  "2026-11-27|13:50|08:10+1|AUH": {
-   "date": "2026-11-27",
-   "dep": "13:50",
-   "duration": 890,
-   "label": "27/11 ו׳ Etihad 13:50→08:10+1",
-   "usd": 1104.0,
-   "via": "AUH"
-  },
-  "2026-11-27|13:50|08:10+2|AUH": {
-   "date": "2026-11-27",
-   "dep": "13:50",
-   "duration": 2330,
-   "label": "27/11 ו׳ Etihad 13:50→08:10+2",
-   "usd": 4076.0,
-   "via": "AUH"
-  },
-  "2026-11-27|13:50|14:50+1|AUH": {
-   "date": "2026-11-27",
-   "dep": "13:50",
-   "duration": 1290,
-   "label": "27/11 ו׳ Etihad 13:50→14:50+1",
-   "usd": 1294.0,
-   "via": "AUH"
-  },
-  "2026-11-27|13:50|16:05+1|AUH+DEL": {
-   "date": "2026-11-27",
-   "dep": "13:50",
-   "duration": 1365,
-   "label": "27/11 ו׳ Etihad + Air India 13:50→16:05+1",
-   "usd": 4679.0,
-   "via": "AUH+DEL"
-  },
-  "2026-11-27|13:50|17:30+1|AUH+MLE": {
-   "date": "2026-11-27",
-   "dep": "13:50",
-   "duration": 1450,
-   "label": "27/11 ו׳ Etihad + SriLankan 13:50→17:30+1",
-   "usd": 4102.0,
-   "via": "AUH+MLE"
-  },
-  "2026-11-27|13:50|20:15+1|AUH": {
-   "date": "2026-11-27",
-   "dep": "13:50",
-   "duration": 1615,
-   "label": "27/11 ו׳ Etihad 13:50→20:15+1",
-   "usd": 836.0,
-   "via": "AUH"
   },
   "2026-11-27|14:00|08:10+1|AUH": {
    "date": "2026-11-27",
@@ -2857,125 +1897,45 @@
    "usd": 803.33,
    "via": "AUH"
   },
+  "2026-11-27|14:30|02:40+2|ATH+AUH": {
+   "date": "2026-11-27",
+   "dep": "14:30",
+   "duration": 1960,
+   "label": "27/11 ו׳ Blue Bird + Etihad 14:30→02:40+2",
+   "usd": 741.56,
+   "via": "ATH+AUH"
+  },
   "2026-11-27|14:30|13:45+1|ATH+SHJ": {
    "date": "2026-11-27",
    "dep": "14:30",
    "duration": 1185,
    "label": "27/11 ו׳ Bluebird Aviation + Air Arabia 14:30→13:45+1",
-   "usd": 608.93,
+   "usd": 564.72,
    "via": "ATH+SHJ"
-  },
-  "2026-11-27|14:30|14:50+2|FCO+AUH": {
-   "date": "2026-11-27",
-   "dep": "14:30",
-   "duration": 2690,
-   "label": "27/11 ו׳ ITA + Etihad 14:30→14:50+2",
-   "usd": 841.02,
-   "via": "FCO+AUH"
-  },
-  "2026-11-27|14:30|16:05+1|FCO+DEL": {
-   "date": "2026-11-27",
-   "dep": "14:30",
-   "duration": 1325,
-   "label": "27/11 ו׳ ITA + Air India 14:30→16:05+1",
-   "usd": 1131.69,
-   "via": "FCO+DEL"
   },
   "2026-11-27|14:30|20:15+1|ATH+AUH": {
    "date": "2026-11-27",
    "dep": "14:30",
    "duration": 1575,
    "label": "27/11 ו׳ Blue Bird + Etihad 14:30→20:15+1",
-   "usd": 731.61,
+   "usd": 646.51,
    "via": "ATH+AUH"
   },
-  "2026-11-27|15:40|17:30+1|VIE+MLE": {
+  "2026-11-27|14:45|16:05+1|ADD+DEL": {
    "date": "2026-11-27",
-   "dep": "15:40",
-   "duration": 1340,
-   "label": "27/11 ו׳ Austrian + SriLankan 15:40→17:30+1",
-   "usd": 1212.0,
-   "via": "VIE+MLE"
+   "dep": "14:45",
+   "duration": 1310,
+   "label": "27/11 ו׳ Ethiopian + Air India 14:45→16:05+1",
+   "usd": 1652.24,
+   "via": "ADD+DEL"
   },
-  "2026-11-27|15:40|22:50+1|VIE+MLE": {
+  "2026-11-27|16:35|04:30+2|FRA+KRK+SHJ": {
    "date": "2026-11-27",
-   "dep": "15:40",
-   "duration": 1660,
-   "label": "27/11 ו׳ Austrian + SriLankan 15:40→22:50+1",
-   "usd": 1212.0,
-   "via": "VIE+MLE"
-  },
-  "2026-11-27|16:05|01:55+2|LCA+DOH": {
-   "date": "2026-11-27",
-   "dep": "16:05",
-   "duration": 1820,
-   "label": "27/11 ו׳ Cyprus + Qatar 16:05→01:55+2",
-   "usd": 787.0,
-   "via": "LCA+DOH"
-  },
-  "2026-11-27|16:05|02:45+2|LCA+DOH": {
-   "date": "2026-11-27",
-   "dep": "16:05",
-   "duration": 1870,
-   "label": "27/11 ו׳ Cyprus + Qatar 16:05→02:45+2",
-   "usd": 787.0,
-   "via": "LCA+DOH"
-  },
-  "2026-11-27|16:05|05:50+2|LCA+DOH": {
-   "date": "2026-11-27",
-   "dep": "16:05",
-   "duration": 2055,
-   "label": "27/11 ו׳ Cyprus + Qatar + SriLankan 16:05→05:50+2",
-   "usd": 1426.0,
-   "via": "LCA+DOH"
-  },
-  "2026-11-27|16:05|08:45+2|LCA+DOH": {
-   "date": "2026-11-27",
-   "dep": "16:05",
-   "duration": 2230,
-   "label": "27/11 ו׳ Cyprus + Qatar 16:05→08:45+2",
-   "usd": 875.0,
-   "via": "LCA+DOH"
-  },
-  "2026-11-27|16:10|02:40+2|FCO+AUH": {
-   "date": "2026-11-27",
-   "dep": "16:10",
-   "duration": 1860,
-   "label": "27/11 ו׳ Israir + Etihad 16:10→02:40+2",
-   "usd": 1190.27,
-   "via": "FCO+AUH"
-  },
-  "2026-11-27|16:10|09:45+2|FCO+BAH": {
-   "date": "2026-11-27",
-   "dep": "16:10",
-   "duration": 2285,
-   "label": "27/11 ו׳ Israir + Gulf Air 16:10→09:45+2",
-   "usd": 823.34,
-   "via": "FCO+BAH"
-  },
-  "2026-11-27|16:10|14:50+2|FCO+AUH": {
-   "date": "2026-11-27",
-   "dep": "16:10",
-   "duration": 2590,
-   "label": "27/11 ו׳ Israir + Etihad 16:10→14:50+2",
-   "usd": 839.92,
-   "via": "FCO+AUH"
-  },
-  "2026-11-27|16:10|16:05+1|FCO+DEL": {
-   "date": "2026-11-27",
-   "dep": "16:10",
-   "duration": 1225,
-   "label": "27/11 ו׳ Israir + Air India 16:10→16:05+1",
-   "usd": 1130.59,
-   "via": "FCO+DEL"
-  },
-  "2026-11-27|16:10|20:15+1|FCO+AUH": {
-   "date": "2026-11-27",
-   "dep": "16:10",
-   "duration": 1475,
-   "label": "27/11 ו׳ Israir + Etihad 16:10→20:15+1",
-   "usd": 1190.27,
-   "via": "FCO+AUH"
+   "dep": "16:35",
+   "duration": 1945,
+   "label": "27/11 ו׳ Lufthansa + Air Arabia 16:35→04:30+2",
+   "usd": 642.09,
+   "via": "FRA+KRK+SHJ"
   },
   "2026-11-27|16:35|08:00+1|FRA+ZRH": {
    "date": "2026-11-27",
@@ -2985,125 +1945,93 @@
    "usd": 1758.27,
    "via": "FRA+ZRH"
   },
+  "2026-11-27|16:35|10:15+2|FRA+KRK+DXB+MLE": {
+   "date": "2026-11-27",
+   "dep": "16:35",
+   "duration": 2290,
+   "label": "27/11 ו׳ Lufthansa + Flydubai 16:35→10:15+2",
+   "usd": 785.76,
+   "via": "FRA+KRK+DXB+MLE"
+  },
+  "2026-11-27|16:35|13:45+2|FRA+KRK+SHJ": {
+   "date": "2026-11-27",
+   "dep": "16:35",
+   "duration": 2500,
+   "label": "27/11 ו׳ Lufthansa + Air Arabia 16:35→13:45+2",
+   "usd": 715.03,
+   "via": "FRA+KRK+SHJ"
+  },
+  "2026-11-27|16:35|16:20+2|FRA+KRK+DXB": {
+   "date": "2026-11-27",
+   "dep": "16:35",
+   "duration": 2655,
+   "label": "27/11 ו׳ Lufthansa + Flydubai 16:35→16:20+2",
+   "usd": 868.65,
+   "via": "FRA+KRK+DXB"
+  },
   "2026-11-27|17:10|04:30+2|MUC+ATH+SHJ": {
    "date": "2026-11-27",
    "dep": "17:10",
    "duration": 1910,
    "label": "27/11 ו׳ Lufthansa + Air Arabia 17:10→04:30+2",
-   "usd": 636.56,
+   "usd": 639.88,
    "via": "MUC+ATH+SHJ"
+  },
+  "2026-11-27|17:10|04:30+2|MUC+KRK+SHJ": {
+   "date": "2026-11-27",
+   "dep": "17:10",
+   "duration": 1910,
+   "label": "27/11 ו׳ Lufthansa + Air Arabia 17:10→04:30+2",
+   "usd": 659.79,
+   "via": "MUC+KRK+SHJ"
   },
   "2026-11-27|17:10|09:45+2|MUC+ATH+BAH": {
    "date": "2026-11-27",
    "dep": "17:10",
    "duration": 2225,
    "label": "27/11 ו׳ Lufthansa + Gulf Air 17:10→09:45+2",
-   "usd": 686.3,
+   "usd": 689.61,
    "via": "MUC+ATH+BAH"
   },
-  "2026-11-27|17:10|09:45+2|MUC+FCO+BAH": {
+  "2026-11-27|17:10|10:15+2|MUC+KRK+DXB+MLE": {
    "date": "2026-11-27",
    "dep": "17:10",
-   "duration": 2225,
-   "label": "27/11 ו׳ Lufthansa + Gulf Air 17:10→09:45+2",
-   "usd": 913.97,
-   "via": "MUC+FCO+BAH"
+   "duration": 2255,
+   "label": "27/11 ו׳ Lufthansa + Flydubai 17:10→10:15+2",
+   "usd": 801.24,
+   "via": "MUC+KRK+DXB+MLE"
   },
   "2026-11-27|17:10|13:45+2|MUC+ATH+SHJ": {
    "date": "2026-11-27",
    "dep": "17:10",
    "duration": 2465,
    "label": "27/11 ו׳ Lufthansa + Air Arabia 17:10→13:45+2",
-   "usd": 709.51,
+   "usd": 728.29,
    "via": "MUC+ATH+SHJ"
   },
-  "2026-11-27|17:10|14:50+2|MUC+FCO+AUH": {
+  "2026-11-27|17:10|13:45+2|MUC+KRK+SHJ": {
    "date": "2026-11-27",
    "dep": "17:10",
-   "duration": 2530,
-   "label": "27/11 ו׳ Lufthansa + Etihad 17:10→14:50+2",
-   "usd": 931.65,
-   "via": "MUC+FCO+AUH"
+   "duration": 2465,
+   "label": "27/11 ו׳ Lufthansa + Air Arabia 17:10→13:45+2",
+   "usd": 730.5,
+   "via": "MUC+KRK+SHJ"
   },
-  "2026-11-27|17:10|15:55+1|MUC+DXB": {
+  "2026-11-27|17:10|16:20+2|MUC+KRK+DXB": {
    "date": "2026-11-27",
    "dep": "17:10",
-   "duration": 1155,
-   "label": "27/11 ו׳ Lufthansa + Emirates 17:10→15:55+1",
-   "usd": 6099.0,
-   "via": "MUC+DXB"
-  },
-  "2026-11-27|19:05|02:40+2|AUH": {
-   "date": "2026-11-27",
-   "dep": "19:05",
-   "duration": 1685,
-   "label": "27/11 ו׳ Etihad 19:05→02:40+2",
-   "usd": 816.0,
-   "via": "AUH"
-  },
-  "2026-11-27|19:05|08:10+1|AUH": {
-   "date": "2026-11-27",
-   "dep": "19:05",
-   "duration": 575,
-   "label": "27/11 ו׳ Etihad 19:05→08:10+1",
-   "usd": 1084.0,
-   "via": "AUH"
-  },
-  "2026-11-27|19:05|08:10+2|AUH": {
-   "date": "2026-11-27",
-   "dep": "19:05",
-   "duration": 2015,
-   "label": "27/11 ו׳ Etihad 19:05→08:10+2",
-   "usd": 4076.0,
-   "via": "AUH"
-  },
-  "2026-11-27|19:05|14:50+1|AUH": {
-   "date": "2026-11-27",
-   "dep": "19:05",
-   "duration": 975,
-   "label": "27/11 ו׳ Etihad 19:05→14:50+1",
-   "usd": 1274.0,
-   "via": "AUH"
-  },
-  "2026-11-27|19:05|15:15+1|AUH+BOM": {
-   "date": "2026-11-27",
-   "dep": "19:05",
-   "duration": 1000,
-   "label": "27/11 ו׳ Etihad + Air India 19:05→15:15+1",
-   "usd": 4254.0,
-   "via": "AUH+BOM"
-  },
-  "2026-11-27|19:05|16:05+1|AUH+DEL": {
-   "date": "2026-11-27",
-   "dep": "19:05",
-   "duration": 1050,
-   "label": "27/11 ו׳ Etihad + Air India 19:05→16:05+1",
-   "usd": 4679.0,
-   "via": "AUH+DEL"
+   "duration": 2620,
+   "label": "27/11 ו׳ Lufthansa + Flydubai 17:10→16:20+2",
+   "usd": 884.13,
+   "via": "MUC+KRK+DXB"
   },
   "2026-11-27|19:05|20:15+1|AUH": {
    "date": "2026-11-27",
    "dep": "19:05",
    "duration": 1300,
    "label": "27/11 ו׳ Etihad 19:05→20:15+1",
-   "usd": 816.0,
+   "usd": 884.13,
    "via": "AUH"
-  },
-  "2026-11-27|19:05|22:50+1|AUH+MLE": {
-   "date": "2026-11-27",
-   "dep": "19:05",
-   "duration": 1455,
-   "label": "27/11 ו׳ Etihad + SriLankan 19:05→22:50+1",
-   "usd": 4102.0,
-   "via": "AUH+MLE"
-  },
-  "2026-11-27|19:05|23:20+1|AUH+BOM": {
-   "date": "2026-11-27",
-   "dep": "19:05",
-   "duration": 1485,
-   "label": "27/11 ו׳ Etihad + SriLankan 19:05→23:20+1",
-   "usd": 4052.0,
-   "via": "AUH+BOM"
   },
   "2026-11-27|19:10|02:45+2|ATH+DOH": {
    "date": "2026-11-27",
@@ -3121,38 +2049,6 @@
    "usd": 938.36,
    "via": "AUH"
   },
-  "2026-11-27|19:35|02:40+2|FCO+AUH": {
-   "date": "2026-11-27",
-   "dep": "19:35",
-   "duration": 1655,
-   "label": "27/11 ו׳ Wizz Air Malta + Etihad 19:35→02:40+2",
-   "usd": 1138.32,
-   "via": "FCO+AUH"
-  },
-  "2026-11-27|19:35|09:45+2|FCO+BAH": {
-   "date": "2026-11-27",
-   "dep": "19:35",
-   "duration": 2080,
-   "label": "27/11 ו׳ Wizz Air Malta + Gulf Air 19:35→09:45+2",
-   "usd": 755.92,
-   "via": "FCO+BAH"
-  },
-  "2026-11-27|19:35|14:50+2|FCO+AUH": {
-   "date": "2026-11-27",
-   "dep": "19:35",
-   "duration": 2385,
-   "label": "27/11 ו׳ Wizz Air Malta + Etihad 19:35→14:50+2",
-   "usd": 775.82,
-   "via": "FCO+AUH"
-  },
-  "2026-11-27|23:50|00:45+2|GYD+DXB": {
-   "date": "2026-11-27",
-   "dep": "23:50",
-   "duration": 1285,
-   "label": "27/11 ו׳ Azerbaijan + flydubai 23:50→00:45+2",
-   "usd": 2438.0,
-   "via": "GYD+DXB"
-  },
   "2026-11-28|00:20|00:45+1|OTP+DXB": {
    "date": "2026-11-28",
    "dep": "00:20",
@@ -3165,8 +2061,8 @@
    "date": "2026-11-28",
    "dep": "00:45",
    "duration": 1230,
-   "label": "28/11 ש׳ Ethiopian + flydubai 00:45→00:45+1",
-   "usd": 1024.0,
+   "label": "28/11 ש׳ Ethiopian + Flydubai 00:45→00:45+1",
+   "usd": 1172.62,
    "via": "ADD+DXB"
   },
   "2026-11-28|00:45|16:05+0|ADD+DEL": {
@@ -3177,44 +2073,12 @@
    "usd": 1790.67,
    "via": "ADD+DEL"
   },
-  "2026-11-28|00:50|00:01+1|AUH+BKK": {
-   "date": "2026-11-28",
-   "dep": "00:50",
-   "duration": 1181,
-   "label": "28/11 ש׳ Etihad + THAI 00:50→00:01+1",
-   "usd": 5757.0,
-   "via": "AUH+BKK"
-  },
-  "2026-11-28|00:50|02:40+1|AUH": {
-   "date": "2026-11-28",
-   "dep": "00:50",
-   "duration": 1340,
-   "label": "28/11 ש׳ Etihad 00:50→02:40+1",
-   "usd": 821.0,
-   "via": "AUH"
-  },
-  "2026-11-28|00:50|05:35+1|AUH+BOM": {
-   "date": "2026-11-28",
-   "dep": "00:50",
-   "duration": 1515,
-   "label": "28/11 ש׳ Etihad + SriLankan 00:50→05:35+1",
-   "usd": 4052.0,
-   "via": "AUH+BOM"
-  },
-  "2026-11-28|00:50|08:10+1|AUH": {
-   "date": "2026-11-28",
-   "dep": "00:50",
-   "duration": 1670,
-   "label": "28/11 ש׳ Etihad 00:50→08:10+1",
-   "usd": 1089.0,
-   "via": "AUH"
-  },
   "2026-11-28|00:50|14:50+0|AUH": {
    "date": "2026-11-28",
    "dep": "00:50",
    "duration": 630,
    "label": "28/11 ש׳ Etihad 00:50→14:50",
-   "usd": 1279.0,
+   "usd": 1345.0,
    "via": "AUH"
   },
   "2026-11-28|00:50|20:15+0|AUH": {
@@ -3222,39 +2086,15 @@
    "dep": "00:50",
    "duration": 955,
    "label": "28/11 ש׳ Etihad 00:50→20:15",
-   "usd": 821.0,
+   "usd": 1238.87,
    "via": "AUH"
-  },
-  "2026-11-28|00:50|22:50+0|AUH+MLE": {
-   "date": "2026-11-28",
-   "dep": "00:50",
-   "duration": 1110,
-   "label": "28/11 ש׳ Etihad + SriLankan 00:50→22:50",
-   "usd": 4102.0,
-   "via": "AUH+MLE"
-  },
-  "2026-11-28|00:50|23:20+0|AUH+BOM": {
-   "date": "2026-11-28",
-   "dep": "00:50",
-   "duration": 1140,
-   "label": "28/11 ש׳ Etihad + SriLankan 00:50→23:20",
-   "usd": 4052.0,
-   "via": "AUH+BOM"
-  },
-  "2026-11-28|00:50|23:35+0|AUH+KUL": {
-   "date": "2026-11-28",
-   "dep": "00:50",
-   "duration": 1155,
-   "label": "28/11 ש׳ Etihad + Malaysia 00:50→23:35",
-   "usd": 5239.0,
-   "via": "AUH+KUL"
   },
   "2026-11-28|01:10|01:50+2|MUC+FCO+SHJ": {
    "date": "2026-11-28",
    "dep": "01:10",
    "duration": 2710,
    "label": "28/11 ש׳ Lufthansa + Air Arabia 01:10→01:50+2",
-   "usd": 611.14,
+   "usd": 601.2,
    "via": "MUC+FCO+SHJ"
   },
   "2026-11-28|01:10|13:45+1|MUC+FCO+SHJ": {
@@ -3262,31 +2102,15 @@
    "dep": "01:10",
    "duration": 1985,
    "label": "28/11 ש׳ Lufthansa + Air Arabia 01:10→13:45+1",
-   "usd": 709.51,
+   "usd": 700.66,
    "via": "MUC+FCO+SHJ"
-  },
-  "2026-11-28|01:10|20:15+1|MUC+FCO+AUH": {
-   "date": "2026-11-28",
-   "dep": "01:10",
-   "duration": 2375,
-   "label": "28/11 ש׳ Lufthansa + Etihad 01:10→20:15+1",
-   "usd": 643.19,
-   "via": "MUC+FCO+AUH"
-  },
-  "2026-11-28|01:15|08:10+1|OTP+AMS+BOM": {
-   "date": "2026-11-28",
-   "dep": "01:15",
-   "duration": 1645,
-   "label": "28/11 ש׳ KLM + IndiGo 01:15→08:10+1",
-   "usd": 1477.0,
-   "via": "OTP+AMS+BOM"
   },
   "2026-11-28|05:15|01:50+2|FCO+SHJ": {
    "date": "2026-11-28",
    "dep": "05:15",
    "duration": 2465,
    "label": "28/11 ש׳ ITA + Air Arabia 05:15→01:50+2",
-   "usd": 582.41,
+   "usd": 575.78,
    "via": "FCO+SHJ"
   },
   "2026-11-28|05:15|01:55+1|FCO+DOH": {
@@ -3294,7 +2118,7 @@
    "dep": "05:15",
    "duration": 1030,
    "label": "28/11 ש׳ ITA + Qatar 05:15→01:55+1",
-   "usd": 656.46,
+   "usd": 655.35,
    "via": "FCO+DOH"
   },
   "2026-11-28|05:15|13:45+1|FCO+SHJ": {
@@ -3302,31 +2126,23 @@
    "dep": "05:15",
    "duration": 1740,
    "label": "28/11 ש׳ ITA + Air Arabia 05:15→13:45+1",
-   "usd": 682.98,
+   "usd": 676.35,
    "via": "FCO+SHJ"
   },
-  "2026-11-28|05:15|20:15+1|FCO+AUH": {
-   "date": "2026-11-28",
-   "dep": "05:15",
-   "duration": 2130,
-   "label": "28/11 ש׳ ITA + Etihad 05:15→20:15+1",
-   "usd": 614.46,
-   "via": "FCO+AUH"
-  },
-  "2026-11-28|05:20|01:50+2|ATH+FCO+SHJ": {
+  "2026-11-28|05:20|01:50+2|ZRH+FCO+SHJ": {
    "date": "2026-11-28",
    "dep": "05:20",
    "duration": 2460,
-   "label": "28/11 ש׳ Aegean + Air Arabia 05:20→01:50+2",
-   "usd": 642.09,
-   "via": "ATH+FCO+SHJ"
+   "label": "28/11 ש׳ Swiss International + Air Arabia 05:20→01:50+2",
+   "usd": 625.51,
+   "via": "ZRH+FCO+SHJ"
   },
   "2026-11-28|05:20|02:45+1|ATH+DOH": {
    "date": "2026-11-28",
    "dep": "05:20",
    "duration": 1075,
    "label": "28/11 ש׳ Aegean + Qatar 05:20→02:45+1",
-   "usd": 606.0,
+   "usd": 686.3,
    "via": "ATH+DOH"
   },
   "2026-11-28|05:20|04:30+1|ATH+SHJ": {
@@ -3334,16 +2150,8 @@
    "dep": "05:20",
    "duration": 1180,
    "label": "28/11 ש׳ Aegean + Air Arabia 05:20→04:30+1",
-   "usd": 512.78,
+   "usd": 509.46,
    "via": "ATH+SHJ"
-  },
-  "2026-11-28|05:20|05:50+1|ATH+DOH": {
-   "date": "2026-11-28",
-   "dep": "05:20",
-   "duration": 1260,
-   "label": "28/11 ש׳ Aegean + Qatar + SriLankan 05:20→05:50+1",
-   "usd": 986.0,
-   "via": "ATH+DOH"
   },
   "2026-11-28|05:20|08:20+1|ATH+DXB": {
    "date": "2026-11-28",
@@ -3361,53 +2169,29 @@
    "usd": 1154.44,
    "via": "ZRH"
   },
-  "2026-11-28|05:20|08:45+1|ATH+DOH": {
-   "date": "2026-11-28",
-   "dep": "05:20",
-   "duration": 1435,
-   "label": "28/11 ש׳ Aegean + Qatar 05:20→08:45+1",
-   "usd": 553.0,
-   "via": "ATH+DOH"
-  },
   "2026-11-28|05:20|09:45+1|ATH+BAH": {
    "date": "2026-11-28",
    "dep": "05:20",
    "duration": 1495,
    "label": "28/11 ש׳ Aegean + Gulf Air 05:20→09:45+1",
-   "usd": 562.51,
+   "usd": 559.2,
    "via": "ATH+BAH"
-  },
-  "2026-11-28|05:20|13:45+1|ATH+FCO+SHJ": {
-   "date": "2026-11-28",
-   "dep": "05:20",
-   "duration": 1735,
-   "label": "28/11 ש׳ Aegean + Air Arabia 05:20→13:45+1",
-   "usd": 737.14,
-   "via": "ATH+FCO+SHJ"
   },
   "2026-11-28|05:20|13:45+1|ATH+SHJ": {
    "date": "2026-11-28",
    "dep": "05:20",
    "duration": 1735,
    "label": "28/11 ש׳ Aegean + Air Arabia 05:20→13:45+1",
-   "usd": 585.72,
+   "usd": 601.2,
    "via": "ATH+SHJ"
   },
-  "2026-11-28|05:20|16:30+1|ATH+DOH": {
+  "2026-11-28|05:20|13:45+1|ZRH+FCO+SHJ": {
    "date": "2026-11-28",
    "dep": "05:20",
-   "duration": 1900,
-   "label": "28/11 ש׳ Aegean + Qatar 05:20→16:30+1",
-   "usd": 555.0,
-   "via": "ATH+DOH"
-  },
-  "2026-11-28|05:20|20:15+1|ATH+FCO+AUH": {
-   "date": "2026-11-28",
-   "dep": "05:20",
-   "duration": 2125,
-   "label": "28/11 ש׳ Aegean + Etihad 05:20→20:15+1",
-   "usd": 674.14,
-   "via": "ATH+FCO+AUH"
+   "duration": 1735,
+   "label": "28/11 ש׳ Swiss International + Air Arabia 05:20→13:45+1",
+   "usd": 724.98,
+   "via": "ZRH+FCO+SHJ"
   },
   "2026-11-28|05:35|01:50+2|PRG+FCO+SHJ": {
    "date": "2026-11-28",
@@ -3415,6 +2199,14 @@
    "duration": 2445,
    "label": "28/11 ש׳ TVS Smartwings + Air Arabia 05:35→01:50+2",
    "usd": 719.45,
+   "via": "PRG+FCO+SHJ"
+  },
+  "2026-11-28|05:35|13:45+1|PRG+FCO+SHJ": {
+   "date": "2026-11-28",
+   "dep": "05:35",
+   "duration": 1720,
+   "label": "28/11 ש׳ TVS Smartwings + Air Arabia 05:35→13:45+1",
+   "usd": 807.87,
    "via": "PRG+FCO+SHJ"
   },
   "2026-11-28|05:40|08:15+0|KRK+DXB": {
@@ -3425,61 +2217,13 @@
    "usd": 1515.05,
    "via": "KRK+DXB"
   },
-  "2026-11-28|06:20|02:40+1|AUH": {
+  "2026-11-28|05:55|01:50+2|VIE+FCO+SHJ": {
    "date": "2026-11-28",
-   "dep": "06:20",
-   "duration": 1010,
-   "label": "28/11 ש׳ Etihad 06:20→02:40+1",
-   "usd": 811.0,
-   "via": "AUH"
-  },
-  "2026-11-28|06:20|04:10+1|AUH+DEL": {
-   "date": "2026-11-28",
-   "dep": "06:20",
-   "duration": 1100,
-   "label": "28/11 ש׳ Etihad + Air India 06:20→04:10+1",
-   "usd": 4679.0,
-   "via": "AUH+DEL"
-  },
-  "2026-11-28|06:20|05:35+1|AUH+BOM": {
-   "date": "2026-11-28",
-   "dep": "06:20",
-   "duration": 1185,
-   "label": "28/11 ש׳ Etihad + Akasa Air + SriLankan 06:20→05:35+1",
-   "usd": 4052.0,
-   "via": "AUH+BOM"
-  },
-  "2026-11-28|06:20|08:10+1|AUH": {
-   "date": "2026-11-28",
-   "dep": "06:20",
-   "duration": 1340,
-   "label": "28/11 ש׳ Etihad 06:20→08:10+1",
-   "usd": 1079.0,
-   "via": "AUH"
-  },
-  "2026-11-28|06:20|14:50+1|AUH": {
-   "date": "2026-11-28",
-   "dep": "06:20",
-   "duration": 1740,
-   "label": "28/11 ש׳ Etihad 06:20→14:50+1",
-   "usd": 634.0,
-   "via": "AUH"
-  },
-  "2026-11-28|06:20|20:15+0|AUH": {
-   "date": "2026-11-28",
-   "dep": "06:20",
-   "duration": 625,
-   "label": "28/11 ש׳ Etihad 06:20→20:15",
-   "usd": 811.0,
-   "via": "AUH"
-  },
-  "2026-11-28|06:20|23:20+0|AUH+BOM": {
-   "date": "2026-11-28",
-   "dep": "06:20",
-   "duration": 810,
-   "label": "28/11 ש׳ Etihad + SriLankan 06:20→23:20",
-   "usd": 4052.0,
-   "via": "AUH+BOM"
+   "dep": "05:55",
+   "duration": 2425,
+   "label": "28/11 ש׳ Austrian + Air Arabia 05:55→01:50+2",
+   "usd": 824.45,
+   "via": "VIE+FCO+SHJ"
   },
   "2026-11-28|06:30|02:45+1|ATH+DOH": {
    "date": "2026-11-28",
@@ -3489,69 +2233,13 @@
    "usd": 752.57,
    "via": "ATH+DOH"
   },
-  "2026-11-28|06:55|02:40+1|AUH": {
-   "date": "2026-11-28",
-   "dep": "06:55",
-   "duration": 975,
-   "label": "28/11 ש׳ Etihad 06:55→02:40+1",
-   "usd": 821.0,
-   "via": "AUH"
-  },
-  "2026-11-28|06:55|02:40+2|AUH": {
-   "date": "2026-11-28",
-   "dep": "06:55",
-   "duration": 2415,
-   "label": "28/11 ש׳ Etihad 06:55→02:40+2",
-   "usd": 4076.0,
-   "via": "AUH"
-  },
-  "2026-11-28|06:55|04:10+1|AUH+DEL": {
-   "date": "2026-11-28",
-   "dep": "06:55",
-   "duration": 1065,
-   "label": "28/11 ש׳ Etihad + Air India 06:55→04:10+1",
-   "usd": 4679.0,
-   "via": "AUH+DEL"
-  },
-  "2026-11-28|06:55|05:35+1|AUH+BOM": {
-   "date": "2026-11-28",
-   "dep": "06:55",
-   "duration": 1150,
-   "label": "28/11 ש׳ Etihad + Akasa Air + SriLankan 06:55→05:35+1",
-   "usd": 4052.0,
-   "via": "AUH+BOM"
-  },
-  "2026-11-28|06:55|08:10+1|AUH": {
-   "date": "2026-11-28",
-   "dep": "06:55",
-   "duration": 1305,
-   "label": "28/11 ש׳ Etihad 06:55→08:10+1",
-   "usd": 1089.0,
-   "via": "AUH"
-  },
-  "2026-11-28|06:55|14:50+1|AUH": {
-   "date": "2026-11-28",
-   "dep": "06:55",
-   "duration": 1705,
-   "label": "28/11 ש׳ Etihad 06:55→14:50+1",
-   "usd": 644.0,
-   "via": "AUH"
-  },
   "2026-11-28|06:55|20:15+0|AUH": {
    "date": "2026-11-28",
    "dep": "06:55",
    "duration": 590,
    "label": "28/11 ש׳ Etihad 06:55→20:15",
-   "usd": 821.0,
+   "usd": 1156.01,
    "via": "AUH"
-  },
-  "2026-11-28|06:55|23:20+0|AUH+BOM": {
-   "date": "2026-11-28",
-   "dep": "06:55",
-   "duration": 775,
-   "label": "28/11 ש׳ Etihad + SriLankan 06:55→23:20",
-   "usd": 4052.0,
-   "via": "AUH+BOM"
   },
   "2026-11-28|07:00|08:15+1|OTP+DXB": {
    "date": "2026-11-28",
@@ -3569,14 +2257,6 @@
    "usd": 1758.27,
    "via": "FRA+ZRH"
   },
-  "2026-11-28|09:00|16:20+1|ADD+DXB": {
-   "date": "2026-11-28",
-   "dep": "09:00",
-   "duration": 1670,
-   "label": "28/11 ש׳ Ethiopian + flydubai 09:00→16:20+1",
-   "usd": 1024.0,
-   "via": "ADD+DXB"
-  },
   "2026-11-28|10:45|00:45+2|WAW+DXB": {
    "date": "2026-11-28",
    "dep": "10:45",
@@ -3590,7 +2270,7 @@
    "dep": "11:05",
    "duration": 2115,
    "label": "28/11 ש׳ Wizz Air Malta + Air Arabia 11:05→01:50+2",
-   "usd": 450.89,
+   "usd": 456.41,
    "via": "FCO+SHJ"
   },
   "2026-11-28|11:05|13:45+1|FCO+SHJ": {
@@ -3598,7 +2278,7 @@
    "dep": "11:05",
    "duration": 1390,
    "label": "28/11 ש׳ Wizz Air Malta + Air Arabia 11:05→13:45+1",
-   "usd": 552.57,
+   "usd": 556.99,
    "via": "FCO+SHJ"
   },
   "2026-11-28|11:05|20:15+1|FCO+AUH": {
@@ -3606,7 +2286,7 @@
    "dep": "11:05",
    "duration": 1780,
    "label": "28/11 ש׳ Wizz Air Malta + Etihad 11:05→20:15+1",
-   "usd": 484.04,
+   "usd": 772.5,
    "via": "FCO+AUH"
   },
   "2026-11-28|12:20|09:45+1|ATH+DOH": {
@@ -3617,84 +2297,12 @@
    "usd": 990.57,
    "via": "ATH+DOH"
   },
-  "2026-11-28|13:30|15:55+1|GYD+DXB": {
-   "date": "2026-11-28",
-   "dep": "13:30",
-   "duration": 1375,
-   "label": "28/11 ש׳ Azerbaijan + flydubai + Emirates 13:30→15:55+1",
-   "usd": 2438.0,
-   "via": "GYD+DXB"
-  },
-  "2026-11-28|13:30|16:20+1|GYD+DXB": {
-   "date": "2026-11-28",
-   "dep": "13:30",
-   "duration": 1400,
-   "label": "28/11 ש׳ Azerbaijan + flydubai 13:30→16:20+1",
-   "usd": 2438.0,
-   "via": "GYD+DXB"
-  },
-  "2026-11-28|14:00|02:40+1|AUH": {
-   "date": "2026-11-28",
-   "dep": "14:00",
-   "duration": 550,
-   "label": "28/11 ש׳ Etihad 14:00→02:40+1",
-   "usd": 826.0,
-   "via": "AUH"
-  },
-  "2026-11-28|14:00|02:40+2|AUH": {
-   "date": "2026-11-28",
-   "dep": "14:00",
-   "duration": 1990,
-   "label": "28/11 ש׳ Etihad 14:00→02:40+2",
-   "usd": 4076.0,
-   "via": "AUH"
-  },
-  "2026-11-28|14:00|08:10+1|AUH": {
-   "date": "2026-11-28",
-   "dep": "14:00",
-   "duration": 880,
-   "label": "28/11 ש׳ Etihad 14:00→08:10+1",
-   "usd": 1094.0,
-   "via": "AUH"
-  },
-  "2026-11-28|14:00|08:10+2|AUH": {
-   "date": "2026-11-28",
-   "dep": "14:00",
-   "duration": 2320,
-   "label": "28/11 ש׳ Etihad 14:00→08:10+2",
-   "usd": 4076.0,
-   "via": "AUH"
-  },
-  "2026-11-28|14:00|14:50+1|AUH": {
-   "date": "2026-11-28",
-   "dep": "14:00",
-   "duration": 1280,
-   "label": "28/11 ש׳ Etihad 14:00→14:50+1",
-   "usd": 649.0,
-   "via": "AUH"
-  },
-  "2026-11-28|14:00|15:15+1|AUH+BOM": {
-   "date": "2026-11-28",
-   "dep": "14:00",
-   "duration": 1305,
-   "label": "28/11 ש׳ Etihad + Air India 14:00→15:15+1",
-   "usd": 4254.0,
-   "via": "AUH+BOM"
-  },
-  "2026-11-28|14:00|17:30+1|AUH+MLE": {
-   "date": "2026-11-28",
-   "dep": "14:00",
-   "duration": 1440,
-   "label": "28/11 ש׳ Etihad + SriLankan 14:00→17:30+1",
-   "usd": 4102.0,
-   "via": "AUH+MLE"
-  },
   "2026-11-28|14:00|20:15+1|AUH": {
    "date": "2026-11-28",
    "dep": "14:00",
    "duration": 1605,
    "label": "28/11 ש׳ Etihad 14:00→20:15+1",
-   "usd": 649.0,
+   "usd": 803.33,
    "via": "AUH"
   },
   "2026-11-28|14:25|02:40+1|AUH": {
@@ -3702,64 +2310,8 @@
    "dep": "14:25",
    "duration": 525,
    "label": "28/11 ש׳ Etihad 14:25→02:40+1",
-   "usd": 836.0,
+   "usd": 1170.41,
    "via": "AUH"
-  },
-  "2026-11-28|14:25|02:40+2|AUH": {
-   "date": "2026-11-28",
-   "dep": "14:25",
-   "duration": 1965,
-   "label": "28/11 ש׳ Etihad 14:25→02:40+2",
-   "usd": 4076.0,
-   "via": "AUH"
-  },
-  "2026-11-28|14:25|08:10+1|AUH": {
-   "date": "2026-11-28",
-   "dep": "14:25",
-   "duration": 855,
-   "label": "28/11 ש׳ Etihad 14:25→08:10+1",
-   "usd": 1104.0,
-   "via": "AUH"
-  },
-  "2026-11-28|14:25|08:10+2|AUH": {
-   "date": "2026-11-28",
-   "dep": "14:25",
-   "duration": 2295,
-   "label": "28/11 ש׳ Etihad 14:25→08:10+2",
-   "usd": 4076.0,
-   "via": "AUH"
-  },
-  "2026-11-28|14:25|14:50+1|AUH": {
-   "date": "2026-11-28",
-   "dep": "14:25",
-   "duration": 1255,
-   "label": "28/11 ש׳ Etihad 14:25→14:50+1",
-   "usd": 659.0,
-   "via": "AUH"
-  },
-  "2026-11-28|14:25|15:15+1|AUH+BOM": {
-   "date": "2026-11-28",
-   "dep": "14:25",
-   "duration": 1280,
-   "label": "28/11 ש׳ Etihad + Air India 14:25→15:15+1",
-   "usd": 4254.0,
-   "via": "AUH+BOM"
-  },
-  "2026-11-28|14:25|16:05+1|AUH+DEL": {
-   "date": "2026-11-28",
-   "dep": "14:25",
-   "duration": 1330,
-   "label": "28/11 ש׳ Etihad + Air India 14:25→16:05+1",
-   "usd": 4679.0,
-   "via": "AUH+DEL"
-  },
-  "2026-11-28|14:25|17:30+1|AUH+MLE": {
-   "date": "2026-11-28",
-   "dep": "14:25",
-   "duration": 1415,
-   "label": "28/11 ש׳ Etihad + SriLankan 14:25→17:30+1",
-   "usd": 4102.0,
-   "via": "AUH+MLE"
   },
   "2026-11-28|14:25|20:15+0|AUH": {
    "date": "2026-11-28",
@@ -3769,20 +2321,12 @@
    "usd": 796.33,
    "via": "AUH"
   },
-  "2026-11-28|14:25|20:15+1|AUH": {
-   "date": "2026-11-28",
-   "dep": "14:25",
-   "duration": 1580,
-   "label": "28/11 ש׳ Etihad 14:25→20:15+1",
-   "usd": 659.0,
-   "via": "AUH"
-  },
   "2026-11-28|14:30|01:50+2|FCO+SHJ": {
    "date": "2026-11-28",
    "dep": "14:30",
    "duration": 1910,
    "label": "28/11 ש׳ ITA + Air Arabia 14:30→01:50+2",
-   "usd": 530.46,
+   "usd": 523.83,
    "via": "FCO+SHJ"
   },
   "2026-11-28|14:30|13:45+1|FCO+SHJ": {
@@ -3790,7 +2334,7 @@
    "dep": "14:30",
    "duration": 1185,
    "label": "28/11 ש׳ ITA + Air Arabia 14:30→13:45+1",
-   "usd": 631.04,
+   "usd": 624.4,
    "via": "FCO+SHJ"
   },
   "2026-11-28|14:30|20:15+1|FCO+AUH": {
@@ -3798,7 +2342,7 @@
    "dep": "14:30",
    "duration": 1575,
    "label": "28/11 ש׳ ITA + Etihad 14:30→20:15+1",
-   "usd": 562.51,
+   "usd": 831.08,
    "via": "FCO+AUH"
   },
   "2026-11-28|15:40|04:30+2|VIE+ATH+SHJ": {
@@ -3806,7 +2350,7 @@
    "dep": "15:40",
    "duration": 2000,
    "label": "28/11 ש׳ Austrian + Air Arabia 15:40→04:30+2",
-   "usd": 650.93,
+   "usd": 617.77,
    "via": "VIE+ATH+SHJ"
   },
   "2026-11-28|15:40|08:10+2|VIE+ATH+BOM": {
@@ -3814,7 +2358,7 @@
    "dep": "15:40",
    "duration": 2220,
    "label": "28/11 ש׳ Austrian + IndiGo 15:40→08:10+2",
-   "usd": 700.66,
+   "usd": 708.4,
    "via": "VIE+ATH+BOM"
   },
   "2026-11-28|15:40|09:45+2|VIE+ATH+BAH": {
@@ -3822,7 +2366,7 @@
    "dep": "15:40",
    "duration": 2315,
    "label": "28/11 ש׳ Austrian + Gulf Air 15:40→09:45+2",
-   "usd": 669.72,
+   "usd": 675.24,
    "via": "VIE+ATH+BAH"
   },
   "2026-11-28|15:40|13:45+2|VIE+ATH+SHJ": {
@@ -3830,24 +2374,8 @@
    "dep": "15:40",
    "duration": 2555,
    "label": "28/11 ש׳ Austrian + Air Arabia 15:40→13:45+2",
-   "usd": 606.72,
+   "usd": 612.25,
    "via": "VIE+ATH+SHJ"
-  },
-  "2026-11-28|15:40|17:30+1|VIE+MLE": {
-   "date": "2026-11-28",
-   "dep": "15:40",
-   "duration": 1340,
-   "label": "28/11 ש׳ Austrian + SriLankan 15:40→17:30+1",
-   "usd": 1212.0,
-   "via": "VIE+MLE"
-  },
-  "2026-11-28|15:40|22:50+1|VIE+MLE": {
-   "date": "2026-11-28",
-   "dep": "15:40",
-   "duration": 1660,
-   "label": "28/11 ש׳ Austrian + SriLankan 15:40→22:50+1",
-   "usd": 1212.0,
-   "via": "VIE+MLE"
   },
   "2026-11-28|16:35|08:00+1|FRA+ZRH": {
    "date": "2026-11-28",
@@ -3862,7 +2390,7 @@
    "dep": "17:10",
    "duration": 1910,
    "label": "28/11 ש׳ Lufthansa + Air Arabia 17:10→04:30+2",
-   "usd": 637.67,
+   "usd": 601.2,
    "via": "MUC+ATH+SHJ"
   },
   "2026-11-28|17:10|04:30+2|MUC+FCO+SHJ": {
@@ -3870,7 +2398,7 @@
    "dep": "17:10",
    "duration": 1910,
    "label": "28/11 ש׳ Lufthansa + Air Arabia 17:10→04:30+2",
-   "usd": 634.36,
+   "usd": 604.51,
    "via": "MUC+FCO+SHJ"
   },
   "2026-11-28|17:10|08:10+2|MUC+ATH+BOM": {
@@ -3878,7 +2406,7 @@
    "dep": "17:10",
    "duration": 2130,
    "label": "28/11 ש׳ Lufthansa + IndiGo 17:10→08:10+2",
-   "usd": 688.51,
+   "usd": 695.14,
    "via": "MUC+ATH+BOM"
   },
   "2026-11-28|17:10|09:45+2|MUC+ATH+BAH": {
@@ -3886,7 +2414,7 @@
    "dep": "17:10",
    "duration": 2225,
    "label": "28/11 ש׳ Lufthansa + Gulf Air 17:10→09:45+2",
-   "usd": 655.35,
+   "usd": 659.77,
    "via": "MUC+ATH+BAH"
   },
   "2026-11-28|17:10|13:45+2|MUC+ATH+SHJ": {
@@ -3894,7 +2422,7 @@
    "dep": "17:10",
    "duration": 2465,
    "label": "28/11 ש׳ Lufthansa + Air Arabia 17:10→13:45+2",
-   "usd": 593.46,
+   "usd": 596.77,
    "via": "MUC+ATH+SHJ"
   },
   "2026-11-28|17:10|13:45+2|MUC+FCO+SHJ": {
@@ -3902,47 +2430,15 @@
    "dep": "17:10",
    "duration": 2465,
    "label": "28/11 ש׳ Lufthansa + Air Arabia 17:10→13:45+2",
-   "usd": 611.14,
+   "usd": 601.2,
    "via": "MUC+FCO+SHJ"
-  },
-  "2026-11-28|17:10|15:55+1|MUC+DXB": {
-   "date": "2026-11-28",
-   "dep": "17:10",
-   "duration": 1155,
-   "label": "28/11 ש׳ Lufthansa + Emirates 17:10→15:55+1",
-   "usd": 6099.0,
-   "via": "MUC+DXB"
-  },
-  "2026-11-28|17:45|00:45+2|TBS+DXB": {
-   "date": "2026-11-28",
-   "dep": "17:45",
-   "duration": 1650,
-   "label": "28/11 ש׳ Arkia + flydubai 17:45→00:45+2",
-   "usd": 2474.0,
-   "via": "TBS+DXB"
-  },
-  "2026-11-28|17:45|16:20+1|TBS+DXB": {
-   "date": "2026-11-28",
-   "dep": "17:45",
-   "duration": 1145,
-   "label": "28/11 ש׳ Arkia + flydubai 17:45→16:20+1",
-   "usd": 2474.0,
-   "via": "TBS+DXB"
-  },
-  "2026-11-28|19:10|02:45+2|ATH+DOH": {
-   "date": "2026-11-28",
-   "dep": "19:10",
-   "duration": 1685,
-   "label": "28/11 ש׳ Aegean + Qatar 19:10→02:45+2",
-   "usd": 553.0,
-   "via": "ATH+DOH"
   },
   "2026-11-28|19:10|04:30+2|ATH+SHJ": {
    "date": "2026-11-28",
    "dep": "19:10",
    "duration": 1790,
    "label": "28/11 ש׳ Aegean + Air Arabia 19:10→04:30+2",
-   "usd": 531.57,
+   "usd": 490.68,
    "via": "ATH+SHJ"
   },
   "2026-11-28|19:10|08:10+2|ATH+BOM": {
@@ -3953,20 +2449,12 @@
    "usd": 589.04,
    "via": "ATH+BOM"
   },
-  "2026-11-28|19:10|08:45+2|ATH+DOH": {
-   "date": "2026-11-28",
-   "dep": "19:10",
-   "duration": 2045,
-   "label": "28/11 ש׳ Aegean + Qatar 19:10→08:45+2",
-   "usd": 720.0,
-   "via": "ATH+DOH"
-  },
   "2026-11-28|19:10|09:45+2|ATH+BAH": {
    "date": "2026-11-28",
    "dep": "19:10",
    "duration": 2105,
    "label": "28/11 ש׳ Aegean + Gulf Air 19:10→09:45+2",
-   "usd": 551.46,
+   "usd": 548.15,
    "via": "ATH+BAH"
   },
   "2026-11-28|19:10|13:45+2|ATH+SHJ": {
@@ -3974,7 +2462,7 @@
    "dep": "19:10",
    "duration": 2345,
    "label": "28/11 ש׳ Aegean + Air Arabia 19:10→13:45+2",
-   "usd": 487.36,
+   "usd": 485.15,
    "via": "ATH+SHJ"
   },
   "2026-11-28|19:20|02:40+2|AUH": {
@@ -3998,23 +2486,7 @@
    "dep": "19:20",
    "duration": 560,
    "label": "28/11 ש׳ Etihad 19:20→08:10+1",
-   "usd": 1274.0,
-   "via": "AUH"
-  },
-  "2026-11-28|19:20|08:10+2|AUH": {
-   "date": "2026-11-28",
-   "dep": "19:20",
-   "duration": 2000,
-   "label": "28/11 ש׳ Etihad 19:20→08:10+2",
-   "usd": 4076.0,
-   "via": "AUH"
-  },
-  "2026-11-28|19:20|14:50+1|AUH": {
-   "date": "2026-11-28",
-   "dep": "19:20",
-   "duration": 960,
-   "label": "28/11 ש׳ Etihad 19:20→14:50+1",
-   "usd": 1274.0,
+   "usd": 1340.57,
    "via": "AUH"
   },
   "2026-11-28|19:20|15:15+1|AUH+BOM": {
@@ -4022,39 +2494,7 @@
    "dep": "19:20",
    "duration": 985,
    "label": "28/11 ש׳ Etihad + Air India 19:20→15:15+1",
-   "usd": 4254.0,
-   "via": "AUH+BOM"
-  },
-  "2026-11-28|19:20|16:05+1|AUH+DEL": {
-   "date": "2026-11-28",
-   "dep": "19:20",
-   "duration": 1035,
-   "label": "28/11 ש׳ Etihad + Air India 19:20→16:05+1",
-   "usd": 4679.0,
-   "via": "AUH+DEL"
-  },
-  "2026-11-28|19:20|20:15+1|AUH": {
-   "date": "2026-11-28",
-   "dep": "19:20",
-   "duration": 1285,
-   "label": "28/11 ש׳ Etihad 19:20→20:15+1",
-   "usd": 1274.0,
-   "via": "AUH"
-  },
-  "2026-11-28|19:20|22:50+1|AUH+MLE": {
-   "date": "2026-11-28",
-   "dep": "19:20",
-   "duration": 1440,
-   "label": "28/11 ש׳ Etihad + SriLankan 19:20→22:50+1",
-   "usd": 4102.0,
-   "via": "AUH+MLE"
-  },
-  "2026-11-28|19:20|23:20+1|AUH+BOM": {
-   "date": "2026-11-28",
-   "dep": "19:20",
-   "duration": 1470,
-   "label": "28/11 ש׳ Etihad + SriLankan 19:20→23:20+1",
-   "usd": 4052.0,
+   "usd": 4305.83,
    "via": "AUH+BOM"
   },
   "2026-11-28|19:35|04:30+2|FCO+SHJ": {
@@ -4062,15 +2502,23 @@
    "dep": "19:35",
    "duration": 1765,
    "label": "28/11 ש׳ Wizz Air Malta + Air Arabia 19:35→04:30+2",
-   "usd": 469.68,
+   "usd": 448.68,
    "via": "FCO+SHJ"
+  },
+  "2026-11-28|19:35|08:10+2|FCO+AUH": {
+   "date": "2026-11-28",
+   "dep": "19:35",
+   "duration": 1985,
+   "label": "28/11 ש׳ Wizz Air Malta + Etihad 19:35→08:10+2",
+   "usd": 771.4,
+   "via": "FCO+AUH"
   },
   "2026-11-28|19:35|13:45+2|FCO+SHJ": {
    "date": "2026-11-28",
    "dep": "19:35",
    "duration": 2320,
    "label": "28/11 ש׳ Wizz Air Malta + Air Arabia 19:35→13:45+2",
-   "usd": 445.36,
+   "usd": 443.15,
    "via": "FCO+SHJ"
   },
   "2026-11-28|21:40|10:10+1|BKK": {
@@ -4086,23 +2534,15 @@
    "dep": "23:30",
    "duration": 1420,
    "label": "28/11 ש׳ Sky Express + Etihad 23:30→02:40+2",
-   "usd": 711.72,
+   "usd": 838.81,
    "via": "ATH+AUH"
-  },
-  "2026-11-28|23:30|02:45+2|ATH+DOH": {
-   "date": "2026-11-28",
-   "dep": "23:30",
-   "duration": 1425,
-   "label": "28/11 ש׳ SKY express + Qatar 23:30→02:45+2",
-   "usd": 710.0,
-   "via": "ATH+DOH"
   },
   "2026-11-28|23:30|04:30+2|ATH+SHJ": {
    "date": "2026-11-28",
    "dep": "23:30",
    "duration": 1530,
    "label": "28/11 ש׳ Sky Express + Air Arabia 23:30→04:30+2",
-   "usd": 488.47,
+   "usd": 447.57,
    "via": "ATH+SHJ"
   },
   "2026-11-28|23:30|08:10+2|ATH+BOM": {
@@ -4113,20 +2553,12 @@
    "usd": 545.94,
    "via": "ATH+BOM"
   },
-  "2026-11-28|23:30|08:45+2|ATH+DOH": {
-   "date": "2026-11-28",
-   "dep": "23:30",
-   "duration": 1785,
-   "label": "28/11 ש׳ SKY express + Qatar 23:30→08:45+2",
-   "usd": 710.0,
-   "via": "ATH+DOH"
-  },
   "2026-11-28|23:30|09:45+2|ATH+BAH": {
    "date": "2026-11-28",
    "dep": "23:30",
    "duration": 1845,
    "label": "28/11 ש׳ Sky Express + Gulf Air 23:30→09:45+2",
-   "usd": 507.3,
+   "usd": 503.98,
    "via": "ATH+BAH"
   },
   "2026-11-28|23:30|13:45+2|ATH+SHJ": {
@@ -4134,24 +2566,8 @@
    "dep": "23:30",
    "duration": 2085,
    "label": "28/11 ש׳ Sky Express + Air Arabia 23:30→13:45+2",
-   "usd": 444.26,
+   "usd": 442.05,
    "via": "ATH+SHJ"
-  },
-  "2026-11-28|23:30|16:30+2|ATH+DOH": {
-   "date": "2026-11-28",
-   "dep": "23:30",
-   "duration": 2250,
-   "label": "28/11 ש׳ SKY express + Qatar 23:30→16:30+2",
-   "usd": 712.0,
-   "via": "ATH+DOH"
-  },
-  "2026-11-28|23:50|00:45+2|GYD+DXB": {
-   "date": "2026-11-28",
-   "dep": "23:50",
-   "duration": 1285,
-   "label": "28/11 ש׳ Azerbaijan + flydubai 23:50→00:45+2",
-   "usd": 2438.0,
-   "via": "GYD+DXB"
   },
   "2026-11-29|00:20|00:45+1|OTP+DXB": {
    "date": "2026-11-29",
@@ -4174,16 +2590,8 @@
    "dep": "00:50",
    "duration": 1340,
    "label": "29/11 א׳ Etihad 00:50→02:40+1",
-   "usd": 1089.0,
+   "usd": 1279.0,
    "via": "AUH"
-  },
-  "2026-11-29|00:50|04:10+1|AUH+DEL": {
-   "date": "2026-11-29",
-   "dep": "00:50",
-   "duration": 1430,
-   "label": "29/11 א׳ Etihad + Air India 00:50→04:10+1",
-   "usd": 4679.0,
-   "via": "AUH+DEL"
   },
   "2026-11-29|00:50|05:35+1|AUH+BOM": {
    "date": "2026-11-29",
@@ -4198,7 +2606,7 @@
    "dep": "00:50",
    "duration": 1670,
    "label": "29/11 א׳ Etihad 00:50→08:10+1",
-   "usd": 940.0,
+   "usd": 1279.0,
    "via": "AUH"
   },
   "2026-11-29|00:50|14:50+0|AUH": {
@@ -4206,7 +2614,7 @@
    "dep": "00:50",
    "duration": 630,
    "label": "29/11 א׳ Etihad 00:50→14:50",
-   "usd": 940.0,
+   "usd": 1279.0,
    "via": "AUH"
   },
   "2026-11-29|00:50|20:15+0|AUH": {
@@ -4214,7 +2622,7 @@
    "dep": "00:50",
    "duration": 955,
    "label": "29/11 א׳ Etihad 00:50→20:15",
-   "usd": 940.0,
+   "usd": 1238.87,
    "via": "AUH"
   },
   "2026-11-29|00:50|22:50+0|AUH+MLE": {
@@ -4238,23 +2646,23 @@
    "dep": "00:50",
    "duration": 1155,
    "label": "29/11 א׳ Etihad + Malaysia 00:50→23:35",
-   "usd": 4897.0,
+   "usd": 4801.0,
    "via": "AUH+KUL"
   },
-  "2026-11-29|01:10|02:40+1|MUC+VIE+AUH": {
+  "2026-11-29|01:00|05:45+1|ATH+FRA": {
    "date": "2026-11-29",
-   "dep": "01:10",
-   "duration": 1320,
-   "label": "29/11 א׳ Lufthansa + Etihad 01:10→02:40+1",
-   "usd": 996.86,
-   "via": "MUC+VIE+AUH"
+   "dep": "01:00",
+   "duration": 1515,
+   "label": "29/11 א׳ Lufthansa + SriLankan 01:00→05:45+1",
+   "usd": 1994.0,
+   "via": "ATH+FRA"
   },
   "2026-11-29|01:10|04:30+1|MUC+VIE+SHJ": {
    "date": "2026-11-29",
    "dep": "01:10",
    "duration": 1430,
    "label": "29/11 א׳ Lufthansa + Air Arabia 01:10→04:30+1",
-   "usd": 587.93,
+   "usd": 549.25,
    "via": "MUC+VIE+SHJ"
   },
   "2026-11-29|01:10|08:10+1|MUC+VIE+AUH": {
@@ -4294,8 +2702,16 @@
    "dep": "05:20",
    "duration": 1180,
    "label": "29/11 א׳ Aegean + Air Arabia 05:20→04:30+1",
-   "usd": 564.72,
+   "usd": 524.94,
    "via": "ATH+SHJ"
+  },
+  "2026-11-29|05:20|08:10+1|ATH+BOM": {
+   "date": "2026-11-29",
+   "dep": "05:20",
+   "duration": 1400,
+   "label": "29/11 א׳ Aegean + IndiGo 05:20→08:10+1",
+   "usd": 624.4,
+   "via": "ATH+BOM"
   },
   "2026-11-29|05:20|08:20+1|ATH+DXB": {
    "date": "2026-11-29",
@@ -4318,8 +2734,16 @@
    "dep": "05:20",
    "duration": 1435,
    "label": "29/11 א׳ Aegean + Qatar 05:20→08:45+1",
-   "usd": 720.0,
+   "usd": 553.0,
    "via": "ATH+DOH"
+  },
+  "2026-11-29|05:20|09:45+1|ATH+BAH": {
+   "date": "2026-11-29",
+   "dep": "05:20",
+   "duration": 1495,
+   "label": "29/11 א׳ Aegean + Gulf Air 05:20→09:45+1",
+   "usd": 583.51,
+   "via": "ATH+BAH"
   },
   "2026-11-29|05:20|13:45+1|ATH+SHJ": {
    "date": "2026-11-29",
@@ -4350,7 +2774,7 @@
    "dep": "05:40",
    "duration": 1235,
    "label": "29/11 א׳ Condor + SriLankan 05:40→05:45+1",
-   "usd": 938.0,
+   "usd": 939.0,
    "via": "FRA"
   },
   "2026-11-29|05:40|08:00+2|FRA+VIE+ZRH": {
@@ -4361,20 +2785,12 @@
    "usd": 1010.12,
    "via": "FRA+VIE+ZRH"
   },
-  "2026-11-29|05:55|02:40+1|VIE+AUH": {
-   "date": "2026-11-29",
-   "dep": "05:55",
-   "duration": 1035,
-   "label": "29/11 א׳ Austrian + Etihad 05:55→02:40+1",
-   "usd": 1052.12,
-   "via": "VIE+AUH"
-  },
   "2026-11-29|05:55|04:30+1|VIE+SHJ": {
    "date": "2026-11-29",
    "dep": "05:55",
    "duration": 1145,
    "label": "29/11 א׳ Austrian + Air Arabia 05:55→04:30+1",
-   "usd": 645.4,
+   "usd": 655.35,
    "via": "VIE+SHJ"
   },
   "2026-11-29|05:55|08:10+1|VIE+AUH": {
@@ -4382,7 +2798,7 @@
    "dep": "05:55",
    "duration": 1365,
    "label": "29/11 א׳ Austrian + Etihad 05:55→08:10+1",
-   "usd": 1052.12,
+   "usd": 1095.22,
    "via": "VIE+AUH"
   },
   "2026-11-29|05:55|13:45+1|VIE+SHJ": {
@@ -4390,7 +2806,7 @@
    "dep": "05:55",
    "duration": 1700,
    "label": "29/11 א׳ Austrian + Air Arabia 05:55→13:45+1",
-   "usd": 582.41,
+   "usd": 631.04,
    "via": "VIE+SHJ"
   },
   "2026-11-29|06:30|01:50+2|ATH+SHJ": {
@@ -4553,6 +2969,22 @@
    "usd": 710.0,
    "via": "ATH+DOH"
   },
+  "2026-11-29|07:10|04:30+1|ATH+SHJ": {
+   "date": "2026-11-29",
+   "dep": "07:10",
+   "duration": 1070,
+   "label": "29/11 א׳ Sky Express + Air Arabia 07:10→04:30+1",
+   "usd": 507.25,
+   "via": "ATH+SHJ"
+  },
+  "2026-11-29|07:10|08:10+1|ATH+BOM": {
+   "date": "2026-11-29",
+   "dep": "07:10",
+   "duration": 1290,
+   "label": "29/11 א׳ Sky Express + IndiGo 07:10→08:10+1",
+   "usd": 605.62,
+   "via": "ATH+BOM"
+  },
   "2026-11-29|07:10|08:45+1|ATH+DOH": {
    "date": "2026-11-29",
    "dep": "07:10",
@@ -4561,29 +2993,21 @@
    "usd": 710.0,
    "via": "ATH+DOH"
   },
-  "2026-11-29|07:10|16:30+1|ATH+DOH": {
+  "2026-11-29|07:10|09:45+1|ATH+BAH": {
    "date": "2026-11-29",
    "dep": "07:10",
-   "duration": 1790,
-   "label": "29/11 א׳ SKY express + Qatar 07:10→16:30+1",
-   "usd": 712.0,
-   "via": "ATH+DOH"
+   "duration": 1385,
+   "label": "29/11 א׳ Sky Express + Gulf Air 07:10→09:45+1",
+   "usd": 564.72,
+   "via": "ATH+BAH"
   },
-  "2026-11-29|08:00|04:30+1|ATH+SHJ": {
+  "2026-11-29|07:10|13:45+1|ATH+SHJ": {
    "date": "2026-11-29",
-   "dep": "08:00",
-   "duration": 1020,
-   "label": "29/11 א׳ Arkia + Air Arabia 08:00→04:30+1",
-   "usd": 522.73,
+   "dep": "07:10",
+   "duration": 1625,
+   "label": "29/11 א׳ Sky Express + Air Arabia 07:10→13:45+1",
+   "usd": 501.73,
    "via": "ATH+SHJ"
-  },
-  "2026-11-29|08:00|08:10+1|ATH+BOM": {
-   "date": "2026-11-29",
-   "dep": "08:00",
-   "duration": 1240,
-   "label": "29/11 א׳ Arkia + IndiGo 08:00→08:10+1",
-   "usd": 581.3,
-   "via": "ATH+BOM"
   },
   "2026-11-29|08:00|08:20+1|ATH+DXB": {
    "date": "2026-11-29",
@@ -4592,22 +3016,6 @@
    "label": "29/11 א׳ Arkia + Emirates 08:00→08:20+1",
    "usd": 2777.0,
    "via": "ATH+DXB"
-  },
-  "2026-11-29|08:00|09:45+1|ATH+BAH": {
-   "date": "2026-11-29",
-   "dep": "08:00",
-   "duration": 1335,
-   "label": "29/11 א׳ Arkia + Gulf Air 08:00→09:45+1",
-   "usd": 540.41,
-   "via": "ATH+BAH"
-  },
-  "2026-11-29|08:00|13:45+1|ATH+SHJ": {
-   "date": "2026-11-29",
-   "dep": "08:00",
-   "duration": 1575,
-   "label": "29/11 א׳ Arkia + Air Arabia 08:00→13:45+1",
-   "usd": 478.52,
-   "via": "ATH+SHJ"
   },
   "2026-11-29|09:00|11:10+1|ADD+MAA": {
    "date": "2026-11-29",
@@ -4622,15 +3030,23 @@
    "dep": "09:20",
    "duration": 940,
    "label": "29/11 א׳ Blue Bird + Air Arabia 09:20→04:30+1",
-   "usd": 532.67,
+   "usd": 506.15,
    "via": "ATH+SHJ"
+  },
+  "2026-11-29|09:20|08:10+1|ATH+BOM": {
+   "date": "2026-11-29",
+   "dep": "09:20",
+   "duration": 1160,
+   "label": "29/11 א׳ Blue Bird + IndiGo 09:20→08:10+1",
+   "usd": 604.52,
+   "via": "ATH+BOM"
   },
   "2026-11-29|09:20|09:45+1|ATH+BAH": {
    "date": "2026-11-29",
    "dep": "09:20",
    "duration": 1255,
    "label": "29/11 א׳ Blue Bird + Gulf Air 09:20→09:45+1",
-   "usd": 551.46,
+   "usd": 563.62,
    "via": "ATH+BAH"
   },
   "2026-11-29|09:20|13:45+1|ATH+SHJ": {
@@ -4638,7 +3054,7 @@
    "dep": "09:20",
    "duration": 1495,
    "label": "29/11 א׳ Blue Bird + Air Arabia 09:20→13:45+1",
-   "usd": 489.57,
+   "usd": 501.73,
    "via": "ATH+SHJ"
   },
   "2026-11-29|10:10|09:45+1|ATH+BAH": {
@@ -4678,7 +3094,7 @@
    "dep": "10:45",
    "duration": 2185,
    "label": "29/11 א׳ Lot Polish + Etihad 10:45→02:40+2",
-   "usd": 871.97,
+   "usd": 829.97,
    "via": "WAW+VIE+AUH"
   },
   "2026-11-29|10:45|08:00+2|WAW+VIE+FRA+ZRH": {
@@ -4686,24 +3102,16 @@
    "dep": "10:45",
    "duration": 2505,
    "label": "29/11 א׳ Lot Polish + Lufthansa 10:45→08:00+2",
-   "usd": 1060.96,
+   "usd": 1070.91,
    "via": "WAW+VIE+FRA+ZRH"
   },
-  "2026-11-29|12:20|02:40+2|ATH+VIE+AUH": {
+  "2026-11-29|10:45|14:50+2|WAW+VIE+AUH": {
    "date": "2026-11-29",
-   "dep": "12:20",
-   "duration": 2090,
-   "label": "29/11 א׳ Aegean + Etihad 12:20→02:40+2",
-   "usd": 846.55,
-   "via": "ATH+VIE+AUH"
-  },
-  "2026-11-29|12:20|08:00+2|ATH+VIE+FRA+ZRH": {
-   "date": "2026-11-29",
-   "dep": "12:20",
-   "duration": 2410,
-   "label": "29/11 א׳ Aegean + Lufthansa 12:20→08:00+2",
-   "usd": 1033.33,
-   "via": "ATH+VIE+FRA+ZRH"
+   "dep": "10:45",
+   "duration": 2915,
+   "label": "29/11 א׳ Lot Polish + Etihad 10:45→14:50+2",
+   "usd": 1135.01,
+   "via": "WAW+VIE+AUH"
   },
   "2026-11-29|12:20|08:20+1|ATH+DXB": {
    "date": "2026-11-29",
@@ -4711,6 +3119,14 @@
    "duration": 990,
    "label": "29/11 א׳ Aegean + Emirates 12:20→08:20+1",
    "usd": 2792.0,
+   "via": "ATH+DXB"
+  },
+  "2026-11-29|12:20|10:15+1|ATH+DXB": {
+   "date": "2026-11-29",
+   "dep": "12:20",
+   "duration": 1105,
+   "label": "29/11 א׳ Emirates 12:20→10:15+1",
+   "usd": 2852.49,
    "via": "ATH+DXB"
   },
   "2026-11-29|12:20|10:15+1|ATH+DXB+MLE": {
@@ -4729,21 +3145,45 @@
    "usd": 2792.0,
    "via": "ATH+DXB"
   },
-  "2026-11-29|12:50|01:50+2|ATH+SHJ": {
+  "2026-11-29|12:35|02:40+2|DUS+VIE+AUH": {
    "date": "2026-11-29",
-   "dep": "12:50",
-   "duration": 2010,
-   "label": "29/11 א׳ Wizz Air Malta + Air Arabia 12:50→01:50+2",
-   "usd": 432.1,
-   "via": "ATH+SHJ"
+   "dep": "12:35",
+   "duration": 2075,
+   "label": "29/11 א׳ Eurowings + Etihad 12:35→02:40+2",
+   "usd": 721.66,
+   "via": "DUS+VIE+AUH"
   },
-  "2026-11-29|12:50|04:30+2|ATH+SHJ": {
+  "2026-11-29|12:35|08:00+2|DUS+VIE+FRA+ZRH": {
+   "date": "2026-11-29",
+   "dep": "12:35",
+   "duration": 2395,
+   "label": "29/11 א׳ Eurowings + Lufthansa 12:35→08:00+2",
+   "usd": 962.6,
+   "via": "DUS+VIE+FRA+ZRH"
+  },
+  "2026-11-29|12:35|14:50+2|DUS+VIE+AUH": {
+   "date": "2026-11-29",
+   "dep": "12:35",
+   "duration": 2805,
+   "label": "29/11 א׳ Eurowings + Etihad 12:35→14:50+2",
+   "usd": 1023.38,
+   "via": "DUS+VIE+AUH"
+  },
+  "2026-11-29|12:50|02:40+2|ATH+AUH": {
    "date": "2026-11-29",
    "dep": "12:50",
-   "duration": 2170,
-   "label": "29/11 א׳ Wizz Air Malta + Air Arabia 12:50→04:30+2",
-   "usd": 449.78,
-   "via": "ATH+SHJ"
+   "duration": 2060,
+   "label": "29/11 א׳ Wizz Air Malta + Etihad 12:50→02:40+2",
+   "usd": 590.14,
+   "via": "ATH+AUH"
+  },
+  "2026-11-29|12:50|20:15+1|ATH+AUH": {
+   "date": "2026-11-29",
+   "dep": "12:50",
+   "duration": 1675,
+   "label": "29/11 א׳ Wizz Air Malta + Etihad 12:50→20:15+1",
+   "usd": 590.14,
+   "via": "ATH+AUH"
   },
   "2026-11-29|13:30|00:45+2|GYD+DXB": {
    "date": "2026-11-29",
@@ -4758,7 +3198,7 @@
    "dep": "14:00",
    "duration": 550,
    "label": "29/11 א׳ Etihad 14:00→02:40+1",
-   "usd": 826.0,
+   "usd": 1284.0,
    "via": "AUH"
   },
   "2026-11-29|14:00|02:40+2|AUH": {
@@ -4774,7 +3214,7 @@
    "dep": "14:00",
    "duration": 880,
    "label": "29/11 א׳ Etihad 14:00→08:10+1",
-   "usd": 826.0,
+   "usd": 1051.68,
    "via": "AUH"
   },
   "2026-11-29|14:00|14:50+1|AUH": {
@@ -4782,8 +3222,16 @@
    "dep": "14:00",
    "duration": 1280,
    "label": "29/11 א׳ Etihad 14:00→14:50+1",
-   "usd": 826.0,
+   "usd": 1284.0,
    "via": "AUH"
+  },
+  "2026-11-29|14:00|16:05+1|AUH+DEL": {
+   "date": "2026-11-29",
+   "dep": "14:00",
+   "duration": 1355,
+   "label": "29/11 א׳ Etihad + Air India 14:00→16:05+1",
+   "usd": 4679.0,
+   "via": "AUH+DEL"
   },
   "2026-11-29|14:00|17:30+1|AUH+MLE": {
    "date": "2026-11-29",
@@ -4822,7 +3270,7 @@
    "dep": "14:25",
    "duration": 525,
    "label": "29/11 א׳ Etihad 14:25→02:40+1",
-   "usd": 1104.0,
+   "usd": 1294.0,
    "via": "AUH"
   },
   "2026-11-29|14:25|02:40+2|AUH": {
@@ -4838,7 +3286,7 @@
    "dep": "14:25",
    "duration": 855,
    "label": "29/11 א׳ Etihad 14:25→08:10+1",
-   "usd": 1104.0,
+   "usd": 1294.0,
    "via": "AUH"
   },
   "2026-11-29|14:25|14:50+1|AUH": {
@@ -4846,7 +3294,7 @@
    "dep": "14:25",
    "duration": 1255,
    "label": "29/11 א׳ Etihad 14:25→14:50+1",
-   "usd": 1104.0,
+   "usd": 1294.0,
    "via": "AUH"
   },
   "2026-11-29|14:25|15:15+1|AUH+BOM": {
@@ -4878,7 +3326,7 @@
    "dep": "14:25",
    "duration": 1580,
    "label": "29/11 א׳ Etihad 14:25→20:15+1",
-   "usd": 1104.0,
+   "usd": 1294.0,
    "via": "AUH"
   },
   "2026-11-29|14:30|13:45+1|ATH+SHJ": {
@@ -4889,14 +3337,6 @@
    "usd": 638.44,
    "via": "ATH+SHJ"
   },
-  "2026-11-29|15:05|01:50+2|ATH+SHJ": {
-   "date": "2026-11-29",
-   "dep": "15:05",
-   "duration": 1875,
-   "label": "29/11 א׳ Aegean + Air Arabia 15:05→01:50+2",
-   "usd": 554.78,
-   "via": "ATH+SHJ"
-  },
   "2026-11-29|15:05|02:45+2|ATH+DOH": {
    "date": "2026-11-29",
    "dep": "15:05",
@@ -4905,20 +3345,12 @@
    "usd": 655.0,
    "via": "ATH+DOH"
   },
-  "2026-11-29|15:05|04:30+2|ATH+SHJ": {
-   "date": "2026-11-29",
-   "dep": "15:05",
-   "duration": 2035,
-   "label": "29/11 א׳ Aegean + Air Arabia 15:05→04:30+2",
-   "usd": 575.78,
-   "via": "ATH+SHJ"
-  },
   "2026-11-29|15:40|02:40+2|VIE+AUH": {
    "date": "2026-11-29",
    "dep": "15:40",
    "duration": 1890,
    "label": "29/11 א׳ Austrian + Etihad 15:40→02:40+2",
-   "usd": 737.14,
+   "usd": 698.45,
    "via": "VIE+AUH"
   },
   "2026-11-29|15:40|08:00+2|VIE+FRA+ZRH": {
@@ -4926,7 +3358,7 @@
    "dep": "15:40",
    "duration": 2210,
    "label": "29/11 א׳ Austrian + Lufthansa 15:40→08:00+2",
-   "usd": 930.55,
+   "usd": 941.6,
    "via": "VIE+FRA+ZRH"
   },
   "2026-11-29|15:40|14:50+2|VIE+AUH": {
@@ -4934,7 +3366,7 @@
    "dep": "15:40",
    "duration": 2620,
    "label": "29/11 א׳ Austrian + Etihad 15:40→14:50+2",
-   "usd": 999.07,
+   "usd": 1000.17,
    "via": "VIE+AUH"
   },
   "2026-11-29|15:40|17:30+2|VIE+MLE": {
@@ -4958,32 +3390,8 @@
    "dep": "15:50",
    "duration": 1260,
    "label": "29/11 א׳ Ethiopian + flydubai 15:50→16:20+1",
-   "usd": 1024.0,
+   "usd": 1629.0,
    "via": "ADD+DXB"
-  },
-  "2026-11-29|15:55|01:55+2|LCA+DOH": {
-   "date": "2026-11-29",
-   "dep": "15:55",
-   "duration": 1830,
-   "label": "29/11 א׳ Cyprus + Qatar 15:55→01:55+2",
-   "usd": 714.0,
-   "via": "LCA+DOH"
-  },
-  "2026-11-29|15:55|02:45+2|LCA+DOH": {
-   "date": "2026-11-29",
-   "dep": "15:55",
-   "duration": 1880,
-   "label": "29/11 א׳ Cyprus + Qatar 15:55→02:45+2",
-   "usd": 714.0,
-   "via": "LCA+DOH"
-  },
-  "2026-11-29|15:55|08:45+2|LCA+DOH": {
-   "date": "2026-11-29",
-   "dep": "15:55",
-   "duration": 2240,
-   "label": "29/11 א׳ Cyprus + Qatar 15:55→08:45+2",
-   "usd": 649.0,
-   "via": "LCA+DOH"
   },
   "2026-11-29|16:35|08:00+1|FRA+ZRH": {
    "date": "2026-11-29",
@@ -4993,28 +3401,28 @@
    "usd": 1758.27,
    "via": "FRA+ZRH"
   },
-  "2026-11-29|16:50|01:50+2|ATH+SHJ": {
+  "2026-11-29|16:50|02:40+2|ATH+AUH": {
    "date": "2026-11-29",
    "dep": "16:50",
-   "duration": 1770,
-   "label": "29/11 א׳ Blue Bird + Air Arabia 16:50→01:50+2",
-   "usd": 438.73,
-   "via": "ATH+SHJ"
+   "duration": 1820,
+   "label": "29/11 א׳ Blue Bird + Etihad 16:50→02:40+2",
+   "usd": 593.46,
+   "via": "ATH+AUH"
   },
-  "2026-11-29|16:50|04:30+2|ATH+SHJ": {
+  "2026-11-29|16:50|20:15+1|ATH+AUH": {
    "date": "2026-11-29",
    "dep": "16:50",
-   "duration": 1930,
-   "label": "29/11 א׳ Blue Bird + Air Arabia 16:50→04:30+2",
-   "usd": 458.62,
-   "via": "ATH+SHJ"
+   "duration": 1435,
+   "label": "29/11 א׳ Blue Bird + Etihad 16:50→20:15+1",
+   "usd": 593.46,
+   "via": "ATH+AUH"
   },
   "2026-11-29|17:10|02:40+2|MUC+VIE+AUH": {
    "date": "2026-11-29",
    "dep": "17:10",
    "duration": 1800,
    "label": "29/11 א׳ Lufthansa + Etihad 17:10→02:40+2",
-   "usd": 737.14,
+   "usd": 719.45,
    "via": "MUC+VIE+AUH"
   },
   "2026-11-29|17:10|08:00+2|MUC+VIE+ZRH": {
@@ -5022,7 +3430,7 @@
    "dep": "17:10",
    "duration": 2120,
    "label": "29/11 א׳ Lufthansa + Swiss International 17:10→08:00+2",
-   "usd": 898.49,
+   "usd": 922.81,
    "via": "MUC+VIE+ZRH"
   },
   "2026-11-29|17:10|14:50+2|MUC+VIE+AUH": {
@@ -5030,7 +3438,7 @@
    "dep": "17:10",
    "duration": 2530,
    "label": "29/11 א׳ Lufthansa + Etihad 17:10→14:50+2",
-   "usd": 999.07,
+   "usd": 1021.17,
    "via": "MUC+VIE+AUH"
   },
   "2026-11-29|17:10|15:55+1|MUC+DXB": {
@@ -5041,52 +3449,44 @@
    "usd": 4501.0,
    "via": "MUC+DXB"
   },
-  "2026-11-29|18:10|01:50+2|ATH+SHJ": {
+  "2026-11-29|18:10|02:40+2|ATH+AUH": {
    "date": "2026-11-29",
    "dep": "18:10",
-   "duration": 1690,
-   "label": "29/11 א׳ Arkia + Air Arabia 18:10→01:50+2",
-   "usd": 472.99,
-   "via": "ATH+SHJ"
+   "duration": 1740,
+   "label": "29/11 א׳ Arkia + Etihad 18:10→02:40+2",
+   "usd": 627.72,
+   "via": "ATH+AUH"
   },
-  "2026-11-29|18:10|04:30+2|ATH+SHJ": {
+  "2026-11-29|18:10|08:10+2|ATH+AUH": {
    "date": "2026-11-29",
    "dep": "18:10",
-   "duration": 1850,
-   "label": "29/11 א׳ Arkia + Air Arabia 18:10→04:30+2",
-   "usd": 492.89,
-   "via": "ATH+SHJ"
+   "duration": 2070,
+   "label": "29/11 א׳ Arkia + Etihad 18:10→08:10+2",
+   "usd": 627.72,
+   "via": "ATH+AUH"
   },
-  "2026-11-29|19:10|01:50+2|ATH+SHJ": {
+  "2026-11-29|18:10|20:15+1|ATH+AUH": {
    "date": "2026-11-29",
-   "dep": "19:10",
-   "duration": 1630,
-   "label": "29/11 א׳ Aegean + Air Arabia 19:10→01:50+2",
-   "usd": 481.83,
-   "via": "ATH+SHJ"
+   "dep": "18:10",
+   "duration": 1355,
+   "label": "29/11 א׳ Arkia + Etihad 18:10→20:15+1",
+   "usd": 627.72,
+   "via": "ATH+AUH"
   },
   "2026-11-29|19:10|02:45+2|ATH+DOH": {
    "date": "2026-11-29",
    "dep": "19:10",
    "duration": 1685,
    "label": "29/11 א׳ Aegean + Qatar 19:10→02:45+2",
-   "usd": 720.0,
+   "usd": 553.0,
    "via": "ATH+DOH"
-  },
-  "2026-11-29|19:10|04:30+2|ATH+SHJ": {
-   "date": "2026-11-29",
-   "dep": "19:10",
-   "duration": 1790,
-   "label": "29/11 א׳ Aegean + Air Arabia 19:10→04:30+2",
-   "usd": 501.73,
-   "via": "ATH+SHJ"
   },
   "2026-11-29|19:10|08:45+2|ATH+DOH": {
    "date": "2026-11-29",
    "dep": "19:10",
    "duration": 2045,
    "label": "29/11 א׳ Aegean + Qatar 19:10→08:45+2",
-   "usd": 793.0,
+   "usd": 553.0,
    "via": "ATH+DOH"
   },
   "2026-11-29|19:20|02:40+2|AUH": {
@@ -5161,6 +3561,14 @@
    "usd": 4052.0,
    "via": "AUH+BOM"
   },
+  "2026-11-29|19:20|23:35+1|AUH+KUL": {
+   "date": "2026-11-29",
+   "dep": "19:20",
+   "duration": 1485,
+   "label": "29/11 א׳ Etihad + Malaysia 19:20→23:35+1",
+   "usd": 5034.0,
+   "via": "AUH+KUL"
+  },
   "2026-11-29|23:50|00:45+2|GYD+DXB": {
    "date": "2026-11-29",
    "dep": "23:50",
@@ -5206,7 +3614,7 @@
    "dep": "00:50",
    "duration": 1340,
    "label": "30/11 ב׳ Etihad 00:50→02:40+1",
-   "usd": 940.0,
+   "usd": 1279.0,
    "via": "AUH"
   },
   "2026-11-30|00:50|05:35+1|AUH+BOM": {
@@ -5222,7 +3630,7 @@
    "dep": "00:50",
    "duration": 1670,
    "label": "30/11 ב׳ Etihad 00:50→08:10+1",
-   "usd": 821.0,
+   "usd": 1279.0,
    "via": "AUH"
   },
   "2026-11-30|00:50|14:50+0|AUH": {
@@ -5230,7 +3638,7 @@
    "dep": "00:50",
    "duration": 630,
    "label": "30/11 ב׳ Etihad 00:50→14:50",
-   "usd": 940.0,
+   "usd": 1279.0,
    "via": "AUH"
   },
   "2026-11-30|00:50|20:15+0|AUH": {
@@ -5238,7 +3646,7 @@
    "dep": "00:50",
    "duration": 955,
    "label": "30/11 ב׳ Etihad 00:50→20:15",
-   "usd": 940.0,
+   "usd": 1238.87,
    "via": "AUH"
   },
   "2026-11-30|00:50|22:50+0|AUH+MLE": {
@@ -5270,7 +3678,7 @@
    "dep": "01:00",
    "duration": 2720,
    "label": "30/11 ב׳ Lufthansa + Air Arabia 01:00→01:50+2",
-   "usd": 663.09,
+   "usd": 670.82,
    "via": "FRA+WAW+SHJ"
   },
   "2026-11-30|01:00|04:30+1|FRA+WAW+SHJ": {
@@ -5278,7 +3686,7 @@
    "dep": "01:00",
    "duration": 1440,
    "label": "30/11 ב׳ Lufthansa + Air Arabia 01:00→04:30+1",
-   "usd": 667.51,
+   "usd": 695.14,
    "via": "FRA+WAW+SHJ"
   },
   "2026-11-30|01:00|08:00+1|FRA+WAW+ZRH": {
@@ -5286,7 +3694,7 @@
    "dep": "01:00",
    "duration": 1650,
    "label": "30/11 ב׳ Lufthansa + Swiss International 01:00→08:00+1",
-   "usd": 862.02,
+   "usd": 856.5,
    "via": "FRA+WAW+ZRH"
   },
   "2026-11-30|01:00|13:45+1|FRA+WAW+SHJ": {
@@ -5294,7 +3702,7 @@
    "dep": "01:00",
    "duration": 1995,
    "label": "30/11 ב׳ Lufthansa + Air Arabia 01:00→13:45+1",
-   "usd": 681.88,
+   "usd": 675.24,
    "via": "FRA+WAW+SHJ"
   },
   "2026-11-30|01:10|01:50+2|MUC+WAW+SHJ": {
@@ -5302,7 +3710,7 @@
    "dep": "01:10",
    "duration": 2710,
    "label": "30/11 ב׳ Lufthansa + Air Arabia 01:10→01:50+2",
-   "usd": 779.13,
+   "usd": 758.15,
    "via": "MUC+WAW+SHJ"
   },
   "2026-11-30|01:10|04:30+1|MUC+WAW+SHJ": {
@@ -5318,7 +3726,7 @@
    "dep": "01:10",
    "duration": 1985,
    "label": "30/11 ב׳ Lufthansa + Air Arabia 01:10→13:45+1",
-   "usd": 795.71,
+   "usd": 763.66,
    "via": "MUC+WAW+SHJ"
   },
   "2026-11-30|05:15|01:55+1|FCO+DOH": {
@@ -5334,7 +3742,7 @@
    "dep": "05:20",
    "duration": 2460,
    "label": "30/11 ב׳ Lot Polish + Air Arabia 05:20→01:50+2",
-   "usd": 619.98,
+   "usd": 595.67,
    "via": "WAW+SHJ"
   },
   "2026-11-30|05:20|02:45+1|ATH+DOH": {
@@ -5350,7 +3758,7 @@
    "dep": "05:20",
    "duration": 1180,
    "label": "30/11 ב׳ Lot Polish + Air Arabia 05:20→04:30+1",
-   "usd": 623.3,
+   "usd": 619.98,
    "via": "WAW+SHJ"
   },
   "2026-11-30|05:20|05:50+1|ATH+DOH": {
@@ -5374,7 +3782,7 @@
    "dep": "05:20",
    "duration": 1390,
    "label": "30/11 ב׳ Lot Polish + Swiss International 05:20→08:00+1",
-   "usd": 824.45,
+   "usd": 792.4,
    "via": "WAW+ZRH"
   },
   "2026-11-30|05:20|08:20+1|ATH+DXB": {
@@ -5406,7 +3814,7 @@
    "dep": "05:20",
    "duration": 1735,
    "label": "30/11 ב׳ Aegean + Air Arabia 05:20→13:45+1",
-   "usd": 639.88,
+   "usd": 596.77,
    "via": "ATH+SHJ"
   },
   "2026-11-30|05:20|13:45+1|WAW+SHJ": {
@@ -5414,7 +3822,7 @@
    "dep": "05:20",
    "duration": 1735,
    "label": "30/11 ב׳ Lot Polish + Air Arabia 05:20→13:45+1",
-   "usd": 638.77,
+   "usd": 601.2,
    "via": "WAW+SHJ"
   },
   "2026-11-30|05:20|16:30+1|ATH+DOH": {
@@ -5446,7 +3854,7 @@
    "dep": "06:00",
    "duration": 2420,
    "label": "30/11 ב׳ El Al Israel + Air Arabia 06:00→01:50+2",
-   "usd": 670.82,
+   "usd": 647.61,
    "via": "WAW+SHJ"
   },
   "2026-11-30|06:00|04:30+1|WAW+SHJ": {
@@ -5454,7 +3862,7 @@
    "dep": "06:00",
    "duration": 1140,
    "label": "30/11 ב׳ El Al Israel + Air Arabia 06:00→04:30+1",
-   "usd": 675.24,
+   "usd": 671.93,
    "via": "WAW+SHJ"
   },
   "2026-11-30|06:00|08:00+1|WAW+ZRH": {
@@ -5462,7 +3870,7 @@
    "dep": "06:00",
    "duration": 1350,
    "label": "30/11 ב׳ El Al Israel + Swiss International 06:00→08:00+1",
-   "usd": 868.65,
+   "usd": 836.6,
    "via": "WAW+ZRH"
   },
   "2026-11-30|06:00|13:45+1|WAW+SHJ": {
@@ -5470,7 +3878,7 @@
    "dep": "06:00",
    "duration": 1695,
    "label": "30/11 ב׳ El Al Israel + Air Arabia 06:00→13:45+1",
-   "usd": 690.72,
+   "usd": 652.03,
    "via": "WAW+SHJ"
   },
   "2026-11-30|06:20|02:40+1|AUH": {
@@ -5478,7 +3886,7 @@
    "dep": "06:20",
    "duration": 1010,
    "label": "30/11 ב׳ Etihad 06:20→02:40+1",
-   "usd": 811.0,
+   "usd": 1079.0,
    "via": "AUH"
   },
   "2026-11-30|06:20|05:35+1|AUH+BOM": {
@@ -5494,7 +3902,7 @@
    "dep": "06:20",
    "duration": 1340,
    "label": "30/11 ב׳ Etihad 06:20→08:10+1",
-   "usd": 811.0,
+   "usd": 1079.0,
    "via": "AUH"
   },
   "2026-11-30|06:20|14:50+1|AUH": {
@@ -5502,7 +3910,7 @@
    "dep": "06:20",
    "duration": 1740,
    "label": "30/11 ב׳ Etihad 06:20→14:50+1",
-   "usd": 811.0,
+   "usd": 1079.0,
    "via": "AUH"
   },
   "2026-11-30|06:20|20:15+0|AUH": {
@@ -5510,7 +3918,7 @@
    "dep": "06:20",
    "duration": 625,
    "label": "30/11 ב׳ Etihad 06:20→20:15",
-   "usd": 811.0,
+   "usd": 1079.0,
    "via": "AUH"
   },
   "2026-11-30|06:20|23:20+0|AUH+BOM": {
@@ -5534,7 +3942,7 @@
    "dep": "06:55",
    "duration": 975,
    "label": "30/11 ב׳ Etihad 06:55→02:40+1",
-   "usd": 821.0,
+   "usd": 1089.0,
    "via": "AUH"
   },
   "2026-11-30|06:55|04:10+1|AUH+DEL": {
@@ -5558,7 +3966,7 @@
    "dep": "06:55",
    "duration": 1305,
    "label": "30/11 ב׳ Etihad 06:55→08:10+1",
-   "usd": 821.0,
+   "usd": 1089.0,
    "via": "AUH"
   },
   "2026-11-30|06:55|14:50+1|AUH": {
@@ -5566,7 +3974,7 @@
    "dep": "06:55",
    "duration": 1705,
    "label": "30/11 ב׳ Etihad 06:55→14:50+1",
-   "usd": 821.0,
+   "usd": 1089.0,
    "via": "AUH"
   },
   "2026-11-30|06:55|20:15+0|AUH": {
@@ -5574,7 +3982,7 @@
    "dep": "06:55",
    "duration": 590,
    "label": "30/11 ב׳ Etihad 06:55→20:15",
-   "usd": 821.0,
+   "usd": 1089.0,
    "via": "AUH"
   },
   "2026-11-30|06:55|23:20+0|AUH+BOM": {
@@ -5606,7 +4014,7 @@
    "dep": "08:45",
    "duration": 1195,
    "label": "30/11 ב׳ Blue Bird + Etihad 08:45→08:10+1",
-   "usd": 656.46,
+   "usd": 653.14,
    "via": "ATH+AUH"
   },
   "2026-11-30|08:45|13:45+1|ATH+SHJ": {
@@ -5614,7 +4022,7 @@
    "dep": "08:45",
    "duration": 1530,
    "label": "30/11 ב׳ Blue Bird + Air Arabia 08:45→13:45+1",
-   "usd": 582.41,
+   "usd": 539.3,
    "via": "ATH+SHJ"
   },
   "2026-11-30|10:45|00:45+2|WAW+DXB": {
@@ -5630,7 +4038,7 @@
    "dep": "11:55",
    "duration": 2065,
    "label": "30/11 ב׳ Wizz Air + Air Arabia 11:55→01:50+2",
-   "usd": 486.25,
+   "usd": 468.57,
    "via": "WAW+SHJ"
   },
   "2026-11-30|11:55|13:45+1|WAW+SHJ": {
@@ -5638,7 +4046,7 @@
    "dep": "11:55",
    "duration": 1340,
    "label": "30/11 ב׳ Wizz Air + Air Arabia 11:55→13:45+1",
-   "usd": 511.67,
+   "usd": 474.1,
    "via": "WAW+SHJ"
   },
   "2026-11-30|12:20|01:50+2|ATH+WAW+SHJ": {
@@ -5646,8 +4054,16 @@
    "dep": "12:20",
    "duration": 2040,
    "label": "30/11 ב׳ Aegean + Air Arabia 12:20→01:50+2",
-   "usd": 667.51,
+   "usd": 644.3,
    "via": "ATH+WAW+SHJ"
+  },
+  "2026-11-30|12:20|08:20+1|ATH+DXB": {
+   "date": "2026-11-30",
+   "dep": "12:20",
+   "duration": 990,
+   "label": "30/11 ב׳ Aegean + Emirates 12:20→08:20+1",
+   "usd": 2792.0,
+   "via": "ATH+DXB"
   },
   "2026-11-30|12:20|09:45+1|ATH+DOH": {
    "date": "2026-11-30",
@@ -5657,20 +4073,36 @@
    "usd": 990.57,
    "via": "ATH+DOH"
   },
+  "2026-11-30|12:20|10:15+1|ATH+DXB+MLE": {
+   "date": "2026-11-30",
+   "dep": "12:20",
+   "duration": 1105,
+   "label": "30/11 ב׳ Aegean + Emirates + flydubai 12:20→10:15+1",
+   "usd": 2792.0,
+   "via": "ATH+DXB+MLE"
+  },
   "2026-11-30|12:20|13:45+1|ATH+WAW+SHJ": {
    "date": "2026-11-30",
    "dep": "12:20",
    "duration": 1315,
    "label": "30/11 ב׳ Aegean + Air Arabia 12:20→13:45+1",
-   "usd": 691.82,
+   "usd": 648.76,
    "via": "ATH+WAW+SHJ"
+  },
+  "2026-11-30|12:20|15:55+1|ATH+DXB": {
+   "date": "2026-11-30",
+   "dep": "12:20",
+   "duration": 1445,
+   "label": "30/11 ב׳ Aegean + Emirates 12:20→15:55+1",
+   "usd": 2792.0,
+   "via": "ATH+DXB"
   },
   "2026-11-30|12:50|02:50+2|ATH+AUH": {
    "date": "2026-11-30",
    "dep": "12:50",
    "duration": 2070,
    "label": "30/11 ב׳ Wizz Air Malta + Etihad 12:50→02:50+2",
-   "usd": 691.82,
+   "usd": 689.61,
    "via": "ATH+AUH"
   },
   "2026-11-30|12:50|13:45+1|ATH+SHJ": {
@@ -5678,7 +4110,7 @@
    "dep": "12:50",
    "duration": 1285,
    "label": "30/11 ב׳ Wizz Air Malta + Air Arabia 12:50→13:45+1",
-   "usd": 513.88,
+   "usd": 471.89,
    "via": "ATH+SHJ"
   },
   "2026-11-30|12:50|20:15+1|ATH+AUH": {
@@ -5686,7 +4118,7 @@
    "dep": "12:50",
    "duration": 1675,
    "label": "30/11 ב׳ Wizz Air Malta + Etihad 12:50→20:15+1",
-   "usd": 691.82,
+   "usd": 689.61,
    "via": "ATH+AUH"
   },
   "2026-11-30|13:30|15:55+1|LCA+DXB": {
@@ -5710,7 +4142,7 @@
    "dep": "14:00",
    "duration": 550,
    "label": "30/11 ב׳ Etihad 14:00→02:40+1",
-   "usd": 826.0,
+   "usd": 1284.0,
    "via": "AUH"
   },
   "2026-11-30|14:00|02:50+2|AUH": {
@@ -5726,7 +4158,7 @@
    "dep": "14:00",
    "duration": 880,
    "label": "30/11 ב׳ Etihad 14:00→08:10+1",
-   "usd": 826.0,
+   "usd": 1284.0,
    "via": "AUH"
   },
   "2026-11-30|14:00|08:10+2|AUH": {
@@ -5742,16 +4174,8 @@
    "dep": "14:00",
    "duration": 1280,
    "label": "30/11 ב׳ Etihad 14:00→14:50+1",
-   "usd": 826.0,
+   "usd": 1094.0,
    "via": "AUH"
-  },
-  "2026-11-30|14:00|15:15+1|AUH+BOM": {
-   "date": "2026-11-30",
-   "dep": "14:00",
-   "duration": 1305,
-   "label": "30/11 ב׳ Etihad + Air India 14:00→15:15+1",
-   "usd": 4254.0,
-   "via": "AUH+BOM"
   },
   "2026-11-30|14:00|20:15+1|AUH": {
    "date": "2026-11-30",
@@ -5766,7 +4190,7 @@
    "dep": "14:25",
    "duration": 525,
    "label": "30/11 ב׳ Etihad 14:25→02:40+1",
-   "usd": 836.0,
+   "usd": 1104.0,
    "via": "AUH"
   },
   "2026-11-30|14:25|02:50+2|AUH": {
@@ -5782,7 +4206,7 @@
    "dep": "14:25",
    "duration": 855,
    "label": "30/11 ב׳ Etihad 14:25→08:10+1",
-   "usd": 836.0,
+   "usd": 1104.0,
    "via": "AUH"
   },
   "2026-11-30|14:25|08:10+2|AUH": {
@@ -5798,7 +4222,7 @@
    "dep": "14:25",
    "duration": 1255,
    "label": "30/11 ב׳ Etihad 14:25→14:50+1",
-   "usd": 836.0,
+   "usd": 1104.0,
    "via": "AUH"
   },
   "2026-11-30|14:25|15:15+1|AUH+BOM": {
@@ -5830,7 +4254,7 @@
    "dep": "14:25",
    "duration": 1580,
    "label": "30/11 ב׳ Etihad 14:25→20:15+1",
-   "usd": 836.0,
+   "usd": 1104.0,
    "via": "AUH"
   },
   "2026-11-30|14:40|17:20+1|ADD+MAA": {
@@ -5846,7 +4270,7 @@
    "dep": "15:30",
    "duration": 1910,
    "label": "30/11 ב׳ Blue Bird + Etihad 15:30→02:50+2",
-   "usd": 689.61,
+   "usd": 686.3,
    "via": "ATH+AUH"
   },
   "2026-11-30|15:30|13:45+1|ATH+SHJ": {
@@ -5854,7 +4278,7 @@
    "dep": "15:30",
    "duration": 1125,
    "label": "30/11 ב׳ Blue Bird + Air Arabia 15:30→13:45+1",
-   "usd": 511.67,
+   "usd": 468.57,
    "via": "ATH+SHJ"
   },
   "2026-11-30|15:30|20:15+1|ATH+AUH": {
@@ -5862,39 +4286,31 @@
    "dep": "15:30",
    "duration": 1515,
    "label": "30/11 ב׳ Blue Bird + Etihad 15:30→20:15+1",
-   "usd": 689.61,
+   "usd": 686.3,
    "via": "ATH+AUH"
   },
-  "2026-11-30|15:40|04:30+2|VIE+ATH+SHJ": {
+  "2026-11-30|15:40|02:50+2|ATH+AUH": {
    "date": "2026-11-30",
    "dep": "15:40",
-   "duration": 2000,
-   "label": "30/11 ב׳ Austrian + Air Arabia 15:40→04:30+2",
-   "usd": 648.72,
-   "via": "VIE+ATH+SHJ"
+   "duration": 1900,
+   "label": "30/11 ב׳ Israir + Etihad 15:40→02:50+2",
+   "usd": 698.45,
+   "via": "ATH+AUH"
   },
   "2026-11-30|15:40|04:30+2|VIE+WAW+SHJ": {
    "date": "2026-11-30",
    "dep": "15:40",
    "duration": 2000,
    "label": "30/11 ב׳ Austrian + Air Arabia 15:40→04:30+2",
-   "usd": 805.66,
+   "usd": 870.86,
    "via": "VIE+WAW+SHJ"
-  },
-  "2026-11-30|15:40|09:45+2|VIE+ATH+BAH": {
-   "date": "2026-11-30",
-   "dep": "15:40",
-   "duration": 2315,
-   "label": "30/11 ב׳ Austrian + Gulf Air 15:40→09:45+2",
-   "usd": 691.82,
-   "via": "VIE+ATH+BAH"
   },
   "2026-11-30|15:40|13:45+1|ATH+SHJ": {
    "date": "2026-11-30",
    "dep": "15:40",
    "duration": 1115,
    "label": "30/11 ב׳ Israir + Air Arabia 15:40→13:45+1",
-   "usd": 522.73,
+   "usd": 480.73,
    "via": "ATH+SHJ"
   },
   "2026-11-30|15:40|17:30+1|VIE+MLE": {
@@ -5904,6 +4320,14 @@
    "label": "30/11 ב׳ Austrian + SriLankan 15:40→17:30+1",
    "usd": 1212.0,
    "via": "VIE+MLE"
+  },
+  "2026-11-30|15:40|20:15+1|ATH+AUH": {
+   "date": "2026-11-30",
+   "dep": "15:40",
+   "duration": 1505,
+   "label": "30/11 ב׳ Israir + Etihad 15:40→20:15+1",
+   "usd": 698.45,
+   "via": "ATH+AUH"
   },
   "2026-11-30|15:40|22:50+1|VIE+MLE": {
    "date": "2026-11-30",
@@ -5929,30 +4353,6 @@
    "usd": 1133.0,
    "via": "ADD+MAA"
   },
-  "2026-11-30|16:05|01:55+2|LCA+DOH": {
-   "date": "2026-11-30",
-   "dep": "16:05",
-   "duration": 1820,
-   "label": "30/11 ב׳ Cyprus + Qatar 16:05→01:55+2",
-   "usd": 714.0,
-   "via": "LCA+DOH"
-  },
-  "2026-11-30|16:05|02:45+2|LCA+DOH": {
-   "date": "2026-11-30",
-   "dep": "16:05",
-   "duration": 1870,
-   "label": "30/11 ב׳ Cyprus + Qatar 16:05→02:45+2",
-   "usd": 714.0,
-   "via": "LCA+DOH"
-  },
-  "2026-11-30|16:05|08:45+2|LCA+DOH": {
-   "date": "2026-11-30",
-   "dep": "16:05",
-   "duration": 2230,
-   "label": "30/11 ב׳ Cyprus + Qatar 16:05→08:45+2",
-   "usd": 714.0,
-   "via": "LCA+DOH"
-  },
   "2026-11-30|16:35|08:00+1|FRA+ZRH": {
    "date": "2026-11-30",
    "dep": "16:35",
@@ -5974,7 +4374,7 @@
    "dep": "17:10",
    "duration": 2225,
    "label": "30/11 ב׳ Lufthansa + Gulf Air 17:10→09:45+2",
-   "usd": 636.56,
+   "usd": 652.03,
    "via": "MUC+ATH+BAH"
   },
   "2026-11-30|18:10|04:30+2|ATH+SHJ": {
@@ -5982,7 +4382,7 @@
    "dep": "18:10",
    "duration": 1850,
    "label": "30/11 ב׳ Arkia + Air Arabia 18:10→04:30+2",
-   "usd": 496.2,
+   "usd": 590.14,
    "via": "ATH+SHJ"
   },
   "2026-11-30|18:10|13:45+1|ATH+SHJ": {
@@ -5990,7 +4390,7 @@
    "dep": "18:10",
    "duration": 965,
    "label": "30/11 ב׳ Arkia + Air Arabia 18:10→13:45+1",
-   "usd": 556.99,
+   "usd": 514.99,
    "via": "ATH+SHJ"
   },
   "2026-11-30|18:15|16:20+1|TBS+DXB": {
@@ -6014,7 +4414,7 @@
    "dep": "19:10",
    "duration": 1790,
    "label": "30/11 ב׳ Aegean + Air Arabia 19:10→04:30+2",
-   "usd": 506.15,
+   "usd": 598.99,
    "via": "ATH+SHJ"
   },
   "2026-11-30|19:10|08:45+2|ATH+DOH": {
@@ -6022,7 +4422,7 @@
    "dep": "19:10",
    "duration": 2045,
    "label": "30/11 ב׳ Aegean + Qatar 19:10→08:45+2",
-   "usd": 606.0,
+   "usd": 553.0,
    "via": "ATH+DOH"
   },
   "2026-11-30|19:10|09:45+2|ATH+BAH": {
@@ -6030,7 +4430,7 @@
    "dep": "19:10",
    "duration": 2105,
    "label": "30/11 ב׳ Aegean + Gulf Air 19:10→09:45+2",
-   "usd": 551.46,
+   "usd": 548.15,
    "via": "ATH+BAH"
   },
   "2026-11-30|19:10|13:45+1|ATH+SHJ": {
@@ -6038,7 +4438,7 @@
    "dep": "19:10",
    "duration": 905,
    "label": "30/11 ב׳ Aegean + Air Arabia 19:10→13:45+1",
-   "usd": 565.83,
+   "usd": 523.83,
    "via": "ATH+SHJ"
   },
   "2026-11-30|19:20|02:40+2|AUH": {
@@ -6121,6 +4521,14 @@
    "usd": 4052.0,
    "via": "AUH+BOM"
   },
+  "2026-11-30|19:20|23:35+1|AUH+KUL": {
+   "date": "2026-11-30",
+   "dep": "19:20",
+   "duration": 1485,
+   "label": "30/11 ב׳ Etihad + Malaysia 19:20→23:35+1",
+   "usd": 4621.0,
+   "via": "AUH+KUL"
+  },
   "2026-11-30|21:40|10:10+1|BKK": {
    "date": "2026-11-30",
    "dep": "21:40",
@@ -6142,23 +4550,15 @@
    "dep": "23:30",
    "duration": 1530,
    "label": "30/11 ב׳ Sky Express + Air Arabia 23:30→04:30+2",
-   "usd": 463.05,
+   "usd": 556.99,
    "via": "ATH+SHJ"
-  },
-  "2026-11-30|23:30|08:45+2|ATH+DOH": {
-   "date": "2026-11-30",
-   "dep": "23:30",
-   "duration": 1785,
-   "label": "30/11 ב׳ SKY express + Qatar 23:30→08:45+2",
-   "usd": 710.0,
-   "via": "ATH+DOH"
   },
   "2026-11-30|23:30|09:45+2|ATH+BAH": {
    "date": "2026-11-30",
    "dep": "23:30",
    "duration": 1845,
    "label": "30/11 ב׳ Sky Express + Gulf Air 23:30→09:45+2",
-   "usd": 507.3,
+   "usd": 503.98,
    "via": "ATH+BAH"
   },
   "2026-11-30|23:50|00:45+2|GYD+DXB": {
@@ -6177,52 +4577,12 @@
    "usd": 1307.75,
    "via": "OTP+DXB"
   },
-  "2026-12-01|00:45|21:55+0|ADD+DXB": {
-   "date": "2026-12-01",
-   "dep": "00:45",
-   "duration": 1060,
-   "label": "1/12 ג׳ Ethiopian + Emirates 00:45→21:55",
-   "usd": 1305.21,
-   "via": "ADD+DXB"
-  },
-  "2026-12-01|00:50|00:01+1|AUH+BKK": {
-   "date": "2026-12-01",
-   "dep": "00:50",
-   "duration": 1181,
-   "label": "1/12 ג׳ Etihad + THAI 00:50→00:01+1",
-   "usd": 5757.0,
-   "via": "AUH+BKK"
-  },
-  "2026-12-01|00:50|02:50+1|AUH": {
-   "date": "2026-12-01",
-   "dep": "00:50",
-   "duration": 1350,
-   "label": "1/12 ג׳ Etihad 00:50→02:50+1",
-   "usd": 1089.0,
-   "via": "AUH"
-  },
-  "2026-12-01|00:50|05:35+1|AUH+BOM": {
-   "date": "2026-12-01",
-   "dep": "00:50",
-   "duration": 1515,
-   "label": "1/12 ג׳ Etihad + SriLankan 00:50→05:35+1",
-   "usd": 4052.0,
-   "via": "AUH+BOM"
-  },
-  "2026-12-01|00:50|08:10+1|AUH": {
-   "date": "2026-12-01",
-   "dep": "00:50",
-   "duration": 1670,
-   "label": "1/12 ג׳ Etihad 00:50→08:10+1",
-   "usd": 1279.0,
-   "via": "AUH"
-  },
   "2026-12-01|00:50|14:50+0|AUH": {
    "date": "2026-12-01",
    "dep": "00:50",
    "duration": 630,
    "label": "1/12 ג׳ Etihad 00:50→14:50",
-   "usd": 821.0,
+   "usd": 2016.96,
    "via": "AUH"
   },
   "2026-12-01|00:50|20:15+0|AUH": {
@@ -6230,72 +4590,24 @@
    "dep": "00:50",
    "duration": 955,
    "label": "1/12 ג׳ Etihad 00:50→20:15",
-   "usd": 940.0,
+   "usd": 1238.87,
    "via": "AUH"
   },
-  "2026-12-01|00:50|22:50+0|AUH+MLE": {
-   "date": "2026-12-01",
-   "dep": "00:50",
-   "duration": 1110,
-   "label": "1/12 ג׳ Etihad + SriLankan 00:50→22:50",
-   "usd": 4102.0,
-   "via": "AUH+MLE"
-  },
-  "2026-12-01|00:50|23:20+0|AUH+BOM": {
-   "date": "2026-12-01",
-   "dep": "00:50",
-   "duration": 1140,
-   "label": "1/12 ג׳ Etihad + SriLankan 00:50→23:20",
-   "usd": 4052.0,
-   "via": "AUH+BOM"
-  },
-  "2026-12-01|00:50|23:35+0|AUH+KUL": {
-   "date": "2026-12-01",
-   "dep": "00:50",
-   "duration": 1155,
-   "label": "1/12 ג׳ Etihad + Malaysia 00:50→23:35",
-   "usd": 4644.0,
-   "via": "AUH+KUL"
-  },
-  "2026-12-01|01:10|01:50+2|MUC+WAW+SHJ": {
+  "2026-12-01|01:10|01:50+2|MUC+FCO+SHJ": {
    "date": "2026-12-01",
    "dep": "01:10",
    "duration": 2710,
    "label": "1/12 ג׳ Lufthansa + Air Arabia 01:10→01:50+2",
-   "usd": 744.87,
-   "via": "MUC+WAW+SHJ"
+   "usd": 596.77,
+   "via": "MUC+FCO+SHJ"
   },
-  "2026-12-01|01:10|02:50+1|MUC+WAW+AUH": {
+  "2026-12-01|01:10|07:55+1|MUC+FCO+IST": {
    "date": "2026-12-01",
    "dep": "01:10",
-   "duration": 1330,
-   "label": "1/12 ג׳ Lufthansa + Etihad 01:10→02:50+1",
-   "usd": 1522.93,
-   "via": "MUC+WAW+AUH"
-  },
-  "2026-12-01|01:10|04:30+1|MUC+WAW+SHJ": {
-   "date": "2026-12-01",
-   "dep": "01:10",
-   "duration": 1430,
-   "label": "1/12 ג׳ Lufthansa + Air Arabia 01:10→04:30+1",
-   "usd": 765.87,
-   "via": "MUC+WAW+SHJ"
-  },
-  "2026-12-01|01:10|08:10+1|MUC+WAW+AUH": {
-   "date": "2026-12-01",
-   "dep": "01:10",
-   "duration": 1650,
-   "label": "1/12 ג׳ Lufthansa + Etihad 01:10→08:10+1",
-   "usd": 1522.93,
-   "via": "MUC+WAW+AUH"
-  },
-  "2026-12-01|01:10|10:55+1|MUC+WAW+DEL": {
-   "date": "2026-12-01",
-   "dep": "01:10",
-   "duration": 1815,
-   "label": "1/12 ג׳ Lufthansa + Lot Polish + Air India 01:10→10:55+1",
-   "usd": 1727.39,
-   "via": "MUC+WAW+DEL"
+   "duration": 1635,
+   "label": "1/12 ג׳ Lufthansa + Turkish 01:10→07:55+1",
+   "usd": 1117.32,
+   "via": "MUC+FCO+IST"
   },
   "2026-12-01|05:15|01:55+1|FCO+DOH": {
    "date": "2026-12-01",
@@ -6304,38 +4616,6 @@
    "label": "1/12 ג׳ ITA + Qatar 05:15→01:55+1",
    "usd": 1178.97,
    "via": "FCO+DOH"
-  },
-  "2026-12-01|05:20|02:45+1|ATH+DOH": {
-   "date": "2026-12-01",
-   "dep": "05:20",
-   "duration": 1075,
-   "label": "1/12 ג׳ Aegean + Qatar 05:20→02:45+1",
-   "usd": 986.0,
-   "via": "ATH+DOH"
-  },
-  "2026-12-01|05:20|02:50+1|WAW+AUH": {
-   "date": "2026-12-01",
-   "dep": "05:20",
-   "duration": 1080,
-   "label": "1/12 ג׳ Lot Polish + Etihad 05:20→02:50+1",
-   "usd": 1417.94,
-   "via": "WAW+AUH"
-  },
-  "2026-12-01|05:20|05:50+1|ATH+DOH": {
-   "date": "2026-12-01",
-   "dep": "05:20",
-   "duration": 1260,
-   "label": "1/12 ג׳ Aegean + Qatar + SriLankan 05:20→05:50+1",
-   "usd": 986.0,
-   "via": "ATH+DOH"
-  },
-  "2026-12-01|05:20|08:10+1|WAW+AUH": {
-   "date": "2026-12-01",
-   "dep": "05:20",
-   "duration": 1400,
-   "label": "1/12 ג׳ Lot Polish + Etihad 05:20→08:10+1",
-   "usd": 1417.94,
-   "via": "WAW+AUH"
   },
   "2026-12-01|05:20|08:20+1|ATH+DXB": {
    "date": "2026-12-01",
@@ -6353,85 +4633,21 @@
    "usd": 1154.44,
    "via": "ZRH"
   },
-  "2026-12-01|05:20|08:45+1|ATH+DOH": {
-   "date": "2026-12-01",
-   "dep": "05:20",
-   "duration": 1435,
-   "label": "1/12 ג׳ Aegean + Qatar 05:20→08:45+1",
-   "usd": 986.0,
-   "via": "ATH+DOH"
-  },
-  "2026-12-01|05:20|19:20+1|ATH+DOH": {
-   "date": "2026-12-01",
-   "dep": "05:20",
-   "duration": 2070,
-   "label": "1/12 ג׳ Aegean + Qatar 05:20→19:20+1",
-   "usd": 988.0,
-   "via": "ATH+DOH"
-  },
-  "2026-12-01|05:35|08:10+1|CDG+BOM": {
-   "date": "2026-12-01",
-   "dep": "05:35",
-   "duration": 1385,
-   "label": "1/12 ג׳ El Al + Air France + IndiGo 05:35→08:10+1",
-   "usd": 2595.0,
-   "via": "CDG+BOM"
-  },
-  "2026-12-01|05:40|05:50+2|KRK+WAW+IST": {
-   "date": "2026-12-01",
-   "dep": "05:40",
-   "duration": 2680,
-   "label": "1/12 ג׳ Lot Polish + Turkish 05:40→05:50+2",
-   "usd": 1675.45,
-   "via": "KRK+WAW+IST"
-  },
-  "2026-12-01|06:00|04:30+1|WAW+SHJ": {
-   "date": "2026-12-01",
-   "dep": "06:00",
-   "duration": 1140,
-   "label": "1/12 ג׳ El Al Israel + Air Arabia 06:00→04:30+1",
-   "usd": 585.72,
-   "via": "WAW+SHJ"
-  },
-  "2026-12-01|06:20|02:50+1|AUH": {
-   "date": "2026-12-01",
-   "dep": "06:20",
-   "duration": 1020,
-   "label": "1/12 ג׳ Etihad 06:20→02:50+1",
-   "usd": 1079.0,
-   "via": "AUH"
-  },
-  "2026-12-01|06:20|05:35+1|AUH+BOM": {
-   "date": "2026-12-01",
-   "dep": "06:20",
-   "duration": 1185,
-   "label": "1/12 ג׳ Etihad + Akasa Air + SriLankan 06:20→05:35+1",
-   "usd": 4052.0,
-   "via": "AUH+BOM"
-  },
-  "2026-12-01|06:20|08:10+1|AUH": {
-   "date": "2026-12-01",
-   "dep": "06:20",
-   "duration": 1340,
-   "label": "1/12 ג׳ Etihad 06:20→08:10+1",
-   "usd": 1269.0,
-   "via": "AUH"
-  },
   "2026-12-01|06:20|20:15+0|AUH": {
    "date": "2026-12-01",
    "dep": "06:20",
    "duration": 625,
    "label": "1/12 ג׳ Etihad 06:20→20:15",
-   "usd": 811.0,
+   "usd": 1142.74,
    "via": "AUH"
   },
-  "2026-12-01|06:20|23:20+0|AUH+BOM": {
+  "2026-12-01|06:30|01:50+2|ATH+FCO+SHJ": {
    "date": "2026-12-01",
-   "dep": "06:20",
-   "duration": 810,
-   "label": "1/12 ג׳ Etihad + SriLankan 06:20→23:20",
-   "usd": 4052.0,
-   "via": "AUH+BOM"
+   "dep": "06:30",
+   "duration": 2390,
+   "label": "1/12 ג׳ Sky Express + Air Arabia 06:30→01:50+2",
+   "usd": 538.2,
+   "via": "ATH+FCO+SHJ"
   },
   "2026-12-01|06:30|01:50+2|ATH+SHJ": {
    "date": "2026-12-01",
@@ -6441,20 +4657,12 @@
    "usd": 497.3,
    "via": "ATH+SHJ"
   },
-  "2026-12-01|06:30|01:50+2|ATH+WAW+SHJ": {
-   "date": "2026-12-01",
-   "dep": "06:30",
-   "duration": 2390,
-   "label": "1/12 ג׳ Sky Express + Air Arabia 06:30→01:50+2",
-   "usd": 512.78,
-   "via": "ATH+WAW+SHJ"
-  },
   "2026-12-01|06:30|02:45+1|ATH+DOH": {
    "date": "2026-12-01",
    "dep": "06:30",
    "duration": 1005,
-   "label": "1/12 ג׳ SKY express + Qatar 06:30→02:45+1",
-   "usd": 720.0,
+   "label": "1/12 ג׳ Sky Express + Qatar 06:30→02:45+1",
+   "usd": 752.57,
    "via": "ATH+DOH"
   },
   "2026-12-01|06:30|04:30+1|ATH+SHJ": {
@@ -6462,63 +4670,39 @@
    "dep": "06:30",
    "duration": 1110,
    "label": "1/12 ג׳ Sky Express + Air Arabia 06:30→04:30+1",
-   "usd": 491.78,
+   "usd": 584.62,
    "via": "ATH+SHJ"
   },
-  "2026-12-01|06:30|05:50+1|ATH+DOH": {
+  "2026-12-01|06:30|07:55+1|ATH+FCO+IST": {
    "date": "2026-12-01",
    "dep": "06:30",
-   "duration": 1190,
-   "label": "1/12 ג׳ SKY express + Qatar + SriLankan 06:30→05:50+1",
-   "usd": 1080.0,
-   "via": "ATH+DOH"
+   "duration": 1315,
+   "label": "1/12 ג׳ Sky Express + Turkish 06:30→07:55+1",
+   "usd": 1066.48,
+   "via": "ATH+FCO+IST"
   },
   "2026-12-01|06:30|07:55+1|ATH+IST": {
    "date": "2026-12-01",
    "dep": "06:30",
    "duration": 1315,
    "label": "1/12 ג׳ Sky Express + Turkish 06:30→07:55+1",
-   "usd": 982.49,
+   "usd": 978.07,
    "via": "ATH+IST"
-  },
-  "2026-12-01|06:30|08:00+2|ATH+WAW+FRA+ZRH": {
-   "date": "2026-12-01",
-   "dep": "06:30",
-   "duration": 2760,
-   "label": "1/12 ג׳ Sky Express + Lufthansa 06:30→08:00+2",
-   "usd": 826.66,
-   "via": "ATH+WAW+FRA+ZRH"
-  },
-  "2026-12-01|06:30|08:45+1|ATH+DOH": {
-   "date": "2026-12-01",
-   "dep": "06:30",
-   "duration": 1365,
-   "label": "1/12 ג׳ SKY express + Qatar 06:30→08:45+1",
-   "usd": 793.0,
-   "via": "ATH+DOH"
   },
   "2026-12-01|06:30|09:45+1|ATH+BAH": {
    "date": "2026-12-01",
    "dep": "06:30",
    "duration": 1425,
    "label": "1/12 ג׳ Sky Express + Gulf Air 06:30→09:45+1",
-   "usd": 535.99,
+   "usd": 532.67,
    "via": "ATH+BAH"
-  },
-  "2026-12-01|06:30|10:55+1|ATH+WAW+DEL": {
-   "date": "2026-12-01",
-   "dep": "06:30",
-   "duration": 1495,
-   "label": "1/12 ג׳ Sky Express + Lot Polish + Air India 06:30→10:55+1",
-   "usd": 1517.41,
-   "via": "ATH+WAW+DEL"
   },
   "2026-12-01|06:40|04:30+1|ATH+SHJ": {
    "date": "2026-12-01",
    "dep": "06:40",
    "duration": 1100,
    "label": "1/12 ג׳ El Al Israel + Air Arabia 06:40→04:30+1",
-   "usd": 616.67,
+   "usd": 796.82,
    "via": "ATH+SHJ"
   },
   "2026-12-01|06:40|09:45+1|ATH+BAH": {
@@ -6526,40 +4710,8 @@
    "dep": "06:40",
    "duration": 1415,
    "label": "1/12 ג׳ El Al Israel + Gulf Air 06:40→09:45+1",
-   "usd": 661.98,
+   "usd": 748.19,
    "via": "ATH+BAH"
-  },
-  "2026-12-01|06:55|02:50+1|AUH": {
-   "date": "2026-12-01",
-   "dep": "06:55",
-   "duration": 985,
-   "label": "1/12 ג׳ Etihad 06:55→02:50+1",
-   "usd": 1089.0,
-   "via": "AUH"
-  },
-  "2026-12-01|06:55|04:10+1|AUH+DEL": {
-   "date": "2026-12-01",
-   "dep": "06:55",
-   "duration": 1065,
-   "label": "1/12 ג׳ Etihad + Air India 06:55→04:10+1",
-   "usd": 4679.0,
-   "via": "AUH+DEL"
-  },
-  "2026-12-01|06:55|05:35+1|AUH+BOM": {
-   "date": "2026-12-01",
-   "dep": "06:55",
-   "duration": 1150,
-   "label": "1/12 ג׳ Etihad + Akasa Air + SriLankan 06:55→05:35+1",
-   "usd": 4052.0,
-   "via": "AUH+BOM"
-  },
-  "2026-12-01|06:55|08:10+1|AUH": {
-   "date": "2026-12-01",
-   "dep": "06:55",
-   "duration": 1305,
-   "label": "1/12 ג׳ Etihad 06:55→08:10+1",
-   "usd": 1279.0,
-   "via": "AUH"
   },
   "2026-12-01|06:55|19:00+0|AUH+PVG": {
    "date": "2026-12-01",
@@ -6574,16 +4726,8 @@
    "dep": "06:55",
    "duration": 590,
    "label": "1/12 ג׳ Etihad 06:55→20:15",
-   "usd": 821.0,
+   "usd": 2016.96,
    "via": "AUH"
-  },
-  "2026-12-01|06:55|23:20+0|AUH+BOM": {
-   "date": "2026-12-01",
-   "dep": "06:55",
-   "duration": 775,
-   "label": "1/12 ג׳ Etihad + SriLankan 06:55→23:20",
-   "usd": 4052.0,
-   "via": "AUH+BOM"
   },
   "2026-12-01|07:00|08:15+1|OTP+DXB": {
    "date": "2026-12-01",
@@ -6601,20 +4745,28 @@
    "usd": 1758.27,
    "via": "FRA+ZRH"
   },
-  "2026-12-01|10:15|05:55+1|ATH+IST": {
+  "2026-12-01|07:50|01:50+2|FCO+SHJ": {
    "date": "2026-12-01",
-   "dep": "10:15",
-   "duration": 970,
-   "label": "1/12 ג׳ Blue Bird + Turkish 10:15→05:55+1",
-   "usd": 1067.59,
-   "via": "ATH+IST"
+   "dep": "07:50",
+   "duration": 2310,
+   "label": "1/12 ג׳ Arkia + Air Arabia 07:50→01:50+2",
+   "usd": 619.98,
+   "via": "FCO+SHJ"
+  },
+  "2026-12-01|07:50|07:55+1|FCO+IST": {
+   "date": "2026-12-01",
+   "dep": "07:50",
+   "duration": 1235,
+   "label": "1/12 ג׳ Arkia + Turkish 07:50→07:55+1",
+   "usd": 1138.32,
+   "via": "FCO+IST"
   },
   "2026-12-01|10:15|07:55+1|ATH+IST": {
    "date": "2026-12-01",
    "dep": "10:15",
    "duration": 1090,
    "label": "1/12 ג׳ Blue Bird + Turkish 10:15→07:55+1",
-   "usd": 951.54,
+   "usd": 995.75,
    "via": "ATH+IST"
   },
   "2026-12-01|10:15|09:45+1|ATH+BAH": {
@@ -6622,7 +4774,7 @@
    "dep": "10:15",
    "duration": 1200,
    "label": "1/12 ג׳ Blue Bird + Gulf Air 10:15→09:45+1",
-   "usd": 495.1,
+   "usd": 551.46,
    "via": "ATH+BAH"
   },
   "2026-12-01|10:30|04:10+1|DEL": {
@@ -6649,76 +4801,36 @@
    "usd": 1307.75,
    "via": "WAW+DXB"
   },
-  "2026-12-01|10:45|01:50+2|WAW+SHJ": {
+  "2026-12-01|11:05|01:50+2|FCO+SHJ": {
    "date": "2026-12-01",
-   "dep": "10:45",
-   "duration": 2135,
-   "label": "1/12 ג׳ Lot Polish + Air Arabia 10:45→01:50+2",
-   "usd": 632.14,
-   "via": "WAW+SHJ"
+   "dep": "11:05",
+   "duration": 2115,
+   "label": "1/12 ג׳ Wizz Air Malta + Air Arabia 11:05→01:50+2",
+   "usd": 507.25,
+   "via": "FCO+SHJ"
   },
-  "2026-12-01|10:45|08:00+2|WAW+FRA+ZRH": {
+  "2026-12-01|11:50|05:55+1|ATH+IST": {
    "date": "2026-12-01",
-   "dep": "10:45",
-   "duration": 2505,
-   "label": "1/12 ג׳ Lot Polish + Lufthansa 10:45→08:00+2",
-   "usd": 930.55,
-   "via": "WAW+FRA+ZRH"
-  },
-  "2026-12-01|10:45|10:55+1|WAW+DEL": {
-   "date": "2026-12-01",
-   "dep": "10:45",
-   "duration": 1240,
-   "label": "1/12 ג׳ Lot Polish + Air India 10:45→10:55+1",
-   "usd": 1621.3,
-   "via": "WAW+DEL"
+   "dep": "11:50",
+   "duration": 875,
+   "label": "1/12 ג׳ Arkia + Turkish 11:50→05:55+1",
+   "usd": 1088.61,
+   "via": "ATH+IST"
   },
   "2026-12-01|11:50|07:55+1|ATH+IST": {
    "date": "2026-12-01",
    "dep": "11:50",
    "duration": 995,
    "label": "1/12 ג׳ Arkia + Turkish 11:50→07:55+1",
-   "usd": 968.12,
+   "usd": 963.7,
    "via": "ATH+IST"
-  },
-  "2026-12-01|11:50|08:20+1|ATH+DXB": {
-   "date": "2026-12-01",
-   "dep": "11:50",
-   "duration": 1020,
-   "label": "1/12 ג׳ Arkia + Emirates 11:50→08:20+1",
-   "usd": 2777.0,
-   "via": "ATH+DXB"
-  },
-  "2026-12-01|11:50|10:15+1|ATH+DXB+MLE": {
-   "date": "2026-12-01",
-   "dep": "11:50",
-   "duration": 1135,
-   "label": "1/12 ג׳ Arkia + Emirates + flydubai 11:50→10:15+1",
-   "usd": 2777.0,
-   "via": "ATH+DXB+MLE"
-  },
-  "2026-12-01|11:55|08:20+1|LCA+DXB": {
-   "date": "2026-12-01",
-   "dep": "11:55",
-   "duration": 1015,
-   "label": "1/12 ג׳ Arkia + Emirates 11:55→08:20+1",
-   "usd": 2349.0,
-   "via": "LCA+DXB"
-  },
-  "2026-12-01|11:55|18:45+1|LCA+DXB": {
-   "date": "2026-12-01",
-   "dep": "11:55",
-   "duration": 1640,
-   "label": "1/12 ג׳ Arkia + Emirates 11:55→18:45+1",
-   "usd": 2349.0,
-   "via": "LCA+DXB"
   },
   "2026-12-01|12:50|08:00+2|ATH+MUC+ZRH": {
    "date": "2026-12-01",
    "dep": "12:50",
    "duration": 2380,
    "label": "1/12 ג׳ Wizz Air Malta + Lufthansa 12:50→08:00+2",
-   "usd": 1026.7,
+   "usd": 1034.43,
    "via": "ATH+MUC+ZRH"
   },
   "2026-12-01|13:30|00:45+2|GYD+DXB": {
@@ -6729,36 +4841,12 @@
    "usd": 2419.01,
    "via": "GYD+DXB"
   },
-  "2026-12-01|13:30|08:20+1|LCA+DXB": {
-   "date": "2026-12-01",
-   "dep": "13:30",
-   "duration": 920,
-   "label": "1/12 ג׳ El Al + Emirates 13:30→08:20+1",
-   "usd": 2331.0,
-   "via": "LCA+DXB"
-  },
-  "2026-12-01|13:30|18:45+1|LCA+DXB": {
-   "date": "2026-12-01",
-   "dep": "13:30",
-   "duration": 1545,
-   "label": "1/12 ג׳ El Al + Emirates 13:30→18:45+1",
-   "usd": 2331.0,
-   "via": "LCA+DXB"
-  },
   "2026-12-01|14:00|02:50+1|AUH": {
    "date": "2026-12-01",
    "dep": "14:00",
    "duration": 560,
    "label": "1/12 ג׳ Etihad 14:00→02:50+1",
-   "usd": 1094.0,
-   "via": "AUH"
-  },
-  "2026-12-01|14:00|02:50+2|AUH": {
-   "date": "2026-12-01",
-   "dep": "14:00",
-   "duration": 2000,
-   "label": "1/12 ג׳ Etihad 14:00→02:50+2",
-   "usd": 4076.0,
+   "usd": 2022.48,
    "via": "AUH"
   },
   "2026-12-01|14:00|08:10+1|AUH": {
@@ -6768,22 +4856,6 @@
    "label": "1/12 ג׳ Etihad 14:00→08:10+1",
    "usd": 1051.68,
    "via": "AUH"
-  },
-  "2026-12-01|14:00|08:10+2|AUH": {
-   "date": "2026-12-01",
-   "dep": "14:00",
-   "duration": 2320,
-   "label": "1/12 ג׳ Etihad 14:00→08:10+2",
-   "usd": 4076.0,
-   "via": "AUH"
-  },
-  "2026-12-01|14:00|17:30+1|AUH+MLE": {
-   "date": "2026-12-01",
-   "dep": "14:00",
-   "duration": 1440,
-   "label": "1/12 ג׳ Etihad + SriLankan 14:00→17:30+1",
-   "usd": 4102.0,
-   "via": "AUH+MLE"
   },
   "2026-12-01|14:00|20:15+1|AUH": {
    "date": "2026-12-01",
@@ -6798,64 +4870,16 @@
    "dep": "14:25",
    "duration": 535,
    "label": "1/12 ג׳ Etihad 14:25→02:50+1",
-   "usd": 1104.0,
+   "usd": 1168.16,
    "via": "AUH"
   },
-  "2026-12-01|14:25|02:50+2|AUH": {
-   "date": "2026-12-01",
-   "dep": "14:25",
-   "duration": 1975,
-   "label": "1/12 ג׳ Etihad 14:25→02:50+2",
-   "usd": 4076.0,
-   "via": "AUH"
-  },
-  "2026-12-01|14:25|08:10+1|AUH": {
-   "date": "2026-12-01",
-   "dep": "14:25",
-   "duration": 855,
-   "label": "1/12 ג׳ Etihad 14:25→08:10+1",
-   "usd": 1294.0,
-   "via": "AUH"
-  },
-  "2026-12-01|14:25|08:10+2|AUH": {
-   "date": "2026-12-01",
-   "dep": "14:25",
-   "duration": 2295,
-   "label": "1/12 ג׳ Etihad 14:25→08:10+2",
-   "usd": 4076.0,
-   "via": "AUH"
-  },
-  "2026-12-01|14:25|17:30+1|AUH+MLE": {
-   "date": "2026-12-01",
-   "dep": "14:25",
-   "duration": 1415,
-   "label": "1/12 ג׳ Etihad + SriLankan 14:25→17:30+1",
-   "usd": 4102.0,
-   "via": "AUH+MLE"
-  },
-  "2026-12-01|14:25|20:15+1|AUH": {
-   "date": "2026-12-01",
-   "dep": "14:25",
-   "duration": 1580,
-   "label": "1/12 ג׳ Etihad 14:25→20:15+1",
-   "usd": 1104.0,
-   "via": "AUH"
-  },
-  "2026-12-01|14:25|22:50+1|AUH+MLE": {
-   "date": "2026-12-01",
-   "dep": "14:25",
-   "duration": 1735,
-   "label": "1/12 ג׳ Etihad + SriLankan 14:25→22:50+1",
-   "usd": 4102.0,
-   "via": "AUH+MLE"
-  },
-  "2026-12-01|14:30|09:45+2|FCO+BAH+MLE": {
+  "2026-12-01|14:30|01:50+2|FCO+SHJ": {
    "date": "2026-12-01",
    "dep": "14:30",
-   "duration": 2385,
-   "label": "1/12 ג׳ ITA + Gulf Air 14:30→09:45+2",
-   "usd": 2984.0,
-   "via": "FCO+BAH+MLE"
+   "duration": 1910,
+   "label": "1/12 ג׳ ITA + Air Arabia 14:30→01:50+2",
+   "usd": 652.03,
+   "via": "FCO+SHJ"
   },
   "2026-12-01|14:30|13:45+1|ATH+SHJ": {
    "date": "2026-12-01",
@@ -6864,62 +4888,6 @@
    "label": "1/12 ג׳ Bluebird Aviation + Air Arabia 14:30→13:45+1",
    "usd": 638.44,
    "via": "ATH+SHJ"
-  },
-  "2026-12-01|15:40|02:50+2|VIE+WAW+AUH": {
-   "date": "2026-12-01",
-   "dep": "15:40",
-   "duration": 1900,
-   "label": "1/12 ג׳ Austrian + Etihad 15:40→02:50+2",
-   "usd": 1375.94,
-   "via": "VIE+WAW+AUH"
-  },
-  "2026-12-01|15:40|04:30+2|VIE+WAW+SHJ": {
-   "date": "2026-12-01",
-   "dep": "15:40",
-   "duration": 2000,
-   "label": "1/12 ג׳ Austrian + Air Arabia 15:40→04:30+2",
-   "usd": 1022.28,
-   "via": "VIE+WAW+SHJ"
-  },
-  "2026-12-01|15:40|07:55+2|VIE+WAW+IST": {
-   "date": "2026-12-01",
-   "dep": "15:40",
-   "duration": 2205,
-   "label": "1/12 ג׳ Austrian + Turkish 15:40→07:55+2",
-   "usd": 1698.66,
-   "via": "VIE+WAW+IST"
-  },
-  "2026-12-01|15:40|08:00+2|VIE+WAW+ZRH": {
-   "date": "2026-12-01",
-   "dep": "15:40",
-   "duration": 2210,
-   "label": "1/12 ג׳ Austrian + Swiss International 15:40→08:00+2",
-   "usd": 1128.38,
-   "via": "VIE+WAW+ZRH"
-  },
-  "2026-12-01|15:40|13:45+2|VIE+WAW+SHJ": {
-   "date": "2026-12-01",
-   "dep": "15:40",
-   "duration": 2555,
-   "label": "1/12 ג׳ Austrian + Air Arabia 15:40→13:45+2",
-   "usd": 1017.86,
-   "via": "VIE+WAW+SHJ"
-  },
-  "2026-12-01|15:40|17:30+2|VIE+MLE": {
-   "date": "2026-12-01",
-   "dep": "15:40",
-   "duration": 2780,
-   "label": "1/12 ג׳ Austrian + SriLankan 15:40→17:30+2",
-   "usd": 1240.0,
-   "via": "VIE+MLE"
-  },
-  "2026-12-01|15:40|22:50+2|VIE+MLE": {
-   "date": "2026-12-01",
-   "dep": "15:40",
-   "duration": 3100,
-   "label": "1/12 ג׳ Austrian + SriLankan 15:40→22:50+2",
-   "usd": 1240.0,
-   "via": "VIE+MLE"
   },
   "2026-12-01|16:35|08:00+1|FRA+ZRH": {
    "date": "2026-12-01",
@@ -6934,71 +4902,95 @@
    "dep": "17:10",
    "duration": 1810,
    "label": "1/12 ג׳ Lufthansa + Etihad 17:10→02:50+2",
-   "usd": 812.29,
+   "usd": 733.82,
    "via": "MUC+ATH+AUH"
+  },
+  "2026-12-01|17:10|02:50+2|MUC+FCO+AUH": {
+   "date": "2026-12-01",
+   "dep": "17:10",
+   "duration": 1810,
+   "label": "1/12 ג׳ Lufthansa + Etihad 17:10→02:50+2",
+   "usd": 1106.27,
+   "via": "MUC+FCO+AUH"
   },
   "2026-12-01|17:10|04:30+2|MUC+ATH+SHJ": {
    "date": "2026-12-01",
    "dep": "17:10",
    "duration": 1910,
    "label": "1/12 ג׳ Lufthansa + Air Arabia 17:10→04:30+2",
-   "usd": 574.67,
+   "usd": 591.25,
    "via": "MUC+ATH+SHJ"
+  },
+  "2026-12-01|17:10|04:30+2|MUC+FCO+SHJ": {
+   "date": "2026-12-01",
+   "dep": "17:10",
+   "duration": 1910,
+   "label": "1/12 ג׳ Lufthansa + Air Arabia 17:10→04:30+2",
+   "usd": 618.88,
+   "via": "MUC+FCO+SHJ"
   },
   "2026-12-01|17:10|07:55+2|MUC+ATH+IST": {
    "date": "2026-12-01",
    "dep": "17:10",
    "duration": 2115,
    "label": "1/12 ג׳ Lufthansa + Turkish 17:10→07:55+2",
-   "usd": 1073.12,
+   "usd": 1089.69,
    "via": "MUC+ATH+IST"
+  },
+  "2026-12-01|17:10|07:55+2|MUC+FCO+IST": {
+   "date": "2026-12-01",
+   "dep": "17:10",
+   "duration": 2115,
+   "label": "1/12 ג׳ Lufthansa + Turkish 17:10→07:55+2",
+   "usd": 1132.8,
+   "via": "MUC+FCO+IST"
+  },
+  "2026-12-01|17:10|08:00+2|MUC+FCO+ZRH": {
+   "date": "2026-12-01",
+   "dep": "17:10",
+   "duration": 2120,
+   "label": "1/12 ג׳ Lufthansa + Swiss International 17:10→08:00+2",
+   "usd": 943.81,
+   "via": "MUC+FCO+ZRH"
   },
   "2026-12-01|17:10|08:10+2|MUC+ATH+BOM": {
    "date": "2026-12-01",
    "dep": "17:10",
    "duration": 2130,
    "label": "1/12 ג׳ Lufthansa + IndiGo 17:10→08:10+2",
-   "usd": 673.03,
+   "usd": 727.19,
    "via": "MUC+ATH+BOM"
+  },
+  "2026-12-01|17:10|09:45+2|MUC+FCO+BAH": {
+   "date": "2026-12-01",
+   "dep": "17:10",
+   "duration": 2225,
+   "label": "1/12 ג׳ Lufthansa + Gulf Air 17:10→09:45+2",
+   "usd": 896.28,
+   "via": "MUC+FCO+BAH"
   },
   "2026-12-01|17:10|13:45+2|MUC+ATH+SHJ": {
    "date": "2026-12-01",
    "dep": "17:10",
    "duration": 2465,
    "label": "1/12 ג׳ Lufthansa + Air Arabia 17:10→13:45+2",
-   "usd": 571.36,
+   "usd": 586.83,
    "via": "MUC+ATH+SHJ"
   },
-  "2026-12-01|17:10|18:25+1|MUC+DXB+MLE": {
+  "2026-12-01|17:10|13:45+2|MUC+FCO+SHJ": {
    "date": "2026-12-01",
    "dep": "17:10",
-   "duration": 1305,
-   "label": "1/12 ג׳ Lufthansa + Emirates 17:10→18:25+1",
-   "usd": 4501.0,
-   "via": "MUC+DXB+MLE"
-  },
-  "2026-12-01|17:10|18:45+1|MUC+DXB": {
-   "date": "2026-12-01",
-   "dep": "17:10",
-   "duration": 1325,
-   "label": "1/12 ג׳ Lufthansa + Emirates 17:10→18:45+1",
-   "usd": 4501.0,
-   "via": "MUC+DXB"
-  },
-  "2026-12-01|17:10|21:55+1|MUC+DXB": {
-   "date": "2026-12-01",
-   "dep": "17:10",
-   "duration": 1515,
-   "label": "1/12 ג׳ Lufthansa + Emirates 17:10→21:55+1",
-   "usd": 4501.0,
-   "via": "MUC+DXB"
+   "duration": 2465,
+   "label": "1/12 ג׳ Lufthansa + Air Arabia 17:10→13:45+2",
+   "usd": 614.48,
+   "via": "MUC+FCO+SHJ"
   },
   "2026-12-01|19:10|02:45+2|ATH+DOH": {
    "date": "2026-12-01",
    "dep": "19:10",
    "duration": 1685,
    "label": "1/12 ג׳ Aegean + Qatar 19:10→02:45+2",
-   "usd": 560.0,
+   "usd": 752.09,
    "via": "ATH+DOH"
   },
   "2026-12-01|19:10|02:50+2|ATH+AUH": {
@@ -7006,7 +4998,7 @@
    "dep": "19:10",
    "duration": 1690,
    "label": "1/12 ג׳ Aegean + Etihad 19:10→02:50+2",
-   "usd": 768.08,
+   "usd": 673.03,
    "via": "ATH+AUH"
   },
   "2026-12-01|19:10|04:30+2|ATH+SHJ": {
@@ -7014,23 +5006,15 @@
    "dep": "19:10",
    "duration": 1790,
    "label": "1/12 ג׳ Aegean + Air Arabia 19:10→04:30+2",
-   "usd": 526.04,
+   "usd": 522.73,
    "via": "ATH+SHJ"
-  },
-  "2026-12-01|19:10|05:50+2|ATH+DOH": {
-   "date": "2026-12-01",
-   "dep": "19:10",
-   "duration": 1870,
-   "label": "1/12 ג׳ Aegean + Qatar + SriLankan 19:10→05:50+2",
-   "usd": 881.0,
-   "via": "ATH+DOH"
   },
   "2026-12-01|19:10|07:55+2|ATH+IST": {
    "date": "2026-12-01",
    "dep": "19:10",
    "duration": 1995,
    "label": "1/12 ג׳ Aegean + Turkish 19:10→07:55+2",
-   "usd": 1030.01,
+   "usd": 1026.7,
    "via": "ATH+IST"
   },
   "2026-12-01|19:10|08:10+2|ATH+BOM": {
@@ -7038,63 +5022,23 @@
    "dep": "19:10",
    "duration": 2010,
    "label": "1/12 ג׳ Aegean + IndiGo 19:10→08:10+2",
-   "usd": 625.51,
+   "usd": 667.51,
    "via": "ATH+BOM"
-  },
-  "2026-12-01|19:10|08:45+2|ATH+DOH": {
-   "date": "2026-12-01",
-   "dep": "19:10",
-   "duration": 2045,
-   "label": "1/12 ג׳ Aegean + Qatar 19:10→08:45+2",
-   "usd": 606.0,
-   "via": "ATH+DOH"
   },
   "2026-12-01|19:10|13:45+2|ATH+SHJ": {
    "date": "2026-12-01",
    "dep": "19:10",
    "duration": 2345,
    "label": "1/12 ג׳ Aegean + Air Arabia 19:10→13:45+2",
-   "usd": 520.52,
+   "usd": 517.2,
    "via": "ATH+SHJ"
-  },
-  "2026-12-01|19:20|02:50+2|AUH": {
-   "date": "2026-12-01",
-   "dep": "19:20",
-   "duration": 1680,
-   "label": "1/12 ג׳ Etihad 19:20→02:50+2",
-   "usd": 1955.0,
-   "via": "AUH"
   },
   "2026-12-01|19:20|08:10+1|AUH": {
    "date": "2026-12-01",
    "dep": "19:20",
    "duration": 560,
    "label": "1/12 ג׳ Etihad 19:20→08:10+1",
-   "usd": 1955.0,
-   "via": "AUH"
-  },
-  "2026-12-01|19:20|08:10+2|AUH": {
-   "date": "2026-12-01",
-   "dep": "19:20",
-   "duration": 2000,
-   "label": "1/12 ג׳ Etihad 19:20→08:10+2",
-   "usd": 6916.0,
-   "via": "AUH"
-  },
-  "2026-12-01|19:20|18:15+1|AUH+DEL": {
-   "date": "2026-12-01",
-   "dep": "19:20",
-   "duration": 1165,
-   "label": "1/12 ג׳ Etihad + Air India 19:20→18:15+1",
-   "usd": 4679.0,
-   "via": "AUH+DEL"
-  },
-  "2026-12-01|19:20|20:15+1|AUH": {
-   "date": "2026-12-01",
-   "dep": "19:20",
-   "duration": 1285,
-   "label": "1/12 ג׳ Etihad 19:20→20:15+1",
-   "usd": 1955.0,
+   "usd": 2012.54,
    "via": "AUH"
   },
   "2026-12-01|19:20|22:50+1|AUH": {
@@ -7105,63 +5049,71 @@
    "usd": 938.36,
    "via": "AUH"
   },
-  "2026-12-01|19:20|22:50+1|AUH+MLE": {
+  "2026-12-01|19:35|02:50+2|FCO+AUH": {
    "date": "2026-12-01",
-   "dep": "19:20",
-   "duration": 1440,
-   "label": "1/12 ג׳ Etihad + SriLankan 19:20→22:50+1",
-   "usd": 4102.0,
-   "via": "AUH+MLE"
+   "dep": "19:35",
+   "duration": 1665,
+   "label": "1/12 ג׳ Wizz Air Malta + Etihad 19:35→02:50+2",
+   "usd": 996.86,
+   "via": "FCO+AUH"
   },
-  "2026-12-01|19:20|23:20+1|AUH+BOM": {
+  "2026-12-01|19:35|04:30+2|FCO+SHJ": {
    "date": "2026-12-01",
-   "dep": "19:20",
-   "duration": 1470,
-   "label": "1/12 ג׳ Etihad + SriLankan 19:20→23:20+1",
-   "usd": 4052.0,
-   "via": "AUH+BOM"
+   "dep": "19:35",
+   "duration": 1765,
+   "label": "1/12 ג׳ Wizz Air Malta + Air Arabia 19:35→04:30+2",
+   "usd": 499.52,
+   "via": "FCO+SHJ"
   },
-  "2026-12-01|21:40|00:01+2|BKK": {
+  "2026-12-01|19:35|07:55+2|FCO+IST": {
    "date": "2026-12-01",
-   "dep": "21:40",
-   "duration": 1371,
-   "label": "1/12 ג׳ El Al + THAI 21:40→00:01+2",
-   "usd": 2028.0,
-   "via": "BKK"
+   "dep": "19:35",
+   "duration": 1970,
+   "label": "1/12 ג׳ Wizz Air Malta + Turkish 19:35→07:55+2",
+   "usd": 1025.59,
+   "via": "FCO+IST"
+  },
+  "2026-12-01|19:35|08:00+2|FCO+ZRH": {
+   "date": "2026-12-01",
+   "dep": "19:35",
+   "duration": 1975,
+   "label": "1/12 ג׳ Wizz Air Malta + Swiss International 19:35→08:00+2",
+   "usd": 838.81,
+   "via": "FCO+ZRH"
+  },
+  "2026-12-01|19:35|09:45+2|FCO+BAH": {
+   "date": "2026-12-01",
+   "dep": "19:35",
+   "duration": 2080,
+   "label": "1/12 ג׳ Wizz Air Malta + Gulf Air 19:35→09:45+2",
+   "usd": 791.3,
+   "via": "FCO+BAH"
+  },
+  "2026-12-01|19:35|13:45+2|FCO+SHJ": {
+   "date": "2026-12-01",
+   "dep": "19:35",
+   "duration": 2320,
+   "label": "1/12 ג׳ Wizz Air Malta + Air Arabia 19:35→13:45+2",
+   "usd": 495.1,
+   "via": "FCO+SHJ"
   },
   "2026-12-01|21:40|17:20+1|BKK": {
    "date": "2026-12-01",
    "dep": "21:40",
    "duration": 970,
-   "label": "1/12 ג׳ El Al + SriLankan 21:40→17:20+1",
-   "usd": 2070.0,
+   "label": "1/12 ג׳ El Al Israel + Srilankan 21:40→17:20+1",
+   "usd": 1644.5,
    "via": "BKK"
-  },
-  "2026-12-01|23:35|00:01+2|BKK": {
-   "date": "2026-12-01",
-   "dep": "23:35",
-   "duration": 1256,
-   "label": "1/12 ג׳ El Al Israel + Thai Airways International 23:35→00:01+2",
-   "usd": 1283.1,
-   "via": "BKK"
-  },
-  "2026-12-01|23:50|00:45+2|GYD+DXB": {
-   "date": "2026-12-01",
-   "dep": "23:50",
-   "duration": 1285,
-   "label": "1/12 ג׳ Azerbaijan + flydubai 23:50→00:45+2",
-   "usd": 2438.0,
-   "via": "GYD+DXB"
   }
  },
  "per_date": {
   "2026-11-25": 497.3,
   "2026-11-26": 529.0,
   "2026-11-27": 497.3,
-  "2026-11-28": 444.26,
-  "2026-11-29": 432.1,
-  "2026-11-30": 463.05,
-  "2026-12-01": 491.78
+  "2026-11-28": 442.05,
+  "2026-11-29": 497.3,
+  "2026-11-30": 468.57,
+  "2026-12-01": 495.1
  },
- "run_at": "2026-11-15T13:10+00:00"
+ "run_at": "2026-11-16T14:15+00:00"
 }
